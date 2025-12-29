@@ -1,0 +1,2673 @@
+ID,marca,modelo,fecha,tipo_cambio,total_km,tipo_combustible,consumo,tipo_motor,tasa,precio
+12000,merc,GLS Class,2017,Automatic,12046,Diesel,6.32,3.0,150.0,38000
+12001,vw,Amarok,2017,Automatic,37683,Diesel,6.5,3.0,260.0,23495
+12004,merc,GLS Class,2019,Automatic,10000,Diesel,6.92,3.0,145.0,59999
+12013,skoda,Scala,2019,Manual,3257,Petrol,4.74,1.0,145.0,16713
+12017,audi,RS6,2015,Semi-Auto,20982,Petrol,8.0,4.0,325.0,46000
+12019,vauxhall,Combo Life,2020,Semi-Auto,1950,Petrol,5.82,1.2,145.0,24995
+12020,merc,GL Class,2016,Manual,26809,Diesel,3.5,2.1,20.0,15699
+12024,merc,CLS Class,2015,Semi-Auto,33087,Diesel,4.58,3.0,165.0,20498
+12027,toyota,Prius,2019,Automatic,4793,Hybrid,3.66,1.8,140.0,23995
+12028,vw,Amarok,2020,Automatic,5000,Diesel,7.0,3.0,265.0,34995
+12029,vw,Amarok,2019,Automatic,12023,Diesel,8.31,3.0,260.0,32888
+12034,vw,Tiguan Allspace,2019,Semi-Auto,6515,Petrol,6.57,1.5,145.0,29990
+12040,audi,RS6,2016,Automatic,41854,Petrol,8.0,4.0,325.0,49500
+12041,merc,S Class,2018,Semi-Auto,39203,Diesel,4.5,3.0,145.0,34999
+12042,vw,Beetle,2016,Manual,35345,Diesel,3.83,2.0,30.0,10990
+12043,ford,Edge,2019,Automatic,10,Diesel,6.32,2.0,145.0,33000
+12046,vw,Amarok,2020,Automatic,10000,Diesel,8.49,3.0,265.0,44980
+12047,audi,RS3,2015,Automatic,15016,Petrol,6.74,2.5,300.0,28985
+12048,ford,Fusion,2008,Automatic,66000,Petrol,6.32,1.6,260.0,2750
+12049,bmw,7 Series,2008,Automatic,70500,Diesel,6.66,3.0,325.0,6480
+12052,ford,Galaxy,2019,Semi-Auto,3763,Diesel,4.33,2.0,145.0,27500
+12054,toyota,Prius,2019,Automatic,4605,Hybrid,3.83,1.8,140.0,23490
+12056,merc,S Class,2015,Semi-Auto,34434,Diesel,4.83,3.0,200.0,26498
+12060,bmw,6 Series,2017,Semi-Auto,3546,Diesel,4.83,3.0,145.0,32023
+12064,merc,S Class,2019,Semi-Auto,2500,Diesel,4.5,3.0,145.0,55649
+12069,hyundi,Santa Fe,2019,Semi-Auto,3920,Diesel,6.0,2.2,145.0,32995
+12071,bmw,M5,2019,Semi-Auto,2269,Petrol,9.76,4.4,145.0,89900
+12073,ford,Edge,2019,Automatic,21457,Diesel,6.32,2.0,145.0,30000
+12076,ford,Edge,2019,Automatic,10,Diesel,6.32,2.0,145.0,30990
+12081,ford,Grand C-MAX,2017,Manual,16509,Petrol,4.33,1.0,30.0,12000
+12082,bmw,6 Series,2016,Automatic,37868,Diesel,4.58,3.0,160.0,18737
+12083,toyota,Prius,2017,Automatic,8943,Hybrid,2.5,1.8,0.0,20995
+12088,hyundi,IX20,2017,Manual,32663,Diesel,3.66,1.6,30.0,8769
+12091,toyota,Hilux,2016,Manual,28521,Diesel,5.82,2.4,260.0,19990
+12095,merc,GL Class,2018,Manual,15202,Petrol,4.83,1.6,145.0,19399
+12096,merc,X-CLASS,2018,Manual,14243,Diesel,6.32,2.3,260.0,18991
+12100,bmw,X4,2016,Semi-Auto,13005,Diesel,4.33,2.0,145.0,26995
+12102,ford,Puma,2020,Manual,1543,Petrol,4.67,1.0,145.0,21495
+12103,merc,S Class,2018,Semi-Auto,3796,Petrol,7.42,4.0,145.0,104400
+12116,ford,Edge,2019,Automatic,12607,Diesel,6.32,2.0,145.0,32000
+12119,bmw,X7,2019,Semi-Auto,5600,Diesel,7.0,3.0,150.0,67400
+12122,toyota,Avensis,2016,Manual,41257,Diesel,3.5,1.6,20.0,8420
+12129,ford,Grand C-MAX,2016,Manual,36706,Diesel,3.83,2.0,30.0,12295
+12133,ford,Edge,2018,Semi-Auto,3420,Diesel,6.32,2.0,145.0,29000
+12136,toyota,Land Cruiser,2020,Semi-Auto,3390,Diesel,7.81,2.8,145.0,50995
+12138,skoda,Kamiq,2019,Automatic,3985,Petrol,5.33,1.5,145.0,21995
+12141,audi,A8,2018,Automatic,10296,Diesel,4.67,3.0,145.0,37000
+12142,vw,Shuttle,2018,Manual,9289,Diesel,5.08,2.0,145.0,21999
+12151,vw,CC,2015,Manual,36602,Diesel,3.75,2.0,30.0,11292
+12153,vw,Scirocco,2017,Manual,20491,Diesel,4.25,2.0,20.0,14881
+12155,bmw,M2,2019,Automatic,2689,Petrol,8.08,3.0,145.0,43480
+12158,ford,Puma,2019,Manual,2233,Petrol,4.58,1.0,145.0,18990
+12160,hyundi,I800,2017,Automatic,41469,Diesel,7.0,2.5,145.0,13500
+12166,toyota,Hilux,2020,Automatic,1259,Diesel,,2.4,265.0,39257
+12167,vw,Arteon,2018,Semi-Auto,23000,Diesel,4.25,2.0,145.0,22490
+12173,audi,A7,2017,Semi-Auto,56460,Diesel,4.5,3.0,160.0,21500
+12179,ford,Galaxy,2016,Manual,16407,Diesel,4.16,2.0,125.0,17000
+12180,skoda,Kamiq,2020,Automatic,228,Petrol,5.33,1.5,145.0,18990
+12181,hyundi,I40,2019,Manual,10,Diesel,4.5,1.6,145.0,16500
+12182,audi,A7,2011,Semi-Auto,72000,Petrol,6.84,3.0,300.0,12950
+12183,skoda,Yeti,2013,Semi-Auto,38000,Petrol,5.33,1.2,165.0,8495
+12184,hyundi,IX35,2013,Manual,25892,Diesel,4.83,1.7,145.0,8799
+12186,bmw,X4,2020,Automatic,5000,Diesel,5.75,3.0,145.0,44495
+12187,ford,Edge,2017,Manual,19726,Diesel,4.83,2.0,160.0,20479
+12191,merc,V Class,2018,Automatic,3067,Diesel,5.25,2.2,145.0,42134
+12193,ford,Mustang,2016,Automatic,18500,Petrol,10.01,5.0,570.0,28490
+12196,merc,GL Class,2016,Automatic,16489,Diesel,4.16,2.1,125.0,19699
+12199,ford,Grand C-MAX,2017,Manual,31976,Diesel,3.83,2.0,30.0,13299
+12201,bmw,Z4,2019,Automatic,2756,Petrol,7.08,3.0,145.0,40000
+12203,ford,Edge,2017,Semi-Auto,36000,Diesel,4.83,2.0,160.0,18490
+12208,skoda,Kamiq,2019,Semi-Auto,2200,Petrol,5.33,1.5,145.0,22001
+12210,vauxhall,Combo Life,2019,Manual,12000,Diesel,4.41,1.5,145.0,18299
+12211,ford,Puma,2020,,3000,Petrol,4.67,1.0,145.0,22975
+12219,ford,Edge,2017,Manual,38778,Diesel,4.83,2.0,160.0,17295
+12220,skoda,Kamiq,2019,,4750,Petrol,5.16,1.0,145.0,19495
+12224,bmw,M4,2018,Automatic,3033,Petrol,7.0,3.0,145.0,51000
+12228,toyota,Supra,2019,Semi-Auto,500,Petrol,6.82,3.0,145.0,49994
+12231,hyundi,Santa Fe,2014,Manual,50425,Diesel,5.08,2.2,200.0,11830
+12232,merc,CLS Class,2018,Semi-Auto,11461,Diesel,4.08,2.1,145.0,24775
+12233,bmw,X7,2019,Semi-Auto,2881,Diesel,7.0,3.0,145.0,66000
+12235,merc,CLS Class,2018,Semi-Auto,8673,Petrol,6.5,3.0,145.0,41112
+12238,toyota,Prius,2017,Automatic,37564,Hybrid,2.75,1.8,140.0,18799
+12245,merc,V Class,2019,Automatic,9,Diesel,6.5,2.0,145.0,45395
+12247,bmw,6 Series,2019,Automatic,35,Petrol,8.08,3.0,145.0,39146
+12248,vw,Caravelle,2019,Automatic,2000,Diesel,7.0,2.0,150.0,40000
+12250,merc,GL Class,2018,Automatic,12471,Petrol,4.67,1.6,145.0,19999
+12254,audi,A7,2019,Semi-Auto,20,Diesel,6.16,2.0,145.0,39950
+12256,toyota,Verso,2017,Automatic,22512,Petrol,5.5,1.8,200.0,14291
+12258,hyundi,IX35,2015,Manual,46573,Diesel,4.41,1.7,145.0,8420
+12259,bmw,X4,2019,Automatic,3170,Petrol,8.74,3.0,145.0,40000
+12264,skoda,Yeti,2017,Manual,16000,Petrol,4.58,1.2,125.0,11995
+12265,ford,Galaxy,2018,Manual,19033,Diesel,4.16,2.0,145.0,17900
+12266,vw,Amarok,2018,Automatic,24000,Diesel,6.5,3.0,260.0,26990
+12268,merc,GLB Class,2020,Semi-Auto,349,Diesel,5.08,2.0,145.0,39980
+12270,audi,A8,2015,Automatic,25406,Diesel,4.74,3.0,160.0,19870
+12274,ford,Puma,2020,Manual,2477,Petrol,4.67,1.0,145.0,19990
+12276,skoda,Kamiq,2019,Automatic,4671,Petrol,5.41,1.5,150.0,20799
+12277,toyota,Avensis,2016,Manual,40889,Diesel,3.5,1.6,20.0,11495
+12279,ford,Galaxy,2017,Manual,8204,Diesel,4.16,2.0,145.0,19223
+12283,audi,S3,2017,Semi-Auto,26500,Petrol,5.41,2.0,150.0,23950
+12284,audi,RS3,2017,Semi-Auto,17552,Petrol,6.92,2.5,145.0,38995
+12287,ford,Mustang,2018,Automatic,3000,Petrol,8.17,2.3,145.0,29998
+12289,audi,RS6,2017,Semi-Auto,13051,Petrol,8.0,4.0,150.0,56950
+12291,skoda,Kamiq,2020,Manual,1927,Petrol,4.91,1.0,145.0,17799
+12292,merc,X-CLASS,2019,Automatic,40,Diesel,7.49,3.0,260.0,32500
+12295,vw,Beetle,2014,Semi-Auto,17162,Diesel,4.67,2.0,160.0,14990
+12298,ford,Galaxy,2019,Semi-Auto,9770,Diesel,4.33,2.0,145.0,24479
+12299,merc,M Class,2015,Automatic,50408,Diesel,6.0,2.1,200.0,19940
+12300,merc,CLS Class,2018,Semi-Auto,14130,Diesel,4.83,2.9,150.0,31796
+12309,ford,Galaxy,2013,Manual,67000,Diesel,4.74,2.0,145.0,9290
+12311,toyota,Prius,2017,Automatic,27203,Hybrid,2.75,1.8,0.0,20495
+12312,hyundi,IX20,2016,Automatic,31000,Petrol,5.41,1.6,165.0,9350
+12314,ford,Grand C-MAX,2017,Manual,28958,Diesel,3.66,1.5,30.0,10500
+12318,vauxhall,Agila,2011,Manual,25669,Petrol,4.25,1.2,30.0,4655
+12320,merc,S Class,2019,Semi-Auto,5961,Diesel,4.5,3.0,145.0,54599
+12321,ford,KA,2013,Manual,40000,Petrol,4.08,1.2,30.0,4500
+12324,merc,X-CLASS,2018,Automatic,7820,Diesel,7.49,3.0,260.0,38995
+12325,vw,Shuttle,2019,Semi-Auto,10074,Diesel,7.17,2.0,145.0,28000
+12326,ford,KA,2018,Manual,6878,Petrol,4.08,1.2,145.0,8700
+12328,ford,Tourneo Custom,2016,Manual,44233,Diesel,5.08,2.0,200.0,18798
+12329,skoda,Scala,2019,Automatic,3572,Petrol,5.16,1.5,145.0,16295
+12331,ford,Grand Tourneo Connect,2014,Manual,37381,Diesel,3.99,1.6,125.0,10995
+12332,toyota,Land Cruiser,2015,Semi-Auto,27845,Diesel,6.16,2.8,300.0,31200
+12333,ford,Grand Tourneo Connect,2016,Automatic,21576,Diesel,4.16,1.5,125.0,14000
+12338,vw,Arteon,2017,Semi-Auto,13764,Petrol,4.99,2.0,145.0,20750
+12346,ford,Galaxy,2018,Semi-Auto,31589,Diesel,4.5,2.0,145.0,19999
+12354,ford,Galaxy,2019,Automatic,11112,Diesel,4.41,2.0,145.0,25999
+12355,vw,Tiguan Allspace,2019,Semi-Auto,6000,Diesel,6.0,2.0,145.0,28490
+12359,ford,Edge,2019,Semi-Auto,22,Diesel,6.32,2.0,145.0,32000
+12360,bmw,X6,2016,Semi-Auto,25684,Petrol,9.26,4.4,570.0,44160
+12362,ford,Grand C-MAX,2015,Manual,47182,Diesel,3.66,1.5,30.0,8498
+12364,skoda,Yeti,2016,Automatic,6000,Petrol,4.58,1.2,125.0,13995
+12365,merc,V Class,2019,Automatic,3179,Diesel,6.5,2.0,145.0,46995
+12368,merc,CLS Class,2013,Automatic,56198,Diesel,5.08,3.0,200.0,14750
+12373,vw,Amarok,2016,Automatic,58349,Diesel,6.66,2.0,260.0,16995
+12376,skoda,Rapid,2016,Manual,59997,Diesel,3.17,1.6,0.0,6680
+12378,vauxhall,Combo Life,2019,Manual,14500,Petrol,5.57,1.2,145.0,13995
+12379,vw,Arteon,2019,Automatic,3000,Petrol,7.17,2.0,145.0,32399
+12381,bmw,X4,2019,Semi-Auto,14404,Diesel,5.5,2.0,150.0,33998
+12384,vw,Amarok,2016,Automatic,32990,Diesel,6.66,2.0,260.0,18850
+12386,vauxhall,Antara,2012,Manual,49000,Diesel,5.25,2.2,235.0,7495
+12388,merc,S Class,2017,Automatic,21000,Petrol,5.75,3.0,150.0,48990
+12392,merc,S Class,2017,Automatic,31582,Diesel,4.67,3.0,150.0,28000
+12401,hyundi,Santa Fe,2019,Semi-Auto,3837,Diesel,6.0,2.2,145.0,34495
+12402,audi,RS5,2019,Automatic,9771,Petrol,7.92,2.9,145.0,54883
+12405,ford,Grand C-MAX,2017,Manual,58111,Diesel,3.66,1.5,30.0,8691
+12407,skoda,Scala,2019,Semi-Auto,4587,Petrol,5.16,1.5,145.0,19990
+12410,hyundi,I40,2015,Semi-Auto,36831,Diesel,4.16,1.7,125.0,10498
+12412,bmw,M4,2020,Automatic,5000,Petrol,6.92,3.0,145.0,53988
+12415,vw,Beetle,2013,Manual,34803,Petrol,5.67,1.4,205.0,13189
+12417,merc,V Class,2019,Automatic,2326,Diesel,5.16,2.2,145.0,47990
+12422,vw,Caravelle,2020,,1001,Diesel,7.0,2.0,145.0,47000
+12424,skoda,Scala,2019,Semi-Auto,95,Petrol,4.99,1.0,145.0,15985
+12425,vw,Caravelle,2019,Automatic,7583,Diesel,7.17,2.0,145.0,39950
+12429,ford,KA,2009,Manual,43000,Petrol,4.25,1.2,30.0,3250
+12430,ford,Grand Tourneo Connect,2019,Manual,3500,Diesel,3.83,1.5,145.0,19999
+12432,skoda,Yeti,2011,Manual,93579,Diesel,5.08,2.0,200.0,5699
+12434,merc,CLS Class,2016,Semi-Auto,28415,Diesel,4.58,3.0,160.0,21490
+12436,audi,A8,2018,Semi-Auto,6588,Diesel,4.83,3.0,145.0,38995
+12437,ford,Grand C-MAX,2016,Manual,17621,Diesel,3.66,1.5,30.0,10099
+12442,toyota,PROACE VERSO,2020,Automatic,1255,Diesel,6.08,2.0,145.0,47990
+12444,skoda,Rapid,2015,Semi-Auto,26357,Petrol,4.83,1.4,150.0,8500
+12448,bmw,M2,2019,Semi-Auto,100,Petrol,8.08,3.0,145.0,47980
+12449,ford,KA,2014,Manual,35000,Petrol,4.08,1.2,30.0,5480
+12450,bmw,Z4,2020,Semi-Auto,13,Petrol,6.08,2.0,145.0,29490
+12451,bmw,7 Series,2019,Semi-Auto,7200,Diesel,5.57,3.0,150.0,46898
+12452,ford,Edge,2019,Semi-Auto,1839,Diesel,6.32,2.0,145.0,31600
+12453,toyota,Hilux,2018,Automatic,35041,Diesel,6.5,2.4,265.0,20998
+12457,skoda,Rapid,2017,Manual,24451,Diesel,3.17,1.6,145.0,9424
+12460,ford,KA,2014,Manual,51028,Petrol,4.08,1.2,30.0,4200
+12465,vw,Scirocco,2015,Manual,20076,Diesel,4.25,2.0,20.0,14591
+12467,ford,Grand Tourneo Connect,2019,Manual,3500,Diesel,3.83,1.5,145.0,19999
+12468,toyota,Avensis,2016,Manual,58260,Diesel,3.75,2.0,30.0,10995
+12469,hyundi,Santa Fe,2018,Manual,7781,Diesel,4.99,2.2,145.0,20250
+12474,ford,Grand Tourneo Connect,2019,Automatic,3942,Diesel,4.16,1.5,145.0,19500
+12482,hyundi,I40,2014,Manual,63458,Diesel,3.75,1.7,30.0,6895
+12485,merc,CLS Class,2016,Semi-Auto,30496,Diesel,4.58,3.0,160.0,21998
+12487,toyota,Avensis,2014,Manual,58523,Diesel,3.83,2.0,30.0,7950
+12501,hyundi,I40,2013,Manual,66300,Diesel,4.25,1.7,150.0,6495
+12504,vauxhall,Combo Life,2019,Automatic,5278,Diesel,4.67,1.5,145.0,17995
+12506,skoda,Scala,2019,Semi-Auto,5052,Petrol,5.16,1.5,150.0,16990
+12507,toyota,Verso,2017,Manual,23850,Diesel,3.75,1.6,145.0,12995
+12508,merc,CLS Class,2016,Automatic,39200,Diesel,4.08,2.1,125.0,17990
+12511,hyundi,Santa Fe,2015,Semi-Auto,37854,Diesel,5.57,2.2,265.0,17290
+12518,ford,Fusion,2006,Manual,69255,Petrol,5.41,1.4,200.0,2495
+12521,ford,Grand C-MAX,2017,Manual,12628,Diesel,3.66,1.5,30.0,12698
+12522,toyota,Hilux,2019,Manual,6500,Diesel,5.82,2.4,265.0,18695
+12538,hyundi,I40,2014,Manual,38406,Diesel,3.75,1.7,30.0,7600
+12542,ford,Galaxy,2013,Manual,54922,Diesel,5.67,2.2,260.0,11750
+12545,ford,Edge,2017,Automatic,27146,Diesel,4.91,2.0,145.0,23899
+12546,merc,CLK,2002,Automatic,98000,Petrol,9.56,5.0,325.0,3790
+12547,bmw,X6,2013,Automatic,70650,Diesel,6.41,3.0,325.0,19795
+12548,hyundi,Santa Fe,2017,Automatic,20599,Diesel,5.5,2.2,150.0,18999
+12549,hyundi,I40,2017,Manual,21743,Diesel,3.58,1.7,145.0,11495
+12551,vauxhall,Combo Life,2019,Manual,11200,Petrol,5.57,1.2,150.0,13498
+12552,hyundi,IX20,2019,Manual,100,Petrol,6.32,1.6,145.0,14750
+12553,merc,CLS Class,2018,Semi-Auto,5673,Diesel,4.83,2.9,145.0,33000
+12554,hyundi,Santa Fe,2016,Automatic,51849,Diesel,5.57,2.2,235.0,15899
+12556,hyundi,IX35,2012,Manual,64992,Petrol,5.67,1.6,205.0,5790
+12557,merc,GLS Class,2017,Automatic,45239,Petrol,10.23,5.5,150.0,53000
+12560,hyundi,Santa Fe,2015,Semi-Auto,38514,Diesel,5.57,2.2,265.0,16998
+12562,hyundi,Santa Fe,2019,Automatic,623,Diesel,5.5,2.2,145.0,32950
+12563,skoda,Yeti,2011,Automatic,103986,Diesel,5.41,2.0,235.0,4249
+12564,vw,Scirocco,2017,Semi-Auto,27597,Diesel,3.99,2.0,145.0,16490
+12566,audi,A7,2013,Automatic,71100,Diesel,5.33,3.0,235.0,17500
+12574,vw,Arteon,2019,Semi-Auto,4482,Diesel,5.33,2.0,145.0,26995
+12575,bmw,X7,2020,Semi-Auto,5656,Diesel,7.49,3.0,150.0,77990
+12576,bmw,X6,2019,Semi-Auto,3145,Petrol,8.91,3.0,145.0,68300
+12580,vw,Scirocco,2016,Manual,14772,Petrol,4.5,1.4,125.0,13268
+12583,toyota,Verso,2016,Manual,22691,Petrol,5.67,1.6,200.0,10500
+12589,bmw,i3,2017,Automatic,33021,Hybrid,0.5,0.0,0.0,18995
+12590,vauxhall,GTC,2016,Manual,10337,Petrol,4.99,1.4,160.0,9549
+12591,vw,Caravelle,2012,Automatic,45000,Diesel,6.84,2.0,325.0,21995
+12594,merc,SLK,2013,Automatic,35116,Diesel,4.16,2.1,145.0,10699
+12598,bmw,X4,2017,Automatic,44397,Diesel,4.99,3.0,200.0,24100
+12601,bmw,X7,2019,Semi-Auto,9200,Diesel,7.49,3.0,145.0,74990
+12602,skoda,Yeti,2016,Automatic,19100,Petrol,4.58,1.2,125.0,13495
+12603,vw,Arteon,2019,Semi-Auto,6095,Petrol,4.99,2.0,150.0,26999
+12604,vw,Amarok,2018,Automatic,29771,Diesel,6.5,3.0,260.0,26990
+12605,merc,GL Class,2015,Automatic,61289,Diesel,6.66,3.0,330.0,28700
+12609,ford,Tourneo Custom,2019,Automatic,2000,Diesel,7.33,2.0,145.0,26500
+12615,bmw,X4,2019,Semi-Auto,3098,Diesel,5.5,2.0,150.0,35990
+12618,merc,CLS Class,2016,Semi-Auto,39972,Diesel,4.08,2.1,125.0,19113
+12619,bmw,X4,2019,Semi-Auto,2316,Diesel,5.5,2.0,145.0,38182
+12621,toyota,Land Cruiser,2017,Semi-Auto,10023,Diesel,6.16,2.8,145.0,39995
+12622,hyundi,IX20,2014,Manual,19898,Petrol,4.67,1.4,125.0,7489
+12630,audi,S3,2015,Semi-Auto,46965,Petrol,5.75,2.0,205.0,19000
+12631,bmw,M4,2020,Semi-Auto,99,Petrol,6.92,3.0,145.0,48630
+12632,hyundi,Getz,2008,Manual,67000,Petrol,4.58,1.1,125.0,1695
+12639,hyundi,IX20,2017,Manual,9870,Petrol,4.67,1.4,125.0,8499
+12641,bmw,6 Series,2015,Automatic,25757,Diesel,4.74,3.0,160.0,21298
+12645,bmw,Z4,2020,Semi-Auto,100,Petrol,7.08,3.0,145.0,38950
+12647,toyota,Land Cruiser,2017,Semi-Auto,30071,Diesel,6.16,2.8,300.0,31495
+12648,hyundi,Santa Fe,2017,Manual,30131,Diesel,4.99,2.2,150.0,17500
+12651,vw,Caravelle,2019,Automatic,2071,Diesel,7.0,2.0,145.0,47988
+12655,skoda,Kamiq,2019,Automatic,3610,Diesel,4.5,1.6,145.0,21995
+12657,audi,RS6,2014,Automatic,58000,Petrol,8.17,4.0,555.0,38444
+12662,audi,A7,2018,Automatic,19132,Petrol,5.91,3.0,150.0,38880
+12665,merc,V Class,2018,Manual,27222,Diesel,5.08,2.1,145.0,19998
+12666,hyundi,IX20,2015,Manual,29731,Petrol,4.67,1.4,125.0,6890
+12668,bmw,6 Series,2016,Semi-Auto,29403,Petrol,6.57,3.0,260.0,26420
+12672,vw,Arteon,2019,Manual,100,Diesel,4.5,2.0,145.0,24450
+12673,hyundi,I40,2016,Manual,31731,Diesel,3.58,1.7,30.0,11180
+12675,skoda,Scala,2019,Semi-Auto,2000,Petrol,4.99,1.0,150.0,15995
+12677,ford,KA,2008,Manual,50990,Petrol,5.16,1.3,160.0,1895
+12680,merc,M Class,2013,Automatic,27932,Diesel,5.25,2.1,200.0,18999
+12683,bmw,Z4,2015,Semi-Auto,15768,Petrol,7.81,3.0,330.0,22895
+12685,audi,A8,2018,Semi-Auto,5538,Diesel,4.67,3.0,145.0,35866
+12687,toyota,Prius,2013,Automatic,80000,Hybrid,3.33,1.8,0.0,8988
+12692,bmw,M4,2018,Semi-Auto,8725,Petrol,7.0,3.0,145.0,53999
+12694,toyota,Verso,2016,Manual,25725,Petrol,5.67,1.6,200.0,11000
+12702,vw,Amarok,2019,Automatic,10000,Diesel,7.0,3.0,260.0,31495
+12703,hyundi,Santa Fe,2017,Semi-Auto,39589,Diesel,5.5,2.2,240.0,19470
+12704,audi,A8,2014,Automatic,48399,Diesel,4.99,3.0,200.0,17790
+12705,merc,CLS Class,2019,Semi-Auto,992,Petrol,7.42,3.0,150.0,69995
+12708,bmw,7 Series,2016,Automatic,33000,Diesel,4.33,3.0,145.0,29990
+12710,merc,S Class,2010,Automatic,51238,Diesel,6.32,3.0,300.0,9995
+12711,bmw,Z4,2020,Semi-Auto,5,Petrol,6.32,2.0,150.0,35000
+12713,vw,Shuttle,2019,Semi-Auto,12746,Diesel,7.17,2.0,145.0,26396
+12715,vw,Caddy Maxi Life,2019,Automatic,13191,Diesel,5.33,2.0,145.0,19000
+12716,merc,V Class,2016,Automatic,43000,Diesel,5.16,2.1,200.0,25490
+12726,toyota,Prius,2017,Automatic,37500,Hybrid,2.75,1.8,140.0,20500
+12728,vw,Caddy Maxi Life,2019,Semi-Auto,14056,Diesel,5.33,2.0,145.0,19995
+12734,merc,X-CLASS,2020,Automatic,303,Diesel,6.57,2.3,260.0,31991
+12736,hyundi,IX35,2015,Manual,29865,Diesel,4.41,1.7,145.0,8595
+12746,vw,California,2019,Automatic,7486,Diesel,7.08,2.0,260.0,57991
+12750,vauxhall,Combo Life,2018,Manual,1146,Diesel,4.41,1.5,145.0,14985
+12754,merc,V Class,2018,Manual,32095,Diesel,5.08,2.1,150.0,19346
+12755,ford,Galaxy,2016,Semi-Auto,3950,Diesel,4.5,2.0,145.0,19170
+12759,hyundi,Santa Fe,2017,Semi-Auto,26385,Diesel,5.5,2.2,235.0,21849
+12762,bmw,M3,2004,Manual,60000,Petrol,10.1,3.2,325.0,17850
+12763,bmw,X4,2016,Automatic,52131,Diesel,4.33,2.0,150.0,20470
+12767,bmw,X7,2019,Semi-Auto,1657,Diesel,7.49,3.0,145.0,73990
+12768,bmw,Z4,2016,Manual,25921,Petrol,5.67,2.0,205.0,15991
+12772,skoda,Yeti,2016,Manual,29000,Diesel,3.75,2.0,30.0,12295
+12773,skoda,Scala,2019,Manual,1037,Diesel,4.08,1.6,145.0,19191
+12777,audi,SQ7,2017,Automatic,40000,Diesel,6.0,4.0,300.0,43950
+12779,merc,M Class,2014,Automatic,74869,Diesel,5.25,2.1,205.0,16940
+12788,hyundi,I40,2015,Manual,54000,Diesel,3.58,1.7,30.0,6990
+12789,toyota,Land Cruiser,2015,Automatic,51437,Diesel,6.16,2.8,300.0,29875
+12790,merc,CLS Class,2019,Automatic,1751,Diesel,5.16,2.0,145.0,37890
+12796,vw,Scirocco,2014,Manual,44034,Diesel,3.75,2.0,30.0,10399
+12798,hyundi,I800,2016,Automatic,48039,Diesel,7.0,2.5,325.0,12711
+12804,vauxhall,Combo Life,2019,Manual,10543,Diesel,4.41,1.5,145.0,13798
+12805,audi,S3,2016,Automatic,60000,Petrol,5.75,2.0,205.0,21950
+12807,toyota,Camry,2019,Automatic,5145,Hybrid,4.5,2.5,135.0,24990
+12810,toyota,Hilux,2015,Automatic,19962,Diesel,7.17,3.0,260.0,20495
+12811,audi,A7,2017,Semi-Auto,34128,Petrol,7.92,4.0,330.0,30000
+12812,vw,Beetle,2016,Manual,20991,Petrol,4.58,1.2,125.0,13000
+12818,ford,KA,2016,,19065,Petrol,4.08,1.2,30.0,6600
+12821,vw,Scirocco,2017,Manual,22430,Petrol,4.99,2.0,145.0,15495
+12822,toyota,Hilux,2019,Automatic,3500,Diesel,,2.4,260.0,23995
+12825,merc,CLA Class,2020,Automatic,2000,Petrol,5.25,1.3,150.0,32995
+12829,merc,GL Class,2015,Automatic,21210,Diesel,4.16,2.1,125.0,18199
+12831,bmw,6 Series,2016,Semi-Auto,15668,Petrol,6.57,3.0,260.0,26580
+12832,bmw,7 Series,2017,Automatic,36500,Diesel,4.08,3.0,145.0,29999
+12833,vw,Arteon,2019,Automatic,7148,Diesel,4.67,2.0,145.0,29990
+12836,skoda,Scala,2019,Semi-Auto,8471,Petrol,4.99,1.0,150.0,15596
+12838,vw,Arteon,2019,Manual,7998,Diesel,4.5,2.0,145.0,24495
+12841,merc,V Class,2017,Automatic,14311,Diesel,5.25,2.1,235.0,36990
+12843,ford,Galaxy,2018,Manual,34615,Diesel,4.16,2.0,145.0,18000
+12848,vw,Beetle,2016,Manual,35916,Petrol,4.99,1.4,150.0,14991
+12850,merc,V Class,2018,Manual,21525,Diesel,5.08,2.1,145.0,19498
+12853,toyota,Avensis,2017,Manual,51681,Diesel,3.83,2.0,145.0,11199
+12855,toyota,Verso,2016,Semi-Auto,36318,Petrol,5.41,1.8,160.0,12495
+12858,skoda,Yeti,2016,Manual,14334,Petrol,4.58,1.2,125.0,12395
+12859,skoda,Rapid,2017,Manual,26858,Diesel,3.17,1.4,20.0,8995
+12860,audi,RS6,2015,Automatic,35000,Petrol,8.0,4.0,325.0,44944
+12861,audi,RS5,2019,Automatic,5000,Petrol,7.81,2.9,145.0,54000
+12862,merc,M Class,2011,Automatic,131000,Diesel,7.59,3.0,555.0,7995
+12866,merc,G Class,2015,Semi-Auto,10000,Petrol,11.47,5.5,570.0,99850
+12869,skoda,Rapid,2017,Manual,23000,Petrol,3.83,1.0,150.0,8199
+12870,hyundi,IX20,2017,Automatic,17736,Petrol,5.41,1.6,150.0,10399
+12872,bmw,M4,2019,Automatic,99,Petrol,6.92,3.0,145.0,45999
+12873,ford,Edge,2016,Manual,30282,Diesel,,2.0,205.0,19991
+12874,hyundi,I800,2019,Manual,5137,Diesel,7.42,2.5,145.0,18497
+12877,audi,A8,2018,Semi-Auto,3027,Diesel,5.82,3.0,145.0,37750
+12878,vw,Caddy Maxi Life,2019,Semi-Auto,10194,Diesel,5.33,2.0,150.0,18695
+12881,ford,KA,2016,Manual,13592,Petrol,4.08,1.2,30.0,6500
+12882,ford,Puma,2019,Manual,300,Petrol,4.67,1.0,145.0,21000
+12887,vauxhall,Zafira Tourer,2017,Manual,18477,Petrol,5.67,1.4,150.0,12995
+12892,toyota,Prius,2016,Automatic,35373,Hybrid,2.75,1.8,0.0,18004
+12893,vauxhall,GTC,2018,Manual,11882,Petrol,6.5,2.0,145.0,18998
+12895,audi,RS4,2015,Semi-Auto,35905,Petrol,8.91,4.2,565.0,29995
+12896,bmw,7 Series,2014,Automatic,78094,Diesel,4.67,3.0,160.0,13600
+12897,vw,Tiguan Allspace,2019,Automatic,3698,Diesel,6.0,2.0,145.0,30299
+12902,vw,Scirocco,2017,Manual,5396,Petrol,4.5,1.4,150.0,14498
+12907,ford,Grand Tourneo Connect,2016,Automatic,45228,Diesel,4.16,1.5,125.0,12157
+12912,merc,CLA Class,2013,Automatic,74194,Diesel,3.75,2.1,30.0,13000
+12918,hyundi,IX20,2011,Manual,23000,Petrol,4.67,1.4,120.0,4750
+12919,skoda,Roomster,2014,Manual,51956,Petrol,4.74,1.2,145.0,6295
+12936,merc,X-CLASS,2017,Manual,6000,Diesel,6.32,2.3,260.0,26990
+12938,vw,Scirocco,2017,Automatic,13695,Petrol,5.33,2.0,145.0,15900
+12939,vw,Amarok,2019,Automatic,6317,Diesel,7.0,3.0,260.0,32990
+12946,bmw,Z4,2009,Manual,76000,Petrol,7.81,3.0,325.0,9490
+12947,ford,Mustang,2016,Manual,11600,Petrol,11.25,5.0,580.0,27925
+12950,ford,KA,2015,Manual,19502,Petrol,4.08,1.2,30.0,4698
+12954,hyundi,IX35,2015,,33177,Diesel,4.58,2.0,160.0,10199
+12955,vw,Scirocco,2017,Manual,30186,Petrol,4.5,1.4,150.0,14500
+12958,vw,Arteon,2019,Automatic,11506,Diesel,4.67,2.0,145.0,29991
+12960,vw,Caravelle,2019,Semi-Auto,12192,Diesel,7.17,2.0,145.0,39995
+12961,skoda,Rapid,2019,Manual,13579,Petrol,3.99,1.0,145.0,9550
+12964,skoda,Kamiq,2019,Manual,10,Petrol,4.99,1.5,145.0,19490
+12965,merc,CLS Class,2017,Automatic,39040,Diesel,4.08,2.1,145.0,19000
+12970,bmw,M4,2019,Semi-Auto,19322,Petrol,6.92,3.0,150.0,40950
+12974,ford,Grand C-MAX,2014,Manual,70000,Diesel,4.08,1.6,125.0,7490
+12979,vauxhall,Combo Life,2019,Manual,2721,Petrol,5.57,1.2,145.0,14244
+12981,vw,Jetta,2007,Automatic,55000,Diesel,5.16,2.0,190.0,4450
+12982,merc,M Class,2011,Automatic,69000,Diesel,7.24,3.0,555.0,10990
+12985,hyundi,IX20,2017,Automatic,20673,Petrol,5.41,1.6,150.0,9998
+12986,audi,RS4,2014,Semi-Auto,58460,Petrol,8.91,4.2,555.0,26490
+12988,toyota,Prius,2019,,13772,Hybrid,1.0,1.8,135.0,22495
+12989,merc,CLS Class,2013,Automatic,48500,Diesel,4.33,2.1,145.0,13495
+12992,hyundi,IX20,2017,Manual,11567,Petrol,4.67,1.4,145.0,9500
+12993,toyota,Verso,2017,Manual,13918,Petrol,5.67,1.6,200.0,14495
+12996,ford,Edge,2017,Automatic,33576,Diesel,4.83,2.0,160.0,20250
+12998,vw,Amarok,2019,Automatic,6800,Diesel,6.5,3.0,260.0,31995
+12999,vw,Arteon,2019,Automatic,4560,Diesel,5.33,2.0,145.0,24800
+13000,vw,Amarok,2016,Automatic,29500,Diesel,6.66,2.0,265.0,22794
+13001,audi,S3,2015,Manual,32000,Petrol,5.91,2.0,200.0,18790
+13002,hyundi,Santa Fe,2017,Automatic,18543,Diesel,5.5,2.2,140.0,19500
+13003,ford,KA,2013,Manual,65000,Petrol,4.08,1.2,30.0,3695
+13004,merc,V Class,2017,Automatic,5000,Diesel,4.83,2.1,150.0,25490
+13012,bmw,X6,2018,Semi-Auto,18212,Diesel,5.75,3.0,145.0,38995
+13013,hyundi,I800,2018,Automatic,35757,Diesel,8.4,2.5,145.0,16990
+13016,vw,Arteon,2019,Semi-Auto,2313,Petrol,4.83,1.5,145.0,23798
+13017,ford,KA,2014,Manual,34000,Petrol,4.08,1.2,30.0,4650
+13020,merc,CLS Class,2016,Automatic,48000,Diesel,4.08,2.1,125.0,16990
+13024,merc,S Class,2016,Automatic,75000,Diesel,4.67,3.0,160.0,26495
+13031,merc,CLS Class,2019,Semi-Auto,2352,Diesel,4.83,2.9,145.0,36000
+13034,vw,Scirocco,2016,Manual,42038,Diesel,4.41,2.0,30.0,13495
+13040,skoda,Scala,2019,Automatic,10000,Diesel,4.33,1.6,145.0,20995
+13041,vw,Amarok,2019,Automatic,9893,Diesel,8.49,3.0,260.0,43995
+13042,hyundi,IX35,2014,Manual,35541,Diesel,4.41,1.7,145.0,9800
+13043,vw,Arteon,2019,Semi-Auto,7525,Diesel,4.67,2.0,145.0,25000
+13046,skoda,Yeti,2017,Automatic,10700,Petrol,4.58,1.2,125.0,14495
+13047,vw,Tiguan Allspace,2019,Semi-Auto,10,Petrol,6.57,1.5,145.0,30785
+13049,vw,Scirocco,2016,Semi-Auto,16688,Petrol,3.58,2.0,0.0,13490
+13050,merc,GLS Class,2019,Semi-Auto,6510,Diesel,6.32,3.0,145.0,48249
+13051,vauxhall,Combo Life,2018,,6000,Diesel,4.41,1.5,145.0,14495
+13057,bmw,X4,2015,Semi-Auto,52020,Diesel,4.33,2.0,145.0,19660
+13058,toyota,Prius,2018,Automatic,16347,Hybrid,1.0,1.8,140.0,20495
+13063,hyundi,IX20,2018,Automatic,10166,Petrol,6.82,1.6,145.0,12150
+13064,merc,CLA Class,2020,Automatic,1000,Petrol,5.25,1.3,145.0,29498
+13069,audi,Q8,2018,Semi-Auto,11691,Diesel,7.17,3.0,145.0,59000
+13071,ford,Edge,2017,,14283,Diesel,4.91,2.0,145.0,22995
+13072,toyota,Avensis,2015,Manual,71000,Diesel,3.83,2.0,30.0,7495
+13073,toyota,Prius,2014,Automatic,47221,Hybrid,,1.8,0.0,15995
+13074,vw,Arteon,2019,Semi-Auto,6882,Diesel,3.75,2.0,145.0,24990
+13079,hyundi,IX20,2018,Manual,15853,Petrol,4.67,1.4,150.0,10690
+13081,vw,Tiguan Allspace,2019,Semi-Auto,1473,Petrol,6.57,1.5,150.0,32201
+13087,hyundi,IX20,2018,Manual,6684,Petrol,4.67,1.4,150.0,12000
+13089,hyundi,I40,2013,Automatic,64672,Diesel,4.99,1.7,205.0,7485
+13096,merc,GL Class,2016,Automatic,26511,Diesel,4.16,2.1,125.0,17999
+13098,vw,Scirocco,2016,Semi-Auto,59257,Diesel,4.08,2.0,30.0,13498
+13106,ford,Galaxy,2016,Manual,10265,Diesel,4.16,2.0,125.0,19500
+13109,audi,Q8,2019,Semi-Auto,5608,Diesel,7.0,3.0,150.0,50990
+13114,toyota,Prius,2017,Automatic,17681,Hybrid,1.0,1.8,135.0,20998
+13115,bmw,M4,2018,Semi-Auto,8326,Petrol,6.92,3.0,145.0,35750
+13116,vw,Scirocco,2016,Manual,30855,Diesel,3.5,2.0,20.0,15890
+13119,ford,Tourneo Custom,2016,Manual,45668,Diesel,5.25,2.0,200.0,16998
+13122,toyota,Avensis,2015,Manual,28434,Diesel,,1.6,20.0,9998
+13126,skoda,Kamiq,2020,Manual,1562,Petrol,4.91,1.0,150.0,19995
+13129,merc,M Class,2014,Automatic,59812,Diesel,6.0,3.0,300.0,16998
+13133,vw,Arteon,2019,Semi-Auto,4482,Diesel,5.33,2.0,145.0,26995
+13134,ford,Grand C-MAX,2019,Automatic,7000,Diesel,4.58,1.5,145.0,16995
+13136,hyundi,IX20,2016,Manual,32001,Petrol,4.67,1.4,125.0,7995
+13140,skoda,Rapid,2017,Manual,13456,Diesel,3.17,1.4,145.0,8065
+13144,vw,Beetle,2015,Manual,39584,Petrol,5.5,1.4,200.0,9430
+13146,ford,Grand Tourneo Connect,2016,Automatic,45670,Diesel,4.16,1.5,125.0,12260
+13147,ford,Galaxy,2019,Manual,3158,Diesel,5.16,2.0,145.0,29499
+13148,merc,V Class,2018,Manual,23128,Diesel,5.08,2.1,145.0,20498
+13150,vw,Beetle,2016,Manual,18600,Petrol,4.58,1.2,125.0,11462
+13152,ford,Edge,2018,Semi-Auto,27215,Diesel,4.91,2.0,150.0,24999
+13153,skoda,Kamiq,2019,Manual,4000,Petrol,4.99,1.0,145.0,18000
+13155,vw,Tiguan Allspace,2019,Semi-Auto,16654,Diesel,6.0,2.0,145.0,23999
+13156,toyota,GT86,2016,Manual,37999,Petrol,6.5,2.0,265.0,13990
+13159,ford,Puma,2019,Manual,1400,Petrol,4.67,1.0,145.0,23750
+13160,vauxhall,Zafira Tourer,2017,Manual,23370,Petrol,5.67,1.4,200.0,10500
+13170,merc,GLB Class,2020,Semi-Auto,2000,Diesel,5.08,2.0,145.0,35400
+13173,vauxhall,GTC,2016,Manual,31050,Diesel,3.58,1.6,30.0,9670
+13174,ford,Edge,2016,Manual,34688,Diesel,4.91,2.0,200.0,17995
+13178,toyota,Verso,2017,Automatic,13900,Petrol,5.41,1.8,165.0,15995
+13181,vauxhall,Zafira Tourer,2017,Automatic,27477,Petrol,5.75,1.4,200.0,11275
+13184,bmw,Z4,2015,Manual,19109,Petrol,5.67,2.0,200.0,14191
+13186,merc,V Class,2018,Manual,26973,Diesel,5.08,2.1,145.0,19998
+13188,bmw,6 Series,2016,Semi-Auto,30252,Diesel,4.74,3.0,200.0,22495
+13189,hyundi,I800,2019,Automatic,19266,Diesel,8.4,2.5,145.0,20995
+13191,merc,X-CLASS,2019,Automatic,500,Diesel,6.57,2.3,260.0,28945
+13194,skoda,Scala,2019,Manual,11,Petrol,4.74,1.0,145.0,16995
+13195,hyundi,IX20,2019,Automatic,2122,Petrol,6.82,1.6,145.0,14989
+13197,vw,Scirocco,2017,,11204,Petrol,4.5,1.4,150.0,13800
+13201,vw,Tiguan Allspace,2019,Semi-Auto,4814,Diesel,6.0,2.0,150.0,26998
+13214,bmw,X4,2015,Automatic,54116,Diesel,4.91,3.0,205.0,20250
+13215,merc,CLS Class,2011,Automatic,28738,Diesel,5.08,3.0,200.0,13299
+13216,merc,CLS Class,2015,,50231,Diesel,4.16,2.1,125.0,16995
+13218,bmw,X4,2016,Automatic,27580,Diesel,4.91,3.0,205.0,26000
+13220,bmw,i8,2015,Automatic,48800,Other,1.75,1.5,0.0,37995
+13221,toyota,Hilux,2020,Manual,100,Diesel,84.01,2.4,260.0,23495
+13227,ford,Grand C-MAX,2017,Manual,17813,Diesel,3.66,1.5,30.0,12498
+13231,ford,Edge,2017,Manual,17399,Diesel,4.83,2.0,145.0,20498
+13234,audi,Q8,2019,Automatic,5680,Diesel,7.0,3.0,145.0,49495
+13238,ford,Galaxy,2017,Manual,37881,Diesel,4.16,2.0,125.0,18999
+13240,hyundi,I800,2018,Automatic,30459,Diesel,7.42,2.5,145.0,15999
+13244,vauxhall,Antara,2013,Manual,38548,Diesel,5.33,2.2,235.0,6700
+13245,bmw,Z4,2020,Semi-Auto,9,Petrol,6.08,2.0,145.0,31990
+13248,vw,Arteon,2019,Semi-Auto,5500,Diesel,4.67,2.0,145.0,27111
+13249,merc,V Class,2019,Automatic,18625,Diesel,4.83,2.1,145.0,20750
+13250,vw,Caravelle,2019,Automatic,8997,Diesel,7.0,2.0,145.0,43999
+13256,bmw,X4,2019,Semi-Auto,7815,Petrol,8.74,3.0,145.0,45000
+13257,merc,V Class,2018,Automatic,12392,Diesel,5.16,2.1,145.0,32748
+13262,skoda,Yeti,2014,Manual,90000,Diesel,3.83,1.6,30.0,5995
+13265,merc,S Class,2015,Semi-Auto,41472,Diesel,4.58,3.0,160.0,22995
+13267,skoda,Kamiq,2019,Semi-Auto,2814,Petrol,5.41,1.5,145.0,20991
+13273,hyundi,I800,2018,Automatic,34886,Diesel,8.4,2.5,145.0,14800
+13275,vauxhall,GTC,2016,Manual,27742,Diesel,3.58,1.6,30.0,10000
+13279,vw,Arteon,2019,Semi-Auto,6500,Petrol,4.99,2.0,150.0,28750
+13280,ford,KA,2016,Manual,52576,Petrol,4.08,1.2,30.0,4990
+13287,bmw,X6,2014,Automatic,35269,Diesel,6.16,3.0,300.0,18000
+13291,toyota,Avensis,2018,Manual,18785,Diesel,3.5,1.6,145.0,12667
+13295,bmw,M4,2018,Manual,9662,Petrol,7.59,3.0,145.0,36991
+13298,merc,X-CLASS,2019,Automatic,500,Diesel,6.57,2.3,260.0,28945
+13299,vw,Beetle,2014,Manual,61917,Petrol,5.08,1.2,165.0,10000
+13305,bmw,X6,2014,Automatic,68787,Diesel,6.24,3.0,305.0,16750
+13306,hyundi,IX35,2013,Manual,72205,Diesel,4.41,1.7,145.0,6990
+13311,vw,CC,2016,Semi-Auto,24500,Diesel,3.99,2.0,125.0,12950
+13313,bmw,X4,2019,Semi-Auto,2294,Diesel,5.75,3.0,150.0,36980
+13314,toyota,Verso,2017,Manual,16836,Diesel,3.75,1.6,30.0,13995
+13315,merc,X-CLASS,2019,Automatic,37,Diesel,6.57,2.3,260.0,28900
+13316,skoda,Rapid,2017,Manual,15000,Petrol,3.75,1.0,145.0,10495
+13319,audi,A7,2016,Automatic,55500,Petrol,7.92,4.0,325.0,43000
+13326,bmw,7 Series,2019,Semi-Auto,5364,Diesel,5.33,3.0,145.0,49990
+13327,skoda,Kamiq,2020,Manual,1000,Petrol,4.99,1.0,145.0,20950
+13328,audi,A8,2018,Semi-Auto,10961,Diesel,4.83,3.0,145.0,36496
+13329,merc,V Class,2019,Automatic,5500,Diesel,5.16,2.1,145.0,36998
+13335,vw,Caddy Maxi Life,2019,Automatic,4525,Diesel,5.08,2.0,145.0,18991
+13337,merc,M Class,2014,Semi-Auto,57573,Diesel,,2.1,200.0,19194
+13338,merc,CLS Class,2016,Semi-Auto,29392,Diesel,4.58,3.0,165.0,21490
+13349,vw,CC,2015,Semi-Auto,21700,Diesel,4.16,2.0,125.0,17495
+13351,audi,A8,2015,Automatic,34899,Diesel,4.91,3.0,200.0,19100
+13352,hyundi,IX35,2013,Automatic,69652,Diesel,6.0,2.0,300.0,7490
+13355,vw,California,2019,Automatic,10501,Diesel,7.33,2.0,265.0,54999
+13361,bmw,i3,2014,Automatic,42479,Hybrid,0.5,0.0,0.0,15450
+13364,hyundi,I40,2016,Manual,61554,Diesel,3.91,1.7,125.0,8770
+13366,merc,GL Class,2018,Manual,24166,Petrol,,1.6,145.0,18258
+13367,hyundi,Santa Fe,2010,Manual,72570,Diesel,5.67,2.2,260.0,6495
+13368,merc,GL Class,2017,Automatic,15309,Diesel,3.66,2.1,145.0,19299
+13371,hyundi,Santa Fe,2019,Automatic,100,Diesel,5.91,2.2,145.0,36995
+13375,audi,RS6,2020,Semi-Auto,1500,Petrol,10.64,4.0,150.0,109495
+13377,audi,A7,2019,Semi-Auto,2999,Diesel,6.57,3.0,145.0,47990
+13379,skoda,Yeti,2016,Semi-Auto,43737,Petrol,4.58,1.2,125.0,9360
+13383,ford,Grand C-MAX,2015,Manual,22304,Petrol,4.33,1.0,30.0,9100
+13384,vw,Caddy Maxi Life,2016,Semi-Auto,20625,Diesel,4.33,2.0,145.0,16495
+13386,ford,Grand C-MAX,2016,Manual,54727,Diesel,3.66,1.5,30.0,8599
+13387,merc,SLK,2015,Automatic,36860,Diesel,4.16,2.1,145.0,14995
+13393,ford,Tourneo Custom,2016,Manual,30010,Diesel,5.33,2.0,235.0,17998
+13396,skoda,Rapid,2018,Manual,11713,Petrol,3.83,1.0,150.0,8990
+13398,skoda,Yeti,2017,Semi-Auto,16888,Petrol,4.58,1.2,125.0,13990
+13400,toyota,Prius,2017,Automatic,23343,Hybrid,2.5,1.8,135.0,19750
+13402,skoda,Rapid,2017,Manual,20395,Petrol,4.08,1.2,150.0,8995
+13406,merc,CLS Class,2017,Automatic,9165,Diesel,4.58,3.0,150.0,26166
+13408,merc,S Class,2018,Semi-Auto,1861,Petrol,5.75,3.0,145.0,57995
+13409,toyota,Avensis,2017,Manual,16355,Diesel,3.5,1.6,20.0,11995
+13413,merc,M Class,2014,Automatic,70308,Diesel,5.25,2.1,200.0,16087
+13414,merc,V Class,2015,Automatic,99960,Diesel,5.16,2.1,200.0,19500
+13416,hyundi,Santa Fe,2016,Semi-Auto,10278,Diesel,5.57,2.2,235.0,19990
+13419,bmw,M4,2019,Semi-Auto,25,Petrol,6.92,3.0,145.0,45898
+13420,merc,SLK,2015,Automatic,21680,Diesel,4.16,2.1,150.0,15599
+13422,hyundi,I40,2017,Manual,22336,Diesel,3.58,1.7,145.0,11698
+13424,vw,Tiguan Allspace,2019,Semi-Auto,6091,Diesel,5.33,2.0,145.0,32562
+13432,vw,CC,2013,Manual,74000,Diesel,3.91,2.0,30.0,7990
+13433,ford,KA,2011,Manual,66561,Petrol,4.08,1.2,30.0,3698
+13437,skoda,Scala,2019,Manual,4380,Petrol,4.74,1.0,145.0,16491
+13438,vw,Scirocco,2009,Manual,35937,Petrol,6.32,2.0,260.0,7990
+13442,toyota,Prius,2019,Automatic,6053,Other,1.08,1.8,135.0,26700
+13443,vw,Scirocco,2017,Automatic,33103,Diesel,4.41,2.0,145.0,16500
+13444,skoda,Kamiq,2019,Manual,9246,Petrol,4.99,1.0,145.0,19000
+13446,ford,Galaxy,2017,Manual,33115,Diesel,4.16,2.0,125.0,17999
+13447,vw,Caravelle,2019,Automatic,10500,Diesel,7.0,2.0,145.0,56000
+13449,ford,KA,2016,Manual,33236,Petrol,4.08,1.2,30.0,4941
+13454,ford,KA,2010,Manual,48000,Petrol,4.25,1.2,30.0,2995
+13460,skoda,Kamiq,2020,Semi-Auto,1575,Petrol,5.41,1.5,145.0,19885
+13462,hyundi,Santa Fe,2015,Semi-Auto,46045,Diesel,5.57,2.2,265.0,16990
+13468,bmw,X7,2019,Semi-Auto,3300,Diesel,7.0,3.0,145.0,74140
+13470,vauxhall,Combo Life,2019,Manual,4538,Diesel,4.41,1.5,150.0,14498
+13472,vw,Jetta,2017,Manual,69222,Diesel,3.5,2.0,145.0,8852
+13473,toyota,Verso,2017,Automatic,10772,Petrol,5.5,1.8,150.0,15330
+13477,vw,Shuttle,2019,Semi-Auto,13859,Diesel,7.17,2.0,145.0,23329
+13478,ford,Grand C-MAX,2017,Manual,5859,Petrol,4.33,1.0,30.0,11500
+13479,ford,Galaxy,2010,Manual,113000,Diesel,4.74,2.0,200.0,5995
+13480,hyundi,IX35,2014,Manual,35452,Diesel,4.67,1.7,165.0,8498
+13496,audi,R8,2013,Semi-Auto,10800,Petrol,,4.2,570.0,54850
+13503,toyota,Avensis,2017,Manual,24705,Petrol,4.99,1.8,145.0,12498
+13504,merc,X-CLASS,2019,Automatic,303,Diesel,7.49,3.0,265.0,37891
+13505,ford,Edge,2019,Semi-Auto,3157,Diesel,6.32,2.0,145.0,32470
+13508,toyota,Hilux,2019,Automatic,5869,Diesel,6.5,2.4,260.0,33750
+13509,vw,Beetle,2016,Manual,11500,Petrol,4.58,1.2,125.0,11990
+13513,bmw,8 Series,2019,Automatic,953,Petrol,8.74,4.4,145.0,73900
+13524,audi,Q8,2020,Semi-Auto,4174,Diesel,7.66,4.0,145.0,86995
+13525,toyota,Verso,2016,Manual,30671,Diesel,3.75,1.6,30.0,12495
+13526,bmw,M3,2017,Semi-Auto,14894,Petrol,6.92,3.0,300.0,38000
+13530,skoda,Rapid,2015,Manual,37657,Diesel,3.5,1.6,0.0,7900
+13534,audi,A7,2015,Automatic,31000,Diesel,3.99,3.0,125.0,16990
+13535,hyundi,Santa Fe,2019,Automatic,5000,Diesel,5.91,2.2,145.0,36495
+13541,bmw,X6,2016,Semi-Auto,21088,Diesel,4.99,3.0,200.0,30891
+13547,audi,RS5,2019,Automatic,6000,Petrol,7.92,2.9,145.0,66990
+13551,merc,V Class,2019,Automatic,1253,Diesel,6.5,2.0,145.0,58800
+13552,bmw,M4,2016,Semi-Auto,23765,Petrol,6.92,3.0,300.0,34932
+13553,bmw,X4,2016,Semi-Auto,64000,Diesel,4.33,2.0,145.0,20022
+13558,ford,Galaxy,2012,Manual,75179,Diesel,4.74,2.0,165.0,7990
+13562,audi,RS4,2019,Automatic,5159,Petrol,8.08,2.9,145.0,59450
+13563,skoda,Scala,2019,Manual,4292,Petrol,4.74,1.0,145.0,15312
+13566,merc,M Class,2014,Semi-Auto,48928,Diesel,5.08,2.1,200.0,18500
+13573,bmw,X4,2019,Semi-Auto,1501,Diesel,5.75,3.0,145.0,41995
+13577,vw,Shuttle,2020,Manual,1000,Diesel,6.24,2.0,150.0,25199
+13581,bmw,Z4,2020,Automatic,2500,Petrol,6.08,2.0,145.0,35995
+13584,merc,M Class,2013,Automatic,66426,Diesel,6.0,3.0,300.0,15890
+13587,ford,Grand C-MAX,2017,Manual,29396,Diesel,3.66,1.5,30.0,11998
+13594,toyota,Avensis,2018,Manual,31174,Diesel,3.83,2.0,145.0,14495
+13595,ford,Edge,2018,Manual,18301,Diesel,4.83,2.0,145.0,19790
+13597,merc,GL Class,2016,Semi-Auto,64025,Diesel,6.5,3.0,325.0,29090
+13603,toyota,Hilux,2017,Automatic,20758,Diesel,6.5,2.4,260.0,19350
+13604,toyota,Avensis,2017,Manual,41211,Diesel,3.5,1.6,145.0,10800
+13606,vauxhall,Combo Life,2019,Manual,10994,Diesel,4.41,1.5,145.0,13498
+13610,bmw,8 Series,2020,Semi-Auto,123,Petrol,7.08,3.0,145.0,66991
+13617,skoda,Rapid,2014,Manual,41648,Petrol,4.5,1.2,125.0,6995
+13619,hyundi,Santa Fe,2019,,2715,Diesel,5.5,2.2,145.0,29995
+13620,audi,Q8,2018,Automatic,7000,Diesel,7.0,3.0,145.0,51495
+13621,toyota,Verso,2017,Manual,27553,Diesel,3.75,1.6,30.0,11998
+13622,audi,A7,2018,Semi-Auto,12958,Diesel,4.5,3.0,145.0,29900
+13624,bmw,X7,2019,Semi-Auto,4997,Diesel,7.49,3.0,145.0,69995
+13626,hyundi,I800,2018,Automatic,34103,Diesel,7.0,2.5,145.0,15299
+13627,ford,Tourneo Connect,2018,Manual,30000,Diesel,3.66,1.5,145.0,14999
+13628,toyota,Avensis,2015,Manual,68200,Diesel,3.83,2.0,30.0,6695
+13631,merc,GL Class,2016,Automatic,37989,Diesel,6.5,3.0,330.0,31988
+13634,audi,A8,2019,,5000,Diesel,5.82,3.0,145.0,47990
+13639,ford,KA,2013,Manual,30626,Petrol,4.08,1.2,30.0,3991
+13640,vauxhall,Combo Life,2019,Manual,9000,Petrol,5.57,1.2,145.0,15760
+13645,toyota,IQ,2009,Manual,74095,Petrol,3.58,1.0,0.0,2699
+13647,ford,Puma,2020,Manual,384,Petrol,4.74,1.0,145.0,24500
+13649,toyota,GT86,2019,Manual,7056,Petrol,7.08,2.0,145.0,25121
+13651,ford,Tourneo Custom,2016,Manual,26807,Diesel,5.08,2.0,200.0,16798
+13652,toyota,Avensis,2016,Manual,55086,Diesel,3.5,1.6,20.0,10995
+13654,hyundi,Santa Fe,2020,Semi-Auto,985,Diesel,6.0,2.2,150.0,36990
+13655,bmw,X4,2020,Semi-Auto,117,Diesel,5.75,3.0,145.0,53630
+13662,audi,A8,2015,Automatic,30306,Petrol,9.41,6.3,570.0,32000
+13665,audi,R8,2008,Automatic,52500,Petrol,11.2,4.2,580.0,33950
+13666,hyundi,I800,2018,Manual,37324,Diesel,8.4,2.5,145.0,15998
+13668,hyundi,I40,2013,Manual,58232,Diesel,3.58,1.7,30.0,7191
+13670,hyundi,IX20,2017,Automatic,27347,Petrol,5.41,1.6,150.0,10499
+13672,merc,CLA Class,2016,Manual,37756,Diesel,3.5,2.1,20.0,15800
+13678,hyundi,IX20,2016,Manual,51500,Diesel,3.66,1.6,30.0,8995
+13682,merc,CLS Class,2019,Automatic,2611,Diesel,4.83,2.9,145.0,38444
+13684,merc,GLB Class,2020,Semi-Auto,1500,Diesel,5.25,2.0,145.0,36995
+13689,audi,RS6,2016,Semi-Auto,37703,Petrol,8.0,4.0,325.0,47850
+13690,hyundi,I40,2015,Manual,25350,Diesel,3.5,1.7,20.0,9495
+13692,merc,CLS Class,2019,Semi-Auto,4977,Diesel,4.91,2.9,145.0,47899
+13695,vw,Beetle,2017,Manual,17859,Petrol,4.41,0.0,125.0,13800
+13698,merc,S Class,2015,Automatic,11000,Petrol,7.08,4.7,270.0,38980
+13700,vw,Caddy Maxi Life,2017,Manual,39680,Diesel,3.99,2.0,125.0,13950
+13702,vw,Arteon,2019,Automatic,3500,Other,4.99,2.0,145.0,27495
+13707,toyota,GT86,2016,Semi-Auto,19460,Petrol,5.91,2.0,200.0,15995
+13712,toyota,IQ,2009,Manual,43000,Petrol,3.58,1.0,0.0,3495
+13713,vw,Scirocco,2014,Manual,69775,Diesel,4.41,2.0,150.0,9298
+13716,hyundi,I800,2019,Manual,15997,Diesel,7.42,2.5,150.0,18499
+13719,audi,RS5,2014,Semi-Auto,39210,Petrol,8.74,4.2,555.0,23400
+13721,bmw,X6,2019,Semi-Auto,13000,Diesel,5.25,3.0,145.0,41780
+13729,ford,Grand C-MAX,2013,Manual,35765,Diesel,3.91,1.6,125.0,6597
+13730,bmw,X4,2017,Semi-Auto,30485,Diesel,4.91,3.0,150.0,26491
+13731,vw,Shuttle,2019,Manual,8329,Diesel,6.16,2.0,145.0,19995
+13733,hyundi,I40,2019,Manual,20,Diesel,4.5,1.6,145.0,16000
+13736,hyundi,I800,2019,Manual,2544,Diesel,7.42,2.5,145.0,19998
+13742,toyota,Avensis,2017,Manual,18089,Petrol,5.16,1.8,145.0,14999
+13746,ford,Grand C-MAX,2015,Manual,33746,Diesel,3.91,1.6,125.0,8879
+13751,audi,S4,2019,Automatic,4129,Diesel,5.82,0.0,145.0,39850
+13755,vw,Arteon,2019,Semi-Auto,50,Petrol,4.99,2.0,145.0,29498
+13756,vw,Arteon,2018,Semi-Auto,21194,Petrol,4.99,2.0,145.0,19498
+13759,ford,Galaxy,2016,Manual,32170,Diesel,4.16,2.0,125.0,14999
+13767,bmw,6 Series,2006,Automatic,126054,Petrol,7.92,3.0,555.0,4999
+13768,merc,GL Class,2018,Automatic,24632,Diesel,4.16,2.1,145.0,27499
+13771,bmw,Z4,2004,Manual,114000,Petrol,7.33,2.2,325.0,1995
+13774,toyota,Prius,2015,Automatic,28254,Other,3.66,1.8,10.0,21790
+13775,toyota,Verso,2017,Semi-Auto,19856,Petrol,5.5,1.8,200.0,13995
+13776,hyundi,IX20,2018,Manual,2259,Petrol,6.32,1.6,145.0,15495
+13781,hyundi,Santa Fe,2016,Semi-Auto,26317,Diesel,5.5,2.2,240.0,18797
+13785,vw,Caddy Maxi Life,2019,Semi-Auto,9793,Diesel,3.99,2.0,145.0,20994
+13787,merc,X-CLASS,2019,Automatic,8798,Diesel,7.49,3.0,260.0,34491
+13788,toyota,Prius,2015,Automatic,11872,Hybrid,3.66,1.8,10.0,22995
+13789,hyundi,IX20,2013,,85000,Petrol,5.16,1.4,150.0,4799
+13790,skoda,Scala,2019,Automatic,3973,Petrol,5.16,1.5,145.0,17495
+13791,vw,Caravelle,2020,Semi-Auto,15,Diesel,,2.0,145.0,45450
+13792,hyundi,I800,2019,Manual,2804,Diesel,8.4,2.5,145.0,21498
+13793,audi,A7,2017,Semi-Auto,47800,Petrol,7.92,4.0,150.0,31000
+13794,skoda,Yeti,2016,Semi-Auto,22708,Petrol,4.58,1.2,125.0,12000
+13795,ford,KA,2015,Manual,35130,Petrol,4.08,1.2,30.0,5000
+13797,bmw,i3,2017,Automatic,41146,Hybrid,0.5,0.0,0.0,19998
+13804,vw,Caddy,2016,Manual,20688,Diesel,3.91,2.0,125.0,12995
+13812,toyota,Hilux,2016,Automatic,30848,Diesel,7.17,3.0,260.0,19498
+13813,vw,Caddy Maxi Life,2019,Semi-Auto,11971,Diesel,4.33,2.0,150.0,19495
+13814,hyundi,IX20,2017,Automatic,11058,Petrol,5.41,1.6,160.0,9995
+13820,bmw,M4,2019,Automatic,3395,Petrol,6.92,3.0,145.0,58662
+13823,vauxhall,Agila,2014,Manual,28221,Petrol,4.25,1.2,30.0,4995
+13825,hyundi,IX35,2015,Automatic,24128,Diesel,5.67,2.0,260.0,12500
+13828,toyota,Prius,2016,Automatic,24572,Hybrid,2.5,1.8,0.0,17250
+13830,merc,S Class,2020,Semi-Auto,3999,Diesel,5.82,3.0,145.0,64980
+13831,merc,GL Class,2015,Manual,29053,Diesel,3.66,2.1,20.0,14999
+13833,bmw,Z4,2020,Automatic,110,Petrol,6.08,2.0,145.0,30000
+13834,vw,Caravelle,2019,Semi-Auto,8022,Diesel,7.0,2.0,145.0,43000
+13837,hyundi,Santa Fe,2018,Automatic,12743,Diesel,6.0,2.2,145.0,31394
+13838,vw,Scirocco,2016,Automatic,23420,Diesel,3.75,2.0,30.0,15300
+13842,toyota,Prius,2014,Automatic,23000,Hybrid,3.41,1.8,0.0,18750
+13845,vw,Scirocco,2015,Semi-Auto,75923,Diesel,4.41,2.0,125.0,12142
+13847,hyundi,IX20,2017,Automatic,19500,Petrol,5.41,1.6,160.0,9995
+13850,ford,Edge,2016,Manual,29886,Diesel,4.83,2.0,165.0,16991
+13854,hyundi,Santa Fe,2018,Semi-Auto,8400,Diesel,5.91,2.2,150.0,29495
+13856,bmw,X4,2019,Semi-Auto,8454,Diesel,5.5,2.0,150.0,36990
+13857,vauxhall,GTC,2015,Manual,13764,Petrol,4.99,1.4,160.0,9288
+13858,skoda,Kamiq,2019,Manual,2100,Petrol,4.91,1.0,145.0,18495
+13861,skoda,Rapid,2016,Manual,36279,Petrol,3.91,1.2,20.0,7495
+13865,ford,KA,2015,Manual,15155,Petrol,4.08,1.2,30.0,4810
+13869,ford,Edge,2017,Semi-Auto,35000,Diesel,4.91,2.0,150.0,19750
+13872,vw,Amarok,2019,Automatic,3500,Diesel,8.31,3.0,260.0,33995
+13875,merc,CLA Class,2018,Automatic,11751,Petrol,4.5,1.6,145.0,18100
+13877,hyundi,I800,2016,Automatic,53292,Diesel,7.0,2.5,330.0,13110
+13878,vw,Scirocco,2016,Manual,17615,Petrol,,2.0,145.0,13495
+13882,ford,Mustang,2018,Manual,15744,Petrol,11.25,5.0,150.0,28489
+13885,bmw,X4,2019,Semi-Auto,10,Diesel,5.75,3.0,145.0,38997
+13889,toyota,Prius,2017,Automatic,25606,Other,3.41,1.8,135.0,21700
+13890,merc,SLK,2013,Semi-Auto,37411,Diesel,4.16,2.0,150.0,11991
+13892,hyundi,I40,2017,Manual,33067,Diesel,3.58,1.7,145.0,11485
+13895,hyundi,Santa Fe,2017,Semi-Auto,21615,Diesel,5.5,2.2,235.0,17998
+13896,skoda,Kamiq,2019,Manual,2563,Petrol,4.99,1.0,145.0,17990
+13897,merc,CLS Class,2013,Automatic,59210,Diesel,5.08,3.0,200.0,12795
+13898,skoda,Scala,2019,Manual,2689,Petrol,4.74,1.0,145.0,14495
+13900,vauxhall,GTC,2017,Manual,9278,Diesel,3.5,1.6,145.0,11237
+13901,ford,Grand C-MAX,2017,Manual,20366,Petrol,4.33,1.0,30.0,10607
+13903,vw,Caddy Maxi Life,2019,Automatic,13411,Diesel,5.33,2.0,145.0,18450
+13906,bmw,6 Series,2019,Semi-Auto,8004,Diesel,4.91,3.0,145.0,35980
+13909,audi,A7,2016,Semi-Auto,8915,Diesel,4.5,3.0,160.0,26950
+13914,audi,Q8,2019,Automatic,5800,Diesel,7.66,4.0,145.0,89750
+13915,toyota,GT86,2020,Manual,999,Petrol,7.08,2.0,145.0,29769
+13916,skoda,Yeti,2016,Manual,47219,Petrol,4.58,1.2,125.0,8707
+13919,vauxhall,Combo Life,2019,Manual,3598,Diesel,4.41,1.5,145.0,14999
+13921,vauxhall,GTC,2015,Manual,32300,Diesel,3.91,2.0,125.0,8499
+13922,merc,V Class,2019,Semi-Auto,7415,Diesel,5.16,2.2,145.0,40995
+13925,merc,S Class,2019,Automatic,1912,Petrol,6.92,4.0,145.0,86399
+13926,vw,Tiguan Allspace,2019,Automatic,8196,Diesel,6.08,2.0,145.0,29490
+13927,toyota,Prius,2014,Automatic,22271,Hybrid,3.66,1.8,10.0,19995
+13928,bmw,X4,2020,Automatic,100,Petrol,8.74,3.0,145.0,44899
+13929,ford,KA,2010,Manual,91811,Petrol,4.25,1.2,30.0,2991
+13930,toyota,Verso,2012,Manual,65700,Diesel,4.41,2.0,145.0,5995
+13934,merc,X-CLASS,2019,Automatic,9160,Diesel,6.57,2.3,260.0,23996
+13935,toyota,Avensis,2009,Manual,89000,Diesel,4.33,2.0,140.0,4994
+13944,bmw,7 Series,2019,Semi-Auto,5000,Petrol,6.82,3.0,145.0,48898
+13945,ford,Fusion,2010,Manual,83000,Petrol,5.41,1.4,200.0,1795
+13947,ford,Grand C-MAX,2018,Automatic,9377,Diesel,4.58,1.5,145.0,13999
+13951,skoda,Yeti,2013,Manual,58304,Diesel,4.74,2.0,160.0,9750
+13953,vw,Tiguan Allspace,2019,Semi-Auto,3792,Petrol,6.57,1.5,150.0,31291
+13955,hyundi,I40,2019,Manual,8178,Petrol,6.16,1.6,150.0,16250
+13958,hyundi,IX20,2015,Automatic,12000,Petrol,5.39,1.6,200.0,8495
+13959,vw,Amarok,2015,Automatic,32800,Diesel,6.66,2.0,260.0,17995
+13966,merc,CLA Class,2019,Automatic,3128,Petrol,5.75,2.0,145.0,28680
+13967,audi,R8,2019,Semi-Auto,4000,Petrol,10.99,5.2,145.0,129000
+13969,merc,CLS Class,2019,Semi-Auto,11763,Diesel,4.91,2.9,145.0,41999
+13972,bmw,7 Series,2019,Semi-Auto,5893,Diesel,5.33,3.0,145.0,45898
+13978,audi,A7,2018,Semi-Auto,19112,Petrol,5.91,3.0,150.0,38500
+13981,vauxhall,Vivaro,2016,Manual,51206,Diesel,4.74,1.6,160.0,14856
+13984,skoda,Yeti,2016,Semi-Auto,22918,Petrol,4.58,1.2,125.0,12695
+13991,ford,Edge,2017,Semi-Auto,20746,Diesel,4.91,2.0,150.0,23500
+13994,vw,Arteon,2018,Semi-Auto,26009,Petrol,4.99,2.0,145.0,22175
+13998,hyundi,Santa Fe,2017,Manual,30142,Diesel,4.99,2.2,200.0,17295
+14001,bmw,X4,2019,Automatic,3201,Diesel,5.82,3.0,145.0,39480
+14005,audi,A8,2019,Automatic,3000,Diesel,5.82,3.0,145.0,47990
+14006,toyota,Verso,2017,Manual,9700,Petrol,5.67,1.6,150.0,11395
+14008,vw,CC,2016,Automatic,53555,Diesel,3.99,2.0,125.0,11495
+14009,hyundi,Santa Fe,2015,Semi-Auto,54000,Diesel,5.57,2.2,265.0,14500
+14019,vw,Caravelle,2019,Automatic,11441,Diesel,7.0,2.0,145.0,33495
+14020,toyota,Verso,2016,Manual,19417,Petrol,5.67,1.6,200.0,11691
+14026,bmw,7 Series,2019,Semi-Auto,1075,Diesel,5.67,3.0,145.0,47975
+14029,vw,Shuttle,2019,Semi-Auto,11320,Diesel,7.17,2.0,150.0,26994
+14037,merc,CLS Class,2016,Semi-Auto,20306,Diesel,4.58,3.0,165.0,21998
+14038,hyundi,I800,2019,Manual,17124,Diesel,7.42,2.5,150.0,18430
+14039,merc,S Class,2013,Automatic,56061,Hybrid,5.25,3.5,190.0,24530
+14042,ford,Edge,2017,Manual,48000,Diesel,4.83,2.0,160.0,17495
+14044,toyota,Avensis,2016,Manual,7800,Diesel,3.75,2.0,30.0,11499
+14048,ford,Tourneo Custom,2016,Manual,11960,Diesel,5.25,2.0,200.0,19698
+14052,skoda,Scala,2019,Automatic,1121,Petrol,4.99,1.0,145.0,15995
+14058,ford,Edge,2017,Manual,18111,Diesel,4.83,2.0,145.0,18990
+14063,hyundi,I40,2014,,66200,Diesel,4.99,1.7,205.0,7995
+14065,vw,Arteon,2018,Automatic,2570,Petrol,5.82,1.5,145.0,22000
+14069,skoda,Scala,2020,Manual,1284,Diesel,4.08,1.6,145.0,18250
+14071,merc,CLA Class,2016,Automatic,32754,Diesel,3.5,2.1,20.0,15944
+14072,bmw,M4,2019,Semi-Auto,102,Petrol,6.92,3.0,145.0,41945
+14078,ford,Galaxy,2018,Manual,11704,Diesel,4.25,2.0,145.0,21500
+14079,hyundi,IX20,2017,Manual,23195,Petrol,4.67,1.4,125.0,8499
+14080,hyundi,Santa Fe,2016,Manual,34284,Diesel,4.99,2.2,200.0,18491
+14089,skoda,Rapid,2016,Manual,31220,Diesel,3.5,1.6,0.0,8498
+14091,toyota,Prius,2016,Automatic,30994,Hybrid,2.5,1.8,0.0,16999
+14094,skoda,Scala,2019,Manual,6500,Petrol,4.74,1.0,150.0,16995
+14097,vw,Eos,2014,Manual,58000,Diesel,3.99,2.0,125.0,8950
+14098,toyota,Prius,2017,Automatic,12930,Hybrid,3.66,1.8,10.0,24999
+14099,toyota,Avensis,2016,Manual,19862,Diesel,3.5,1.6,20.0,9990
+14100,hyundi,Santa Fe,2018,Automatic,17189,Diesel,5.5,2.2,145.0,21995
+14102,bmw,M5,2019,Semi-Auto,5000,Petrol,8.74,4.4,150.0,63980
+14105,hyundi,IX35,2014,Manual,50000,Diesel,4.41,1.7,145.0,8275
+14107,vw,Beetle,2001,Manual,110000,Petrol,4.74,1.6,200.0,1295
+14110,merc,CLS Class,2015,Semi-Auto,22067,Diesel,4.08,2.1,125.0,18999
+14111,ford,Grand Tourneo Connect,2019,Manual,11500,Diesel,5.08,1.5,150.0,14998
+14120,ford,Puma,2019,Manual,780,Petrol,4.67,1.0,145.0,21700
+14122,skoda,Scala,2019,Manual,1813,Diesel,4.08,1.6,145.0,15495
+14126,merc,S Class,2015,Automatic,23156,Petrol,8.4,5.5,555.0,51990
+14130,hyundi,IX35,2014,Manual,57675,Diesel,4.41,1.7,145.0,7530
+14133,skoda,Scala,2019,Semi-Auto,243,Petrol,5.16,1.5,145.0,17920
+14135,skoda,Rapid,2013,Manual,49550,Petrol,4.5,1.2,125.0,4999
+14140,ford,Grand Tourneo Connect,2018,Automatic,8354,Diesel,4.16,1.5,150.0,17298
+14147,skoda,Yeti,2017,Semi-Auto,29843,Petrol,4.58,1.2,125.0,11790
+14150,ford,KA,2014,Manual,22609,Petrol,,1.2,30.0,4898
+14151,merc,S Class,2019,Automatic,2528,Diesel,4.83,3.0,145.0,62799
+14154,bmw,M4,2016,Semi-Auto,32866,Petrol,6.92,3.0,300.0,30485
+14156,merc,S Class,2015,Semi-Auto,28191,Diesel,4.91,3.0,200.0,24498
+14161,hyundi,IX20,2016,Manual,30565,Petrol,4.67,1.4,125.0,7998
+14172,hyundi,IX20,2015,Automatic,43000,Petrol,5.39,1.6,205.0,7495
+14173,audi,A7,2019,Semi-Auto,5658,Diesel,6.16,3.0,150.0,36450
+14176,skoda,Scala,2020,Semi-Auto,50,Petrol,4.99,1.0,150.0,17490
+14177,vw,Caravelle,2013,Automatic,46000,Diesel,6.66,2.0,325.0,22995
+14178,ford,Edge,2018,Semi-Auto,13122,Diesel,4.91,2.0,145.0,24850
+14180,vw,Scirocco,2015,Automatic,17129,Diesel,4.08,2.0,30.0,12995
+14181,ford,KA,2018,Manual,7973,Petrol,4.08,1.2,150.0,9250
+14182,bmw,i3,2015,Automatic,79830,Hybrid,0.5,0.0,0.0,12500
+14183,toyota,Verso,2016,Automatic,13000,Petrol,5.5,1.8,200.0,14995
+14184,bmw,i8,2014,Automatic,41237,Hybrid,1.75,1.5,0.0,43497
+14186,ford,Tourneo Connect,2016,Manual,72777,Diesel,3.66,1.5,30.0,9000
+14189,bmw,i3,2017,Automatic,21025,Hybrid,0.5,0.0,0.0,22495
+14191,toyota,GT86,2017,Manual,20219,Petrol,6.5,2.0,145.0,18250
+14192,skoda,Roomster,2014,Semi-Auto,24606,Petrol,4.74,1.2,145.0,7995
+14194,vauxhall,GTC,2018,Manual,9882,Petrol,6.5,2.0,150.0,18998
+14199,toyota,GT86,2012,,74599,Petrol,5.91,2.0,200.0,9995
+14201,bmw,7 Series,2016,Automatic,30194,Diesel,4.33,3.0,150.0,26800
+14204,merc,X-CLASS,2018,Automatic,3900,Diesel,6.57,2.3,260.0,23000
+14210,toyota,Hilux,2018,Automatic,26000,Diesel,6.5,2.4,260.0,22495
+14211,vw,Scirocco,2016,,18092,Petrol,4.99,2.0,150.0,16499
+14215,vw,Arteon,2020,Semi-Auto,4688,Diesel,4.67,2.0,145.0,31991
+14218,merc,SLK,2002,Automatic,80586,Petrol,7.66,2.0,330.0,2990
+14219,merc,CLS Class,2015,Semi-Auto,44192,Diesel,4.16,2.1,125.0,16590
+14220,ford,Galaxy,2017,Manual,48533,Diesel,4.16,2.0,125.0,16995
+14221,vw,Jetta,2015,Manual,28120,Diesel,3.33,2.0,20.0,9690
+14224,skoda,Scala,2019,Semi-Auto,3430,Petrol,5.16,1.5,145.0,15990
+14226,vw,Scirocco,2017,Semi-Auto,18739,Diesel,4.41,2.0,145.0,16500
+14230,vw,Caravelle,2019,Semi-Auto,1099,Diesel,7.17,2.0,145.0,35495
+14234,vw,CC,2013,Manual,23255,Diesel,3.91,2.0,30.0,9998
+14240,vauxhall,Combo Life,2019,Manual,7555,Diesel,4.41,1.5,145.0,13998
+14243,vauxhall,Antara,2009,Manual,90000,Diesel,6.24,2.0,305.0,2950
+14245,ford,Grand C-MAX,2016,Manual,12548,Diesel,3.66,1.5,30.0,11500
+14246,bmw,7 Series,2017,Semi-Auto,28338,Diesel,4.16,3.0,145.0,35464
+14248,ford,Edge,2016,Manual,24984,Diesel,4.83,2.0,160.0,17750
+14251,merc,GL Class,2016,Semi-Auto,17000,Diesel,,3.0,305.0,38362
+14257,toyota,Avensis,2017,Automatic,18953,Petrol,4.99,1.8,160.0,16495
+14259,merc,M Class,2011,Automatic,75000,Diesel,7.59,3.0,555.0,13150
+14262,merc,GL Class,2016,Automatic,32293,Diesel,3.5,2.1,20.0,16999
+14264,vw,Arteon,2019,Semi-Auto,6198,Petrol,5.82,1.5,150.0,27490
+14267,merc,S Class,2019,Automatic,618,Diesel,4.5,3.0,145.0,63999
+14273,hyundi,IX35,2010,Manual,62000,Diesel,4.91,2.0,200.0,5995
+14278,ford,Grand Tourneo Connect,2017,Manual,14825,Diesel,3.83,1.5,125.0,12750
+14280,bmw,M4,2020,Automatic,10,Petrol,6.92,3.0,150.0,45488
+14286,toyota,Prius,2017,Automatic,39158,Hybrid,2.5,1.8,0.0,19980
+14287,ford,Galaxy,2016,Manual,25405,Diesel,4.16,2.0,125.0,16387
+14288,ford,Tourneo Connect,2015,Manual,28309,Diesel,3.99,1.6,125.0,10298
+14291,merc,S Class,2019,Semi-Auto,1042,Diesel,4.5,3.0,145.0,46998
+14298,merc,M Class,2009,Automatic,86000,Diesel,7.74,3.0,555.0,8995
+14301,audi,A8,2019,Automatic,1000,Diesel,5.82,3.0,145.0,39995
+14304,ford,Edge,2017,Manual,19027,Diesel,4.83,2.0,145.0,19600
+14305,audi,S3,2017,Automatic,25000,Petrol,5.41,2.0,150.0,25850
+14306,toyota,Prius,2016,Automatic,19391,Hybrid,2.75,1.8,0.0,18915
+14307,hyundi,Santa Fe,2019,Semi-Auto,7984,Diesel,5.91,2.2,145.0,29850
+14309,toyota,Verso,2017,Manual,20501,Petrol,5.67,1.6,145.0,12490
+14313,vw,Scirocco,2016,Semi-Auto,67366,Diesel,3.99,2.0,125.0,12160
+14314,bmw,8 Series,2020,Semi-Auto,6374,Diesel,8.81,3.0,145.0,61485
+14318,vw,Scirocco,2017,Manual,22575,Petrol,4.99,2.0,145.0,16250
+14321,skoda,Roomster,2013,Manual,28131,Petrol,4.74,1.2,145.0,5495
+14326,audi,Q8,2019,Semi-Auto,2423,Diesel,7.0,3.0,145.0,49750
+14327,ford,KA,2015,Manual,28192,Petrol,4.08,1.2,30.0,5200
+14331,toyota,Prius,2017,Automatic,68812,Hybrid,2.5,1.8,0.0,15698
+14332,hyundi,I40,2015,Manual,39779,Diesel,3.58,1.7,30.0,9995
+14333,vw,Amarok,2015,Automatic,97834,Diesel,6.66,2.0,260.0,12995
+14343,ford,Mustang,2017,Semi-Auto,9511,Petrol,10.01,5.0,145.0,31317
+14351,merc,SLK,2001,Manual,56785,Petrol,9.22,3.2,325.0,4990
+14354,hyundi,I800,2019,Manual,17972,Diesel,8.4,2.5,145.0,17998
+14360,bmw,7 Series,2019,Automatic,2000,Hybrid,2.08,2.0,135.0,49000
+14361,skoda,Yeti,2016,Automatic,48682,Petrol,4.58,1.2,125.0,10499
+14367,bmw,Z4,2013,Semi-Auto,26356,Petrol,5.67,2.0,200.0,13640
+14370,hyundi,I800,2019,Automatic,10124,Diesel,8.4,2.5,145.0,21980
+14371,hyundi,IX20,2016,Manual,19999,Petrol,4.67,1.4,125.0,8399
+14375,bmw,X4,2019,Automatic,5769,Diesel,6.32,3.0,145.0,41980
+14377,merc,S Class,2017,Automatic,21600,Diesel,4.5,2.9,145.0,41990
+14382,merc,CLS Class,2015,Automatic,46085,Diesel,4.58,3.0,160.0,18680
+14383,bmw,6 Series,2016,Automatic,47148,Diesel,4.74,3.0,200.0,20610
+14387,audi,RS4,2018,Semi-Auto,33827,Petrol,7.33,2.9,145.0,49990
+14391,hyundi,IX20,2018,Manual,11038,Petrol,4.67,1.4,145.0,10195
+14394,merc,S Class,2015,Semi-Auto,64518,Diesel,4.83,3.0,200.0,25999
+14395,toyota,Prius,2016,Automatic,53500,Hybrid,3.41,1.8,0.0,17495
+14399,bmw,Z4,2020,Semi-Auto,10,Petrol,6.32,2.0,145.0,32490
+14401,bmw,6 Series,2008,Automatic,72000,Diesel,5.75,3.0,260.0,8490
+14402,vauxhall,GTC,2017,Manual,33894,Petrol,6.5,2.0,145.0,14510
+14404,ford,Grand C-MAX,2017,Manual,41000,Petrol,4.33,1.0,30.0,10900
+14406,ford,Grand C-MAX,2011,Manual,92785,Petrol,5.75,1.6,200.0,5000
+14409,audi,A8,2018,Semi-Auto,8872,Diesel,4.83,3.0,145.0,38990
+14410,vw,Jetta,2015,Manual,65015,Diesel,3.33,2.0,20.0,6999
+14411,hyundi,IX35,2013,Manual,80465,Diesel,4.41,1.7,145.0,6998
+14418,skoda,Kamiq,2019,Manual,2287,Petrol,4.74,1.0,145.0,16990
+14420,bmw,M2,2019,Manual,4534,Petrol,8.25,3.0,145.0,46000
+14421,ford,Grand C-MAX,2016,Automatic,26035,Diesel,3.99,1.5,30.0,9793
+14423,hyundi,IX20,2015,Manual,27328,Petrol,4.67,1.4,125.0,8032
+14424,bmw,i3,2017,Automatic,3976,Hybrid,0.5,0.0,135.0,22999
+14427,bmw,M4,2019,Automatic,123,Petrol,6.92,3.0,145.0,41490
+14430,vauxhall,Combo Life,2019,Manual,3819,Petrol,5.57,1.2,145.0,17999
+14431,hyundi,Santa Fe,2016,Manual,19454,Diesel,4.99,2.2,200.0,20995
+14440,bmw,X4,2018,Semi-Auto,21694,Diesel,4.33,2.0,150.0,25980
+14442,skoda,Rapid,2014,Manual,39180,Petrol,4.08,1.2,30.0,5495
+14444,merc,CLS Class,2019,Semi-Auto,7101,Diesel,4.91,2.9,145.0,44799
+14447,hyundi,IX20,2017,Manual,12689,Petrol,4.67,1.4,145.0,9750
+14448,merc,V Class,2018,Automatic,26500,Diesel,5.16,2.1,145.0,35990
+14449,vauxhall,Zafira Tourer,2016,,10475,Petrol,5.75,1.4,200.0,12900
+14450,toyota,Prius,2019,Automatic,9776,Hybrid,3.66,1.8,135.0,22998
+14451,vw,Jetta,2017,Semi-Auto,12649,Petrol,4.25,1.4,150.0,11490
+14452,toyota,Hilux,2017,Automatic,17235,Diesel,6.5,2.4,260.0,21998
+14453,hyundi,Santa Fe,2017,Semi-Auto,40124,Diesel,5.5,2.2,235.0,17998
+14456,ford,Edge,2016,Manual,13778,Diesel,4.91,2.0,200.0,21750
+14462,vauxhall,Combo Life,2019,Automatic,10000,Diesel,4.67,1.5,145.0,17999
+14463,bmw,Z4,2020,Semi-Auto,105,Petrol,6.08,2.0,145.0,30990
+14466,hyundi,I40,2016,Manual,14335,Diesel,3.5,1.7,20.0,10995
+14468,skoda,Kamiq,2020,Semi-Auto,1050,Petrol,5.41,1.5,145.0,22800
+14472,ford,Grand C-MAX,2017,Manual,37124,Diesel,3.66,1.5,30.0,10750
+14473,bmw,X4,2019,Semi-Auto,9168,Diesel,5.75,3.0,150.0,37990
+14474,bmw,X7,2019,Automatic,3980,Diesel,7.49,3.0,145.0,69880
+14476,vw,Arteon,2019,Manual,20,Diesel,4.5,2.0,150.0,23990
+14477,merc,CLS Class,2018,Semi-Auto,1841,Diesel,4.83,2.9,145.0,36500
+14480,ford,Tourneo Custom,2019,Manual,7000,Diesel,7.42,2.0,145.0,29495
+14481,hyundi,I800,2019,Manual,11872,Diesel,7.42,2.5,145.0,19995
+14483,ford,Galaxy,2017,Semi-Auto,46761,Diesel,4.5,2.0,145.0,18200
+14488,vw,Arteon,2017,Semi-Auto,24853,Petrol,6.08,2.0,150.0,21000
+14493,ford,Grand C-MAX,2017,Manual,26000,Diesel,3.66,1.5,30.0,12595
+14494,merc,M Class,2010,Automatic,46000,Diesel,7.59,3.0,555.0,12995
+14500,vw,Arteon,2019,Automatic,2354,Diesel,4.67,2.0,145.0,29156
+14501,vauxhall,Vivaro,2018,Manual,23242,Diesel,5.75,1.6,150.0,15249
+14502,vw,Arteon,2019,Semi-Auto,9301,Diesel,4.67,2.0,145.0,23950
+14503,ford,KA,2012,Manual,19959,Petrol,4.08,1.2,30.0,4195
+14504,toyota,Hilux,2016,Manual,69921,Diesel,5.82,2.4,260.0,13695
+14505,toyota,Verso,2016,Automatic,25001,Petrol,5.41,1.8,160.0,12999
+14506,bmw,8 Series,2020,Semi-Auto,419,Petrol,7.08,3.0,145.0,69991
+14507,ford,Tourneo Custom,2017,Manual,4629,Diesel,5.25,2.0,145.0,20156
+14508,ford,Edge,2016,Automatic,42093,Diesel,4.91,2.0,205.0,19400
+14512,skoda,Scala,2019,Semi-Auto,3000,Petrol,4.99,1.0,145.0,15299
+14513,ford,Galaxy,2017,Manual,27769,Diesel,4.16,2.0,125.0,17995
+14514,hyundi,IX35,2013,Automatic,37000,Diesel,6.0,2.0,300.0,9995
+14515,hyundi,Santa Fe,2019,Automatic,4000,Diesel,6.0,2.2,145.0,34864
+14516,merc,GLB Class,2020,Automatic,20,Diesel,5.25,2.0,145.0,44298
+14518,merc,GLB Class,2020,Semi-Auto,1499,Diesel,4.91,2.0,145.0,35990
+14519,skoda,Kamiq,2019,Automatic,2777,Petrol,5.16,1.0,145.0,18217
+14522,vw,CC,2015,Semi-Auto,51268,Diesel,3.99,2.0,125.0,10471
+14523,bmw,X7,2019,Automatic,5825,Petrol,9.48,3.0,145.0,67986
+14524,merc,V Class,2019,Automatic,20,Diesel,6.41,2.0,145.0,47490
+14525,ford,Grand C-MAX,2016,Automatic,28376,Diesel,4.16,2.0,125.0,10995
+14527,hyundi,Santa Fe,2019,Semi-Auto,1642,Diesel,5.91,2.2,150.0,32995
+14530,merc,GLS Class,2019,Semi-Auto,29,Diesel,6.92,3.0,145.0,60124
+14536,toyota,Avensis,2017,Manual,21431,Petrol,,1.8,145.0,12698
+14538,toyota,GT86,2019,Manual,2488,Petrol,7.08,2.0,145.0,24995
+14548,merc,CLA Class,2017,Manual,22171,Petrol,4.58,1.6,145.0,15600
+14549,vw,Scirocco,2015,Manual,63004,Diesel,4.25,2.0,20.0,10990
+14552,ford,KA,2010,Manual,33563,Petrol,4.25,1.2,30.0,3995
+14553,hyundi,Santa Fe,2016,Manual,11255,Diesel,5.08,2.2,200.0,17390
+14555,vauxhall,Combo Life,2019,Manual,9965,Diesel,4.41,1.5,145.0,16413
+14562,toyota,GT86,2019,Automatic,4000,Petrol,7.17,2.0,145.0,24990
+14564,ford,Grand C-MAX,2017,Manual,33163,Petrol,4.33,1.0,30.0,10400
+14567,ford,Galaxy,2017,Manual,50565,Diesel,4.16,2.0,150.0,14995
+14568,hyundi,I40,2019,Manual,30,Diesel,4.33,1.6,145.0,16000
+14572,hyundi,I800,2019,Manual,6483,Diesel,7.42,2.5,145.0,20498
+14573,ford,Edge,2018,Semi-Auto,9343,Diesel,4.91,2.0,145.0,22998
+14574,hyundi,IX35,2014,Manual,82203,Diesel,4.41,1.7,145.0,6881
+14575,vw,CC,2015,Automatic,34291,Diesel,4.41,2.0,145.0,11715
+14576,hyundi,Santa Fe,2018,Semi-Auto,35887,Diesel,5.5,2.2,145.0,20995
+14579,ford,Tourneo Custom,2018,Automatic,22037,Diesel,7.42,2.0,145.0,21228
+14581,vauxhall,GTC,2016,Manual,7754,Petrol,4.99,1.4,160.0,7820
+14582,vw,Caddy Maxi Life,2019,Automatic,13106,Diesel,5.33,2.0,145.0,19000
+14587,merc,CLS Class,2012,Automatic,107000,Diesel,5.08,3.0,205.0,10990
+14588,toyota,Prius,2016,Automatic,55826,Hybrid,2.75,1.8,0.0,16498
+14591,hyundi,Santa Fe,2006,Manual,71000,Petrol,8.17,2.4,555.0,3490
+14592,bmw,M4,2017,Semi-Auto,10950,Petrol,6.92,3.0,145.0,36595
+14596,merc,M Class,2015,Automatic,53815,Diesel,6.0,2.1,205.0,18300
+14601,merc,CLA Class,2016,Automatic,82177,Diesel,3.41,2.1,20.0,11950
+14602,bmw,8 Series,2019,Semi-Auto,2881,Petrol,7.42,3.0,150.0,59694
+14605,toyota,Land Cruiser,2019,Semi-Auto,12543,Diesel,7.81,2.8,145.0,39498
+14608,vw,Amarok,2019,Automatic,9500,Diesel,6.5,3.0,260.0,26999
+14619,ford,Galaxy,2016,Manual,35029,Diesel,4.16,2.0,125.0,16299
+14622,skoda,Scala,2020,Manual,1000,Petrol,4.74,1.0,150.0,16995
+14623,bmw,X4,2015,Semi-Auto,8732,Diesel,4.91,3.0,205.0,26332
+14629,toyota,Hilux,2014,Manual,88912,Diesel,6.08,2.5,260.0,11495
+14630,vauxhall,Zafira Tourer,2016,Manual,58825,Petrol,5.57,1.4,205.0,8495
+14631,ford,Mustang,2019,Semi-Auto,10810,Petrol,10.64,5.0,145.0,36799
+14633,bmw,M4,2018,Semi-Auto,17923,Petrol,6.92,3.0,145.0,34991
+14638,vauxhall,GTC,2017,Manual,7225,Petrol,4.99,1.4,165.0,11891
+14640,vw,Scirocco,2018,Semi-Auto,7448,Petrol,5.33,2.0,150.0,18000
+14642,toyota,Prius,2010,Automatic,85000,Hybrid,3.33,1.8,0.0,10995
+14643,audi,RS5,2019,Automatic,6000,Petrol,7.92,2.9,145.0,66990
+14644,ford,Grand C-MAX,2017,Manual,14789,Diesel,3.66,1.5,30.0,10995
+14645,merc,V Class,2017,Semi-Auto,15612,Diesel,5.25,2.2,235.0,37000
+14650,skoda,Rapid,2016,Manual,33395,Diesel,3.5,1.6,0.0,7991
+14658,audi,Q8,2018,Semi-Auto,18782,Diesel,7.17,3.0,145.0,56990
+14661,hyundi,Santa Fe,2018,Automatic,35915,Diesel,5.5,2.2,145.0,18000
+14664,ford,Grand C-MAX,2018,Manual,1030,Petrol,4.91,1.0,145.0,13495
+14667,vauxhall,Combo Life,2018,Manual,9526,Diesel,4.41,1.5,145.0,14500
+14670,merc,V Class,2019,Automatic,999,Diesel,6.41,2.0,145.0,47999
+14671,vw,Scirocco,2016,Manual,22600,Diesel,4.41,2.0,30.0,15990
+14674,merc,X-CLASS,2019,Automatic,12500,Diesel,7.49,3.0,260.0,33750
+14681,merc,S Class,2018,Automatic,23000,Diesel,4.5,2.9,150.0,39490
+14682,merc,SLK,2003,Automatic,57989,Petrol,7.84,2.3,325.0,3990
+14685,toyota,Land Cruiser,2015,Semi-Auto,45158,Diesel,6.74,3.0,325.0,29070
+14688,ford,Galaxy,2013,Automatic,60000,Diesel,4.99,2.0,200.0,8495
+14691,merc,SLK,2015,Semi-Auto,38487,Diesel,4.16,2.0,145.0,13240
+14693,bmw,7 Series,2019,Semi-Auto,10478,Petrol,7.0,3.0,145.0,49990
+14694,bmw,X4,2015,Manual,39824,Diesel,4.5,2.0,160.0,19500
+14697,audi,A8,2017,Semi-Auto,36354,Diesel,4.99,3.0,200.0,24780
+14700,hyundi,I40,2015,Manual,59508,Diesel,3.58,1.7,30.0,7830
+14701,ford,Galaxy,2017,Manual,40255,Diesel,4.16,2.0,125.0,19299
+14703,bmw,Z4,2020,Semi-Auto,4825,Petrol,6.08,2.0,150.0,31990
+14708,vw,Scirocco,2018,Semi-Auto,15094,Petrol,6.74,2.0,145.0,22762
+14715,hyundi,IX35,2015,Manual,63917,Diesel,4.41,1.7,150.0,7450
+14718,hyundi,I800,2019,Manual,7761,Diesel,7.42,2.5,145.0,19998
+14719,merc,S Class,2019,Automatic,12000,Hybrid,2.33,3.0,140.0,56900
+14722,merc,SLK,2010,Manual,59147,Petrol,6.5,1.8,300.0,7495
+14724,skoda,Rapid,2014,Manual,57125,Diesel,3.66,1.6,30.0,5498
+14726,ford,Mustang,2019,Semi-Auto,1780,Petrol,10.64,5.0,145.0,38000
+14727,hyundi,Santa Fe,2018,Manual,13436,Diesel,4.99,2.2,145.0,21985
+14729,bmw,X7,2019,Automatic,7901,Diesel,7.49,3.0,145.0,74980
+14734,vw,Caddy Maxi Life,2019,Automatic,1000,Diesel,5.08,2.0,145.0,20000
+14737,toyota,GT86,2017,Manual,18544,Petrol,6.5,2.0,150.0,18621
+14742,skoda,Rapid,2014,Manual,52179,Petrol,4.25,1.2,30.0,5965
+14744,ford,Grand C-MAX,2016,Manual,31671,Diesel,3.66,1.5,30.0,9220
+14748,vw,Scirocco,2013,Manual,47000,Petrol,5.33,1.4,160.0,7990
+14749,vw,Scirocco,2010,Manual,59361,Petrol,6.32,2.0,235.0,7428
+14756,merc,CLS Class,2017,,35625,Diesel,4.74,3.0,165.0,23166
+14758,bmw,M5,2016,Semi-Auto,26000,Petrol,8.25,4.4,565.0,30181
+14760,merc,V Class,2018,Automatic,13737,Diesel,5.16,2.1,145.0,35480
+14762,ford,Galaxy,2017,Automatic,39824,Diesel,4.5,2.0,145.0,17334
+14773,audi,A7,2016,Semi-Auto,31299,Diesel,3.83,3.0,125.0,21950
+14776,vauxhall,Combo Life,2019,Manual,6223,Diesel,4.41,1.5,145.0,18000
+14778,bmw,M5,2019,Automatic,6568,Petrol,9.76,4.4,145.0,70000
+14779,ford,KA,2019,Manual,9000,Petrol,5.41,1.2,145.0,9699
+14780,ford,Galaxy,2017,Manual,41569,Diesel,4.16,2.0,125.0,18799
+14781,vw,Tiguan Allspace,2018,Semi-Auto,5434,Diesel,5.41,2.0,145.0,26350
+14782,skoda,Yeti,2016,Semi-Auto,20967,Petrol,4.58,1.2,125.0,10747
+14784,merc,S Class,2018,Semi-Auto,2928,Petrol,7.42,4.0,145.0,89995
+14787,vw,Shuttle,2019,Semi-Auto,21100,Diesel,7.17,2.0,145.0,28995
+14791,ford,Edge,2016,Manual,44947,Diesel,4.83,2.0,160.0,16499
+14792,vw,Amarok,2017,Automatic,30450,Diesel,6.5,3.0,260.0,24900
+14797,merc,GL Class,2018,Automatic,13820,Diesel,4.16,2.1,145.0,27597
+14804,vauxhall,Zafira Tourer,2017,Manual,24017,Petrol,5.67,1.4,145.0,11999
+14806,ford,Grand C-MAX,2016,Automatic,17893,Diesel,3.99,1.5,30.0,10499
+14811,merc,G Class,2020,Automatic,3000,Petrol,10.99,4.0,150.0,154998
+14812,hyundi,IX35,2013,Automatic,71888,Diesel,6.0,2.0,300.0,7491
+14814,ford,Edge,2017,Semi-Auto,48791,Diesel,4.91,2.0,150.0,19495
+14818,merc,CLS Class,2019,Automatic,2987,Diesel,4.91,2.9,145.0,45386
+14819,skoda,Rapid,2017,Manual,31640,Petrol,3.83,1.0,150.0,9495
+14827,toyota,Verso,2018,Semi-Auto,9250,Petrol,5.5,1.8,145.0,16995
+14829,skoda,Yeti,2016,Semi-Auto,13950,Petrol,4.58,1.2,125.0,13499
+14830,hyundi,IX20,2016,Manual,21686,Petrol,4.67,1.4,125.0,9000
+14836,toyota,GT86,2017,Manual,26000,Petrol,6.5,2.0,145.0,19995
+14843,hyundi,IX20,2013,Automatic,48666,Petrol,5.39,1.6,200.0,7234
+14847,vw,Caravelle,2019,Automatic,5000,Diesel,7.17,2.0,145.0,40996
+14848,hyundi,IX20,2015,Automatic,37500,Petrol,5.39,1.6,200.0,7995
+14850,toyota,GT86,2015,Manual,30500,Petrol,6.5,2.0,265.0,13981
+14851,hyundi,Santa Fe,2015,Semi-Auto,41900,Diesel,5.67,2.2,260.0,14495
+14854,skoda,Yeti,2016,Semi-Auto,6181,Petrol,4.58,1.2,125.0,12500
+14855,toyota,Land Cruiser,2005,Manual,80750,Diesel,7.59,3.0,325.0,8000
+14857,hyundi,IX20,2017,Automatic,9320,Petrol,5.41,1.6,145.0,10295
+14858,toyota,Prius,2017,Automatic,15351,Hybrid,2.75,1.8,135.0,21450
+14861,bmw,i3,2017,Automatic,23983,Hybrid,0.5,0.0,0.0,19000
+14866,merc,V Class,2019,Manual,6257,Diesel,5.08,2.1,145.0,22890
+14870,merc,GL Class,2015,Automatic,39970,Diesel,4.25,2.1,125.0,17721
+14872,vauxhall,GTC,2017,Manual,19000,Petrol,4.99,1.4,145.0,10795
+14874,hyundi,IX20,2014,Manual,37666,Diesel,3.66,1.6,30.0,6190
+14883,ford,Grand C-MAX,2016,Manual,33212,Diesel,3.66,1.5,30.0,10800
+14886,vauxhall,GTC,2016,Manual,37841,Petrol,4.99,1.4,160.0,7399
+14887,merc,GL Class,2013,Automatic,49847,Diesel,6.66,3.0,325.0,27482
+14889,ford,Puma,2019,Manual,309,Petrol,4.67,1.0,145.0,22000
+14893,vw,Arteon,2019,Automatic,4910,Diesel,5.33,2.0,145.0,24599
+14899,skoda,Kamiq,2020,Semi-Auto,1587,Petrol,5.16,1.0,150.0,19990
+14900,toyota,Camry,2019,Automatic,6000,Hybrid,4.5,2.5,135.0,25990
+14907,vw,Shuttle,2018,Semi-Auto,39828,Diesel,4.99,2.0,145.0,22794
+14911,ford,Galaxy,2018,Manual,32202,Diesel,4.16,2.0,145.0,18499
+14913,ford,KA,2009,Manual,61000,Petrol,4.25,1.2,30.0,2995
+14915,bmw,X7,2019,Automatic,5203,Petrol,,3.0,145.0,68898
+14916,toyota,Prius,2016,Automatic,21000,Hybrid,3.66,1.8,10.0,22995
+14919,bmw,6 Series,2014,Semi-Auto,62695,Diesel,4.58,3.0,165.0,15750
+14924,toyota,GT86,2019,Manual,3150,Petrol,7.08,2.0,145.0,24990
+14925,bmw,6 Series,2020,Automatic,101,Petrol,5.5,2.0,145.0,36550
+14927,ford,Fusion,2009,Automatic,44000,Petrol,6.24,1.6,260.0,2890
+14936,vw,Shuttle,2017,Manual,35001,Diesel,4.99,2.0,205.0,19998
+14940,vauxhall,Combo Life,2018,Manual,11017,Diesel,4.41,1.5,145.0,16195
+14943,bmw,8 Series,2019,Automatic,4075,Petrol,8.81,3.0,145.0,69898
+14945,hyundi,Santa Fe,2016,,14157,Diesel,5.57,2.2,235.0,18990
+14950,skoda,Scala,2020,Semi-Auto,1569,Petrol,5.25,1.5,145.0,20600
+14952,audi,RS4,2019,Automatic,4100,Petrol,8.08,2.9,145.0,56795
+14955,skoda,Rapid,2015,Manual,78791,Diesel,3.33,1.6,20.0,5795
+14958,hyundi,I800,2018,Automatic,32730,Diesel,8.4,2.5,145.0,16990
+14964,vw,Jetta,2016,Manual,36889,Diesel,3.33,2.0,20.0,9899
+14966,ford,Galaxy,2018,Manual,32944,Diesel,4.16,2.0,150.0,20495
+14967,hyundi,Santa Fe,2015,Automatic,54991,Diesel,5.67,2.2,265.0,15650
+14968,hyundi,I40,2015,Manual,43000,Diesel,3.5,1.7,20.0,9000
+14972,ford,Tourneo Custom,2016,Manual,30382,Diesel,5.33,2.0,235.0,19498
+14978,hyundi,I40,2017,Manual,22172,Diesel,3.5,1.7,150.0,9490
+14982,ford,Fusion,2008,Manual,55789,Petrol,6.32,1.6,260.0,3199
+14984,audi,RS6,2015,Automatic,19963,Petrol,8.0,4.0,325.0,46465
+14985,hyundi,IX20,2016,Manual,38186,Diesel,3.66,1.6,30.0,6990
+14986,toyota,Hilux,2014,Automatic,61000,Diesel,7.17,3.0,260.0,14650
+14987,vw,Scirocco,2016,Manual,47083,Diesel,4.41,2.0,30.0,13500
+14988,vw,Caddy Maxi Life,2019,Semi-Auto,11392,Diesel,5.33,2.0,150.0,19995
+14991,bmw,M5,2019,Semi-Auto,551,Petrol,9.76,4.4,145.0,81140
+14997,skoda,Rapid,2017,Manual,25291,Petrol,4.08,1.2,150.0,8499
+14998,merc,V Class,2020,Automatic,303,Diesel,5.91,2.1,150.0,24791
+14999,ford,Grand C-MAX,2017,Manual,21738,Diesel,3.66,1.5,30.0,10998
+15000,bmw,X6,2019,Semi-Auto,1629,Diesel,6.74,3.0,145.0,61895
+15002,merc,G Class,2012,Automatic,43000,Diesel,9.33,3.0,570.0,44990
+15003,ford,Grand C-MAX,2016,Manual,45690,Diesel,3.66,1.5,30.0,9709
+15004,merc,GL Class,2015,Automatic,45132,Diesel,4.16,2.1,125.0,15499
+15005,vw,Tiguan Allspace,2019,Semi-Auto,1385,Diesel,6.08,2.0,145.0,28490
+15006,vw,Beetle,2014,Manual,73686,Petrol,4.91,1.2,145.0,5997
+15008,vw,Arteon,2019,Semi-Auto,4697,Diesel,4.67,2.0,145.0,24995
+15014,ford,KA,2016,Manual,13954,Petrol,4.08,1.2,30.0,6340
+15021,bmw,X4,2019,Semi-Auto,9374,Diesel,6.32,3.0,145.0,46450
+15022,hyundi,I40,2016,Manual,100000,Diesel,3.58,1.7,30.0,7393
+15027,skoda,Yeti,2017,Semi-Auto,29603,Petrol,4.58,1.2,125.0,12296
+15031,bmw,7 Series,2019,Automatic,123,Diesel,5.25,3.0,145.0,49990
+15036,bmw,8 Series,2019,Semi-Auto,1897,Diesel,5.91,3.0,145.0,64103
+15037,hyundi,IX35,2015,Manual,51000,Diesel,4.41,1.7,145.0,8290
+15038,merc,V Class,2019,Automatic,3226,Diesel,5.25,2.1,150.0,42980
+15039,bmw,X6,2016,Automatic,38494,Diesel,4.99,3.0,200.0,29980
+15046,hyundi,Santa Fe,2019,Semi-Auto,6209,Diesel,6.0,2.2,145.0,33495
+15047,vw,Arteon,2019,Automatic,5419,Petrol,4.83,1.5,145.0,22499
+15055,bmw,7 Series,2019,Semi-Auto,19423,Diesel,4.33,3.0,150.0,37999
+15056,bmw,X4,2018,Semi-Auto,14777,Diesel,5.5,2.0,145.0,33998
+15061,ford,Galaxy,2017,Semi-Auto,27920,Diesel,4.5,2.0,145.0,20450
+15062,ford,Grand C-MAX,2016,Manual,37020,Diesel,3.66,1.5,30.0,9799
+15069,skoda,Kamiq,2020,Automatic,5000,Petrol,5.33,1.5,145.0,19790
+15072,merc,S Class,2016,Semi-Auto,14633,Diesel,4.91,3.0,200.0,31998
+15073,bmw,X4,2015,Automatic,66000,Diesel,4.33,2.0,145.0,17990
+15075,hyundi,IX35,2015,Manual,38760,Diesel,4.41,1.7,145.0,9199
+15076,vw,Tiguan Allspace,2019,Semi-Auto,13675,Diesel,6.08,2.0,145.0,26980
+15077,ford,Grand C-MAX,2017,Manual,7953,Diesel,3.66,1.5,150.0,14489
+15079,merc,S Class,2015,Semi-Auto,15293,Diesel,4.83,3.0,200.0,28498
+15082,ford,KA,2014,Manual,53332,Petrol,4.08,1.2,30.0,3595
+15085,vauxhall,Combo Life,2019,Manual,8521,Diesel,4.41,1.5,145.0,20500
+15089,hyundi,Santa Fe,2015,Automatic,54000,Diesel,5.57,2.2,260.0,14990
+15093,vauxhall,Antara,2007,Manual,116000,Diesel,6.24,2.0,300.0,2895
+15094,bmw,X6,2014,Automatic,34990,Diesel,6.16,3.0,305.0,18000
+15095,toyota,Avensis,2009,Manual,98000,Diesel,4.58,2.2,200.0,4499
+15098,skoda,Scala,2019,Manual,8875,Diesel,4.08,1.6,145.0,15995
+15099,vw,Scirocco,2017,Automatic,15211,Diesel,4.08,2.0,145.0,17390
+15104,merc,GLB Class,2020,Semi-Auto,637,Diesel,5.25,2.0,145.0,39950
+15105,vauxhall,Combo Life,2019,Manual,2838,Petrol,5.57,1.2,145.0,14270
+15109,skoda,Scala,2019,Automatic,2159,Petrol,5.16,1.5,145.0,18299
+15112,hyundi,IX35,2013,Automatic,90000,Diesel,6.0,2.0,300.0,7995
+15117,ford,Galaxy,2019,Semi-Auto,4101,Diesel,4.33,2.0,145.0,27853
+15124,vauxhall,Combo Life,2019,Manual,11,Diesel,4.41,1.5,145.0,16879
+15127,skoda,Roomster,2013,Manual,56950,Diesel,3.91,1.6,125.0,5000
+15131,merc,CLS Class,2014,Semi-Auto,25696,Diesel,4.5,3.0,165.0,19998
+15132,ford,Tourneo Connect,2019,Manual,2991,Diesel,3.83,1.5,145.0,19897
+15134,bmw,i3,2017,Automatic,22063,Hybrid,0.5,0.0,0.0,21444
+15144,skoda,Rapid,2018,Manual,8349,Petrol,3.99,1.0,145.0,11100
+15145,toyota,Verso,2015,Semi-Auto,36844,Petrol,5.41,1.8,165.0,12500
+15146,toyota,Supra,2019,Semi-Auto,5,Petrol,6.82,3.0,145.0,47500
+15147,audi,A7,2015,Semi-Auto,42687,Diesel,4.33,3.0,150.0,17888
+15148,bmw,X4,2019,Automatic,6648,Petrol,8.74,3.0,145.0,40016
+15150,hyundi,I40,2014,Manual,76531,Diesel,4.25,1.7,30.0,8999
+15155,vw,Arteon,2019,Automatic,5364,Diesel,4.67,2.0,145.0,27500
+15156,ford,Galaxy,2014,Automatic,22000,Diesel,4.99,2.0,160.0,10495
+15157,audi,A7,2017,Semi-Auto,25000,Petrol,7.92,4.0,145.0,37500
+15160,audi,A7,2017,Semi-Auto,12298,Diesel,4.5,3.0,145.0,24860
+15163,vw,Caravelle,2019,Automatic,10614,Diesel,8.0,2.0,145.0,45926
+15165,toyota,Avensis,2017,Automatic,40130,Petrol,4.99,1.8,145.0,13764
+15168,vw,Caravelle,2019,Semi-Auto,8751,Diesel,7.17,2.0,150.0,44494
+15170,ford,KA,2014,Manual,22455,Petrol,4.08,1.2,30.0,4698
+15172,toyota,Prius,2020,Automatic,267,Hybrid,3.83,1.8,135.0,23500
+15175,vw,Arteon,2020,Automatic,256,Petrol,4.99,2.0,145.0,39989
+15176,toyota,PROACE VERSO,2019,Automatic,10524,Diesel,,2.0,145.0,27249
+15182,skoda,Scala,2019,Manual,2518,Petrol,4.74,1.0,150.0,14795
+15183,merc,CLS Class,2018,Automatic,9300,Petrol,7.24,3.0,145.0,54990
+15186,toyota,Prius,2016,Automatic,20000,Hybrid,2.5,1.8,0.0,20000
+15188,bmw,7 Series,2020,Semi-Auto,5000,Diesel,5.57,3.0,145.0,52999
+15189,bmw,X4,2019,Automatic,9151,Diesel,6.32,3.0,145.0,42982
+15196,audi,Q8,2019,Semi-Auto,3401,Diesel,7.66,4.0,150.0,85900
+15203,audi,A8,2019,Semi-Auto,500,Diesel,5.82,3.0,145.0,42950
+15204,ford,Galaxy,2016,Automatic,14604,Diesel,4.5,2.0,145.0,15799
+15205,merc,GL Class,2015,Automatic,18758,Diesel,4.25,2.1,125.0,17949
+15208,vw,Beetle,2007,Manual,89000,Petrol,6.41,1.6,265.0,2295
+15212,bmw,Z4,2020,Semi-Auto,101,Petrol,6.32,2.0,150.0,34990
+15213,toyota,Avensis,2018,Automatic,20989,Petrol,4.99,1.8,145.0,16495
+15220,hyundi,I800,2017,Manual,29100,Diesel,6.24,2.5,300.0,14777
+15225,ford,Grand C-MAX,2013,Manual,36101,Diesel,3.91,1.6,125.0,7698
+15228,ford,KA,2011,Manual,61437,Petrol,4.08,1.2,30.0,3299
+15229,ford,KA,2014,Manual,21200,Petrol,4.08,1.2,30.0,5499
+15231,ford,Grand C-MAX,2016,Manual,30848,Petrol,4.33,1.0,30.0,9975
+15232,hyundi,IX35,2013,Manual,46245,Diesel,4.83,1.7,145.0,6998
+15233,hyundi,Santa Fe,2016,Automatic,55000,Diesel,5.5,2.2,235.0,17490
+15242,ford,Tourneo Custom,2019,Manual,2223,Diesel,6.66,2.0,150.0,19999
+15243,hyundi,IX20,2014,Manual,47961,Diesel,3.66,1.6,30.0,5495
+15247,vw,Caddy Maxi Life,2017,Semi-Auto,36000,Diesel,4.33,2.0,145.0,19700
+15259,ford,Edge,2017,Semi-Auto,24078,Diesel,4.83,2.0,160.0,18950
+15261,toyota,Verso,2011,Manual,67085,Petrol,5.67,1.6,200.0,5999
+15263,vw,Scirocco,2010,Manual,61000,Diesel,4.25,2.0,145.0,6990
+15264,toyota,GT86,2015,Manual,49000,Petrol,6.5,2.0,265.0,13495
+15271,merc,V Class,2018,Manual,24043,Diesel,5.08,2.1,150.0,18998
+15272,bmw,X7,2020,Semi-Auto,3452,Diesel,7.0,3.0,150.0,64995
+15275,vw,Scirocco,2016,Manual,96000,Diesel,4.25,2.0,20.0,9491
+15277,vw,Shuttle,2018,Manual,24328,Diesel,4.99,2.0,145.0,19998
+15280,bmw,6 Series,2019,Semi-Auto,4028,Diesel,5.57,2.0,145.0,41980
+15284,merc,S Class,2019,Semi-Auto,7283,Diesel,4.83,3.0,145.0,57000
+15285,bmw,i3,2017,Automatic,29851,Hybrid,0.5,0.0,0.0,19895
+15286,hyundi,I800,2018,Manual,32000,Diesel,6.24,2.5,145.0,17000
+15287,ford,Galaxy,2016,Manual,28139,Petrol,5.41,1.5,160.0,16000
+15289,bmw,Z4,2012,Manual,47800,Petrol,5.67,2.0,200.0,10595
+15290,toyota,Hilux,2019,Manual,19211,Diesel,5.82,2.4,260.0,23600
+15292,vw,Arteon,2019,Automatic,3698,Petrol,4.83,1.5,145.0,21999
+15295,ford,KA,2013,Manual,45880,Petrol,4.08,1.2,30.0,4198
+15297,hyundi,I800,2019,,4054,Diesel,7.42,2.5,145.0,20698
+15298,ford,Grand C-MAX,2017,Manual,36658,Diesel,3.66,1.5,150.0,11498
+15300,audi,A8,2020,Automatic,10,Diesel,6.0,3.0,145.0,54990
+15305,merc,SLK,2016,Semi-Auto,30816,Diesel,3.33,2.0,30.0,16480
+15306,hyundi,I800,2018,Automatic,32469,Diesel,7.0,2.5,145.0,15299
+15309,audi,RS6,2017,Automatic,18881,Petrol,8.0,4.0,145.0,61490
+15314,bmw,X4,2015,Automatic,32101,Diesel,4.91,3.0,200.0,22800
+15315,skoda,Roomster,2013,Manual,28131,Petrol,4.74,1.2,150.0,5495
+15320,hyundi,I800,2018,Manual,30727,Diesel,7.42,2.5,145.0,15489
+15321,skoda,Kamiq,2019,Automatic,5000,Petrol,5.33,1.5,145.0,19899
+15322,skoda,Kamiq,2020,Manual,2000,Petrol,4.91,1.0,145.0,19500
+15325,bmw,Z4,2020,Automatic,111,Petrol,6.08,2.0,145.0,31350
+15327,hyundi,Santa Fe,2019,Automatic,4995,Diesel,5.91,2.2,145.0,32750
+15329,merc,CLK,2004,Automatic,58000,Diesel,6.0,2.7,260.0,3399
+15338,audi,Q8,2019,Semi-Auto,3062,Diesel,7.0,3.0,145.0,49990
+15339,merc,V Class,2018,Manual,23183,Diesel,5.08,2.1,145.0,19998
+15342,toyota,Prius,2017,Automatic,21387,Hybrid,2.5,1.8,0.0,19195
+15345,toyota,Verso,2017,Manual,26409,Diesel,3.75,1.6,30.0,11961
+15346,merc,V Class,2020,Semi-Auto,250,Diesel,6.5,2.0,145.0,52900
+15347,merc,M Class,2012,Automatic,62639,Diesel,6.0,3.0,300.0,15699
+15348,ford,Galaxy,2015,Semi-Auto,42384,Diesel,4.99,2.0,160.0,10995
+15353,ford,Grand Tourneo Connect,2016,Automatic,18460,Diesel,4.16,1.5,125.0,14500
+15356,toyota,Verso,2017,Semi-Auto,41345,Petrol,5.41,1.8,160.0,14471
+15360,hyundi,IX20,2018,Manual,6071,Petrol,6.32,1.6,145.0,10987
+15365,skoda,Kamiq,2019,Manual,3021,Petrol,4.74,1.0,145.0,15995
+15372,vw,Amarok,2014,Automatic,40330,Diesel,6.66,2.0,260.0,15497
+15374,merc,V Class,2018,Manual,24823,Diesel,5.08,2.1,145.0,19998
+15375,ford,Edge,2019,Automatic,6429,Diesel,6.32,2.0,145.0,32900
+15380,ford,Tourneo Custom,2018,Manual,20874,Diesel,5.33,2.0,145.0,22995
+15388,ford,Grand Tourneo Connect,2018,Automatic,10703,Diesel,4.16,1.5,145.0,16298
+15393,ford,Galaxy,2019,Manual,16764,Diesel,4.25,2.0,145.0,24399
+15400,toyota,Land Cruiser,1998,Manual,100000,Diesel,9.84,4.2,265.0,19990
+15404,hyundi,Santa Fe,2019,Automatic,6813,Diesel,6.0,2.2,145.0,33950
+15406,ford,KA,2012,Manual,57000,Petrol,4.08,1.2,30.0,5495
+15407,vw,Caravelle,2012,Automatic,114000,Diesel,6.84,2.0,325.0,16995
+15409,hyundi,IX20,2013,Manual,15566,Petrol,5.16,1.4,145.0,5995
+15410,skoda,Kamiq,2019,Semi-Auto,950,Petrol,5.16,1.0,145.0,21995
+15411,toyota,Hilux,2019,Manual,10239,Diesel,5.82,2.4,265.0,22995
+15413,audi,A7,2017,Automatic,39309,Diesel,4.5,3.0,145.0,24490
+15414,bmw,Z4,2020,Semi-Auto,1801,Petrol,7.08,3.0,150.0,44300
+15415,vw,Caddy Maxi Life,2019,Automatic,13194,Diesel,5.33,2.0,145.0,19490
+15416,ford,KA,2016,Manual,27003,Petrol,4.08,1.2,145.0,7495
+15420,hyundi,I40,2015,Manual,43492,Diesel,3.75,1.7,30.0,8995
+15423,toyota,Verso,2011,Manual,105000,Diesel,4.41,2.0,145.0,3990
+15430,audi,A7,2017,Semi-Auto,24592,Diesel,4.5,3.0,145.0,25400
+15431,ford,Grand C-MAX,2017,Semi-Auto,17367,Diesel,3.99,1.5,30.0,12498
+15434,merc,GLS Class,2018,Automatic,18500,Diesel,6.32,3.0,145.0,43289
+15436,bmw,X4,2017,Automatic,35351,Diesel,4.99,3.0,200.0,24999
+15437,ford,Grand Tourneo Connect,2016,Manual,29416,Diesel,3.66,1.5,30.0,11790
+15440,hyundi,IX20,2017,Manual,27950,Petrol,4.67,1.4,125.0,8991
+15443,bmw,6 Series,2017,Semi-Auto,21083,Diesel,4.58,3.0,145.0,27500
+15444,audi,R8,2019,Automatic,2369,Petrol,10.41,5.2,145.0,116000
+15445,bmw,M4,2016,Semi-Auto,23212,Petrol,6.92,3.0,300.0,32998
+15446,merc,CLS Class,2019,Semi-Auto,5428,Diesel,4.91,2.9,145.0,44498
+15447,ford,Mustang,2019,Automatic,226,Petrol,10.64,5.0,145.0,42500
+15452,audi,Q8,2019,Semi-Auto,9432,Diesel,7.0,3.0,145.0,53981
+15454,hyundi,I800,2018,Manual,26283,Diesel,7.42,2.5,145.0,17495
+15455,audi,A8,2019,Automatic,5000,Diesel,4.67,3.0,145.0,41990
+15461,vauxhall,GTC,2017,Manual,11547,Petrol,4.99,1.4,165.0,10499
+15462,ford,Galaxy,2016,Automatic,117000,Diesel,4.5,2.0,150.0,10792
+15463,toyota,Land Cruiser,2014,Automatic,36137,Diesel,6.74,3.0,325.0,30442
+15464,skoda,Scala,2020,Manual,3543,Petrol,4.74,1.0,145.0,18250
+15465,merc,CLS Class,2019,,2426,Diesel,5.16,2.0,145.0,37990
+15467,vw,Arteon,2019,Semi-Auto,10541,Diesel,4.67,2.0,145.0,26250
+15470,hyundi,Santa Fe,2019,Semi-Auto,17568,Diesel,5.91,2.2,150.0,35490
+15471,merc,GL Class,2014,Automatic,43632,Diesel,4.25,2.1,145.0,14899
+15473,bmw,M4,2015,Semi-Auto,41120,Petrol,6.92,3.0,300.0,30662
+15479,ford,Galaxy,2018,Automatic,8878,Diesel,4.5,2.0,145.0,18741
+15481,hyundi,IX35,2016,Manual,34292,Diesel,4.41,1.7,150.0,9500
+15483,hyundi,Getz,2007,Manual,81400,Petrol,4.58,1.1,125.0,2195
+15487,hyundi,I40,2016,Manual,48687,Diesel,3.58,1.7,30.0,8995
+15489,toyota,Verso,2011,Manual,29761,Diesel,4.41,2.0,145.0,7995
+15496,skoda,Roomster,2014,Manual,53850,Petrol,4.74,1.2,150.0,5350
+15499,vw,CC,2013,Manual,30000,Diesel,3.91,2.0,30.0,10500
+15500,bmw,M4,2015,Semi-Auto,40000,Petrol,6.92,3.0,305.0,28500
+15506,skoda,Rapid,2014,Manual,50585,Petrol,4.5,1.2,125.0,6285
+15507,toyota,Hilux,2018,Manual,13099,Diesel,5.82,2.4,260.0,20998
+15509,bmw,Z4,2019,Automatic,1682,Petrol,6.08,2.0,145.0,31500
+15511,merc,X-CLASS,2020,Automatic,303,Diesel,6.57,2.3,265.0,31991
+15512,ford,Edge,2017,Manual,23577,Diesel,4.83,2.0,150.0,19500
+15513,vw,Scirocco,2016,Manual,27916,Diesel,4.25,2.0,20.0,13850
+15514,vw,Scirocco,2014,Semi-Auto,56679,Diesel,4.67,2.0,145.0,11490
+15516,vw,Amarok,2016,Automatic,29218,Diesel,6.66,2.0,260.0,16998
+15519,ford,Grand Tourneo Connect,2017,Manual,27354,Diesel,3.83,1.5,125.0,11499
+15520,ford,Galaxy,2016,Manual,27716,Diesel,4.16,2.0,125.0,15498
+15521,vw,Amarok,2018,Automatic,6200,Diesel,6.5,3.0,260.0,27295
+15527,hyundi,IX35,2014,Manual,43440,Diesel,4.41,1.7,145.0,8595
+15529,bmw,7 Series,2014,Automatic,39554,Diesel,4.67,3.0,160.0,14500
+15536,merc,CLA Class,2017,Automatic,11574,Petrol,5.75,2.0,145.0,30748
+15539,vw,Beetle,2013,Manual,16969,Petrol,6.32,2.0,235.0,10999
+15543,ford,Edge,2017,Manual,20306,Diesel,4.91,2.0,200.0,20700
+15547,audi,A8,2018,Automatic,9756,Petrol,6.24,3.0,145.0,42000
+15548,merc,CLA Class,2020,Automatic,4308,Petrol,5.33,1.3,145.0,28900
+15550,ford,KA,2008,Manual,76000,Petrol,5.41,1.3,205.0,795
+15566,vw,Shuttle,2015,Automatic,26146,Diesel,6.66,2.0,325.0,17895
+15568,merc,CLS Class,2014,Automatic,32757,Diesel,4.33,2.1,145.0,14000
+15575,toyota,IQ,2012,Manual,72498,Petrol,3.66,1.0,0.0,2495
+15579,merc,V Class,2019,Automatic,2000,Diesel,6.41,2.0,145.0,46500
+15581,ford,KA,2017,Manual,27458,Petrol,4.08,1.2,145.0,7800
+15583,vw,California,2018,Automatic,7865,Diesel,5.33,2.0,260.0,54999
+15588,bmw,M4,2016,Semi-Auto,27817,Petrol,6.92,3.0,305.0,31491
+15595,bmw,Z4,2020,Semi-Auto,103,Petrol,6.32,2.0,145.0,33850
+15597,hyundi,Santa Fe,2019,Automatic,12000,Diesel,6.0,2.2,145.0,31995
+15599,vw,Scirocco,2014,Manual,51676,Diesel,3.75,2.0,30.0,9980
+15602,toyota,Prius,2016,Automatic,29608,Hybrid,,1.8,0.0,18999
+15603,merc,CLS Class,2007,Automatic,90000,Diesel,8.49,3.0,300.0,4395
+15606,hyundi,I40,2016,Manual,47613,Diesel,,1.7,20.0,8490
+15607,hyundi,Santa Fe,2019,Automatic,6363,Diesel,5.5,2.2,145.0,33995
+15608,vw,Scirocco,2015,Automatic,116520,Diesel,4.08,2.0,30.0,9795
+15609,ford,Grand C-MAX,2016,Semi-Auto,24512,Diesel,3.99,1.5,30.0,10250
+15611,vw,Amarok,2015,Manual,56371,Diesel,6.66,2.0,260.0,16495
+15614,toyota,Prius,2016,Automatic,19573,Hybrid,2.75,1.8,0.0,18995
+15615,skoda,Rapid,2018,Manual,9786,Petrol,3.83,1.0,150.0,10800
+15619,merc,V Class,2019,Automatic,5322,Diesel,5.16,2.0,145.0,39580
+15620,merc,CLA Class,2016,Automatic,13379,Diesel,3.5,2.1,20.0,18250
+15623,bmw,6 Series,2019,Automatic,9000,Diesel,5.57,2.0,145.0,52500
+15624,skoda,Yeti,2012,Manual,80550,Diesel,5.08,2.0,200.0,6500
+15625,hyundi,Santa Fe,2015,Manual,50715,Diesel,5.08,2.2,200.0,15000
+15626,vw,Scirocco,2016,Manual,39081,Diesel,4.25,2.0,20.0,13340
+15627,audi,RS6,2017,Automatic,19980,Petrol,8.0,4.0,145.0,51950
+15631,ford,Galaxy,2017,Manual,39616,Diesel,4.16,2.0,145.0,16950
+15632,toyota,GT86,2014,Manual,24667,Petrol,6.5,2.0,265.0,13495
+15634,vauxhall,Combo Life,2019,Manual,8309,Diesel,4.41,1.5,145.0,14754
+15639,vw,CC,2016,Manual,25501,Diesel,3.75,2.0,30.0,12440
+15641,hyundi,I40,2012,Automatic,68132,Diesel,4.99,1.7,200.0,7495
+15645,ford,Grand C-MAX,2017,Automatic,24449,Diesel,3.99,1.5,30.0,10249
+15648,skoda,Rapid,2015,Manual,71558,Diesel,3.5,1.6,0.0,6280
+15649,ford,Grand C-MAX,2015,Manual,35000,Diesel,3.91,1.6,125.0,8990
+15654,skoda,Rapid,2014,Manual,34200,Petrol,4.5,1.2,125.0,6682
+15656,audi,RS5,2017,Automatic,8966,Petrol,7.24,2.9,145.0,43996
+15661,audi,Q8,2019,Semi-Auto,7022,Diesel,7.0,3.0,150.0,51900
+15664,merc,V Class,2019,Semi-Auto,6295,Diesel,6.41,2.0,145.0,44490
+15665,hyundi,Santa Fe,2017,Semi-Auto,17354,Diesel,5.5,2.2,240.0,19495
+15668,ford,Galaxy,2017,Manual,12000,Diesel,4.16,2.0,125.0,16489
+15670,vw,Arteon,2018,Semi-Auto,9858,Petrol,4.99,2.0,145.0,22800
+15671,ford,Grand Tourneo Connect,2017,Manual,45461,Diesel,3.66,1.5,150.0,13995
+15675,ford,KA,2006,Manual,94400,Petrol,5.41,1.3,200.0,1095
+15677,bmw,Z4,2020,Semi-Auto,10,Petrol,6.08,2.0,145.0,29980
+15683,toyota,Hilux,2019,Automatic,10250,Diesel,84.01,2.4,260.0,27850
+15687,ford,Edge,2017,Automatic,18810,Diesel,4.91,2.0,145.0,22030
+15691,ford,Grand C-MAX,2017,Manual,33007,Diesel,3.66,1.5,30.0,10495
+15692,hyundi,Santa Fe,2016,Semi-Auto,28000,Diesel,5.5,2.2,240.0,20495
+15694,merc,M Class,2014,Semi-Auto,38833,Diesel,5.25,2.1,200.0,19662
+15699,toyota,Verso,2016,Manual,20762,Petrol,5.67,1.6,205.0,11222
+15700,skoda,Yeti,2016,Automatic,43074,Petrol,4.58,1.2,125.0,10495
+15701,audi,A7,2019,Semi-Auto,4000,Diesel,6.57,3.0,145.0,47995
+15702,bmw,Z4,2020,Semi-Auto,5,Petrol,6.16,2.0,145.0,28990
+15703,vw,Shuttle,2018,Manual,24339,Diesel,4.99,2.0,145.0,18998
+15704,vw,Caravelle,2019,Semi-Auto,12815,Diesel,,2.0,145.0,33995
+15707,ford,Galaxy,2017,Semi-Auto,26035,Diesel,4.5,2.0,150.0,19298
+15708,vw,Caravelle,2019,Semi-Auto,4500,Diesel,7.0,2.0,145.0,41000
+15709,merc,V Class,2018,Manual,26140,Diesel,5.08,2.1,145.0,19998
+15710,ford,Grand C-MAX,2016,Automatic,28407,Diesel,3.99,1.5,30.0,9799
+15714,merc,V Class,2019,Automatic,500,Diesel,6.41,2.0,145.0,46895
+15717,merc,S Class,2015,Semi-Auto,30355,Diesel,4.58,3.0,165.0,24981
+15718,vw,Jetta,2014,Automatic,28044,Diesel,4.41,2.0,145.0,9990
+15731,ford,Mustang,2018,Manual,20847,Petrol,11.25,5.0,145.0,29998
+15732,bmw,X4,2019,Semi-Auto,10,Diesel,5.75,3.0,145.0,40990
+15733,audi,A8,2017,Semi-Auto,15072,Diesel,4.99,3.0,200.0,28995
+15734,ford,Grand C-MAX,2017,Semi-Auto,22500,Diesel,3.99,1.5,30.0,11495
+15738,merc,SLK,2014,Automatic,43955,Petrol,5.41,1.8,205.0,15990
+15742,bmw,X4,2019,Semi-Auto,2740,Diesel,5.5,2.0,145.0,36980
+15748,skoda,Scala,2020,Manual,651,Petrol,4.74,1.0,150.0,15000
+15750,bmw,X6,2016,Semi-Auto,32711,Diesel,4.99,3.0,200.0,26990
+15753,toyota,Hilux,2019,Manual,10663,Diesel,5.82,2.4,260.0,23990
+15755,ford,Galaxy,2017,Manual,43155,Diesel,4.16,2.0,125.0,18000
+15757,merc,CLS Class,2016,Automatic,16591,Diesel,4.58,3.0,165.0,20500
+15762,hyundi,Santa Fe,2019,Semi-Auto,3580,Diesel,5.91,2.2,145.0,33970
+15763,hyundi,I800,2018,Manual,30305,Diesel,7.42,0.0,145.0,15500
+15765,audi,SQ5,2017,Automatic,22216,Petrol,6.92,3.0,145.0,36990
+15766,merc,V Class,2019,Automatic,1099,Diesel,5.16,2.2,145.0,44990
+15768,bmw,M4,2017,Semi-Auto,27806,Petrol,6.92,3.0,145.0,36820
+15776,bmw,X6,2015,Semi-Auto,60930,Diesel,4.99,3.0,200.0,26462
+15779,vauxhall,Antara,2014,Manual,39003,Diesel,5.33,2.2,235.0,6490
+15785,vw,Tiguan Allspace,2019,Semi-Auto,2001,Diesel,6.0,2.0,145.0,29990
+15788,audi,A8,2017,Automatic,4510,Diesel,4.67,3.0,145.0,33330
+15790,bmw,6 Series,2018,Automatic,14827,Petrol,5.5,2.0,145.0,27000
+15792,audi,A7,2019,Semi-Auto,10,Diesel,6.16,3.0,145.0,43885
+15793,vw,Caravelle,2012,Automatic,102000,Diesel,6.84,2.0,315.0,18995
+15795,vw,Scirocco,2012,Manual,75000,Diesel,4.41,2.0,145.0,8475
+15798,vauxhall,Zafira Tourer,2015,Manual,59455,Diesel,4.41,2.0,145.0,9350
+15803,merc,GLS Class,2016,Automatic,41013,Diesel,6.32,3.0,300.0,37500
+15805,skoda,Kamiq,2020,Semi-Auto,2000,Diesel,4.5,1.6,145.0,21495
+15807,toyota,Hilux,2017,Manual,8441,Diesel,5.82,2.4,260.0,20995
+15808,bmw,6 Series,2014,Automatic,64674,Diesel,4.74,3.0,160.0,17000
+15814,vauxhall,Antara,2014,Manual,6877,Diesel,5.33,2.2,240.0,8995
+15815,vw,Scirocco,2017,Manual,3688,Diesel,4.41,2.0,145.0,17998
+15820,ford,Mustang,2019,Automatic,26,Petrol,7.66,2.3,145.0,35950
+15824,bmw,8 Series,2020,Semi-Auto,5490,Petrol,7.42,3.0,145.0,59990
+15826,vw,Caddy Maxi Life,2019,Automatic,12240,Diesel,5.33,2.0,145.0,18250
+15827,merc,GL Class,2015,Automatic,14295,Diesel,4.25,2.1,125.0,19499
+15830,hyundi,IX20,2016,Manual,12936,Petrol,4.67,1.4,125.0,9495
+15831,audi,A8,2014,Semi-Auto,24786,Diesel,4.91,3.0,205.0,18998
+15834,vw,Amarok,2019,Automatic,3655,Diesel,7.0,3.0,260.0,35995
+15835,vw,CC,2016,Semi-Auto,39416,Diesel,4.16,2.0,125.0,10999
+15836,vauxhall,Zafira Tourer,2016,Manual,19929,Petrol,5.57,1.4,200.0,9650
+15838,vauxhall,Zafira Tourer,2016,Manual,28956,Petrol,5.57,1.4,200.0,10999
+15840,merc,CLA Class,2020,Automatic,1200,Petrol,5.33,1.3,145.0,29498
+15843,toyota,Avensis,2016,Manual,32626,Diesel,3.5,1.6,20.0,10868
+15846,vw,Beetle,2016,Manual,50139,Petrol,4.83,1.4,150.0,13790
+15850,hyundi,Santa Fe,2010,Manual,72000,Diesel,5.67,2.2,260.0,6995
+15852,toyota,Avensis,2015,Manual,57995,Diesel,3.5,1.6,20.0,8776
+15853,ford,KA,2014,Manual,14512,Petrol,4.08,1.2,30.0,4890
+15856,ford,KA,2017,Manual,9770,Petrol,4.08,1.2,145.0,8600
+15858,ford,Grand C-MAX,2013,Manual,59122,Diesel,4.08,1.6,125.0,6699
+15860,hyundi,I800,2018,Automatic,36359,Diesel,8.4,2.5,145.0,15899
+15863,vw,Arteon,2019,Automatic,4824,Diesel,6.24,2.0,145.0,32450
+15869,toyota,Hilux,2018,Automatic,5006,Diesel,6.5,2.4,265.0,22498
+15870,hyundi,I40,2016,Semi-Auto,25881,Diesel,4.16,1.7,125.0,11151
+15873,ford,Tourneo Custom,2019,Manual,5100,Diesel,7.42,2.0,145.0,20990
+15875,merc,CLS Class,2019,Automatic,7289,Diesel,4.83,2.9,145.0,35850
+15877,ford,Grand C-MAX,2014,Manual,36441,Diesel,3.91,1.6,125.0,7650
+15889,ford,Galaxy,2018,Manual,50638,Diesel,4.16,2.0,150.0,14285
+15890,toyota,Avensis,2014,Manual,37618,Diesel,3.75,2.0,30.0,7498
+15891,merc,V Class,2019,Automatic,3974,Diesel,5.16,2.2,145.0,38200
+15892,skoda,Yeti,2016,Semi-Auto,21720,Petrol,4.58,1.2,125.0,11987
+15893,bmw,X6,2018,Automatic,40000,Diesel,5.75,3.0,145.0,34990
+15901,skoda,Kamiq,2019,Manual,1500,Petrol,4.99,1.0,145.0,18944
+15907,ford,Galaxy,2017,Manual,33695,Diesel,4.16,2.0,125.0,18799
+15910,vw,Tiguan Allspace,2020,Manual,407,Diesel,5.08,2.0,145.0,25950
+15912,vw,Scirocco,2017,Semi-Auto,34690,Petrol,5.33,2.0,145.0,13963
+15915,bmw,X6,2017,Semi-Auto,19311,Diesel,4.99,3.0,150.0,32990
+15921,merc,CLS Class,2017,Automatic,37150,Diesel,4.08,2.1,145.0,20790
+15922,toyota,Prius,2016,Automatic,36520,Hybrid,2.75,1.8,0.0,17995
+15925,ford,Edge,2018,Automatic,11170,Diesel,4.91,2.0,145.0,25995
+15928,vw,Scirocco,2016,Manual,27000,Diesel,4.25,2.0,20.0,15000
+15929,merc,CLS Class,2016,Automatic,32232,Diesel,4.58,3.0,160.0,22480
+15933,hyundi,I40,2014,Manual,51515,Diesel,3.75,1.7,30.0,7498
+15934,vw,Scirocco,2015,Manual,43135,Diesel,4.25,2.0,20.0,12995
+15935,audi,S3,2017,Manual,21000,Petrol,5.91,2.0,145.0,25450
+15936,vw,Arteon,2019,Automatic,50,Petrol,5.82,1.5,145.0,24780
+15941,vauxhall,GTC,2015,Manual,20123,Petrol,5.25,1.6,160.0,8998
+15943,ford,Puma,2019,Manual,150,Petrol,4.67,1.0,150.0,21000
+15946,bmw,X4,2016,Manual,23553,Diesel,4.5,2.0,160.0,19999
+15950,ford,Galaxy,2016,Semi-Auto,27902,Diesel,4.5,2.0,145.0,17920
+15959,ford,Galaxy,2016,Automatic,25000,Petrol,6.57,2.0,260.0,23000
+15963,toyota,Hilux,2017,Manual,32000,Diesel,5.82,2.4,260.0,18250
+15964,hyundi,IX35,2011,Manual,32148,Diesel,4.83,2.0,205.0,7990
+15969,ford,Grand C-MAX,2017,Manual,8619,Diesel,3.66,1.5,30.0,14495
+15972,bmw,6 Series,2019,Semi-Auto,27713,Diesel,4.91,3.0,145.0,31412
+15973,audi,Q8,2018,Automatic,11000,Diesel,7.0,3.0,150.0,50000
+15978,ford,Grand Tourneo Connect,2019,Manual,4284,Diesel,3.83,1.5,145.0,19000
+15981,audi,A8,2018,Semi-Auto,2146,Diesel,4.67,3.0,150.0,36950
+15985,merc,V Class,2019,Automatic,101,Diesel,6.41,2.0,145.0,46895
+15986,hyundi,Santa Fe,2019,Semi-Auto,1001,Diesel,5.91,2.2,145.0,32998
+15987,vw,Caravelle,2019,Semi-Auto,14997,Diesel,7.0,2.0,145.0,39995
+15988,toyota,Hilux,2018,Manual,17940,Diesel,5.82,2.4,265.0,19398
+15989,hyundi,Santa Fe,2016,Semi-Auto,19201,Diesel,5.5,2.2,240.0,20681
+15990,audi,A8,2017,Semi-Auto,6479,Diesel,4.67,3.0,145.0,38995
+15991,bmw,M4,2019,Semi-Auto,101,Petrol,6.92,3.0,145.0,41980
+15992,toyota,Hilux,2016,Automatic,93112,Diesel,6.5,2.4,260.0,20149
+15994,skoda,Scala,2019,Manual,1000,Diesel,4.08,1.6,145.0,18995
+15996,vw,Tiguan Allspace,2019,Automatic,5295,Diesel,6.08,2.0,145.0,30990
+16011,hyundi,Santa Fe,2015,Manual,61798,Diesel,5.08,2.2,205.0,12999
+16016,merc,M Class,2014,Automatic,27000,Diesel,5.25,2.1,205.0,20495
+16018,audi,Q8,2019,Semi-Auto,7793,Diesel,7.17,3.0,145.0,66990
+16021,merc,V Class,2019,Automatic,18,Diesel,6.5,2.0,145.0,45800
+16023,toyota,Prius,2019,Automatic,2100,Hybrid,3.75,1.8,135.0,24990
+16027,toyota,Prius,2017,Automatic,17753,Other,3.41,1.8,140.0,21490
+16029,ford,Galaxy,2016,,36136,Diesel,4.16,2.0,125.0,14999
+16030,bmw,6 Series,2016,Semi-Auto,21654,Diesel,4.74,3.0,200.0,22990
+16034,vw,Arteon,2019,Semi-Auto,10583,Petrol,5.82,1.5,145.0,23676
+16037,ford,Grand C-MAX,2017,Manual,21689,Diesel,3.83,2.0,145.0,12491
+16042,bmw,M5,2019,Automatic,4359,Petrol,9.76,4.4,150.0,68850
+16043,audi,A8,2018,Semi-Auto,11276,Diesel,4.83,3.0,145.0,41995
+16044,merc,GL Class,2016,,19132,Diesel,6.5,3.0,330.0,34581
+16046,merc,CLS Class,2016,Semi-Auto,33026,Diesel,4.58,3.0,165.0,20498
+16052,bmw,X4,2019,Semi-Auto,3414,Diesel,6.32,3.0,145.0,42412
+16057,ford,Galaxy,2018,Manual,37085,Diesel,4.16,2.0,145.0,18000
+16062,merc,GL Class,2016,Automatic,34586,Diesel,4.16,2.1,125.0,16999
+16063,bmw,i8,2019,Automatic,6000,Hybrid,1.67,1.5,140.0,67500
+16064,vw,Caravelle,2018,Automatic,13107,Diesel,4.99,2.0,145.0,34999
+16066,vw,Scirocco,2011,Manual,51206,Petrol,6.32,2.0,235.0,8699
+16067,ford,Tourneo Connect,2016,Manual,16740,Diesel,3.66,1.5,30.0,13990
+16070,hyundi,Santa Fe,2019,Semi-Auto,8000,Diesel,6.0,2.2,145.0,35456
+16072,audi,RS6,2017,Automatic,15500,Petrol,8.0,4.0,325.0,54995
+16073,vauxhall,Agila,2008,Manual,44000,Petrol,4.58,1.2,150.0,2000
+16077,skoda,Scala,2019,Manual,4530,Petrol,4.74,1.0,145.0,14990
+16080,vw,Shuttle,2019,Automatic,15132,Diesel,7.17,2.0,145.0,27950
+16084,merc,CLS Class,2016,Automatic,27167,Diesel,4.08,2.1,125.0,19770
+16086,hyundi,I40,2016,Semi-Auto,45518,Diesel,4.16,1.7,125.0,10995
+16087,bmw,Z4,2020,Automatic,1784,Petrol,7.08,3.0,150.0,39990
+16093,ford,Tourneo Connect,2017,Automatic,15852,Diesel,4.16,1.5,145.0,13950
+16097,merc,GLS Class,2017,Automatic,7736,Diesel,6.32,3.0,150.0,38250
+16099,merc,M Class,2013,Semi-Auto,62791,Diesel,6.0,3.0,300.0,15880
+16101,vw,Jetta,2012,Automatic,72000,Diesel,3.58,1.6,30.0,5995
+16103,vw,CC,2013,Manual,66559,Diesel,3.91,2.0,30.0,8380
+16112,vw,Caravelle,2019,Semi-Auto,9893,Diesel,7.17,2.0,145.0,43194
+16113,ford,Puma,2020,Manual,3198,Petrol,4.67,1.0,145.0,21500
+16116,merc,M Class,2015,Semi-Auto,49283,Diesel,5.16,2.1,200.0,18490
+16120,bmw,M3,2016,Semi-Auto,33000,Petrol,6.92,3.0,300.0,33750
+16122,audi,A7,2017,Automatic,27647,Diesel,4.5,3.0,150.0,26490
+16126,merc,M Class,2014,Automatic,73181,Diesel,6.0,3.0,300.0,17050
+16127,toyota,Hilux,2018,Automatic,21622,Diesel,6.5,2.4,260.0,28850
+16129,vauxhall,Combo Life,2019,Manual,1383,Diesel,4.67,1.5,145.0,16000
+16130,skoda,Kamiq,2019,Semi-Auto,5690,Petrol,5.41,1.5,150.0,19490
+16136,skoda,Rapid,2017,Manual,22149,Petrol,3.83,1.0,145.0,9295
+16145,merc,M Class,2015,Semi-Auto,30198,Diesel,6.0,3.0,300.0,23249
+16147,vauxhall,GTC,2018,Manual,4694,Petrol,4.99,1.4,145.0,9490
+16152,ford,KA,2017,Manual,24239,Petrol,4.08,1.2,30.0,7425
+16157,hyundi,I40,2019,Semi-Auto,9000,Diesel,,1.6,145.0,21490
+16158,ford,Tourneo Custom,2016,Manual,31250,Diesel,5.33,2.0,240.0,22495
+16160,toyota,Land Cruiser,2019,Semi-Auto,8813,Diesel,7.81,2.8,145.0,47795
+16161,vw,Caravelle,2019,Semi-Auto,8,Diesel,7.17,2.0,145.0,37944
+16165,vw,Scirocco,2014,Semi-Auto,51756,Diesel,4.08,2.0,30.0,11298
+16166,vauxhall,Antara,2013,Manual,67400,Diesel,5.33,2.2,235.0,5299
+16167,audi,RS5,2019,Automatic,10000,Petrol,7.92,2.9,150.0,54500
+16172,ford,KA,2019,Manual,5000,Petrol,4.91,1.2,145.0,10000
+16174,vw,Scirocco,2016,Semi-Auto,16395,Diesel,4.08,2.0,30.0,15798
+16176,toyota,Avensis,2017,Manual,35939,Diesel,3.5,1.6,145.0,10595
+16181,bmw,8 Series,2019,Semi-Auto,1600,Petrol,7.08,3.0,145.0,59790
+16188,toyota,IQ,2009,Automatic,27292,Petrol,3.91,1.0,20.0,3995
+16196,vw,Arteon,2018,Semi-Auto,21601,Diesel,4.67,2.0,145.0,21811
+16197,vauxhall,Vivaro,2018,Manual,22036,Diesel,5.75,1.6,150.0,18500
+16198,audi,A7,2018,Automatic,17087,Diesel,6.16,3.0,150.0,33950
+16199,vauxhall,GTC,2017,Manual,13533,Petrol,4.99,1.4,145.0,11498
+16203,audi,A7,2019,Semi-Auto,259,Diesel,6.16,3.0,145.0,42990
+16206,skoda,Rapid,2013,Manual,51997,Petrol,4.16,1.2,30.0,5990
+16207,ford,KA,2014,Manual,31599,Petrol,4.08,1.2,30.0,4499
+16214,bmw,X6,2020,Semi-Auto,2950,Diesel,6.74,3.0,150.0,49975
+16215,hyundi,I40,2016,Manual,38572,Diesel,3.5,1.7,20.0,8850
+16216,audi,A8,2019,Semi-Auto,8613,Petrol,6.24,3.0,145.0,41000
+16217,skoda,Yeti,2014,Manual,22967,Petrol,5.08,1.2,160.0,10299
+16225,vw,Shuttle,2019,Semi-Auto,10000,Diesel,7.17,2.0,150.0,31950
+16226,vw,Arteon,2019,Semi-Auto,7891,Diesel,4.67,2.0,145.0,23240
+16227,toyota,Verso,2017,Manual,15558,Petrol,5.67,1.6,145.0,12998
+16229,ford,Puma,2002,Manual,69000,Petrol,6.08,1.6,220.0,2695
+16230,bmw,M5,2019,Automatic,123,Petrol,8.74,4.4,145.0,68930
+16232,vw,Beetle,2014,Automatic,26228,Petrol,4.91,1.2,145.0,9280
+16233,merc,CLS Class,2019,Automatic,4263,Diesel,4.83,2.9,145.0,44995
+16235,merc,CLS Class,2016,Semi-Auto,33063,Diesel,4.58,3.0,165.0,21691
+16237,vw,Scirocco,2014,Manual,70000,Diesel,4.25,2.0,20.0,9975
+16242,ford,Grand C-MAX,2018,Manual,4354,Petrol,4.33,1.0,145.0,13950
+16246,hyundi,IX35,2013,Manual,65900,Diesel,4.83,1.7,150.0,7990
+16252,bmw,M4,2017,Semi-Auto,60584,Petrol,6.92,3.0,150.0,29991
+16253,hyundi,Santa Fe,2019,Semi-Auto,3122,Diesel,5.91,2.2,145.0,33998
+16255,bmw,7 Series,2019,Semi-Auto,7315,Diesel,5.57,3.0,145.0,48995
+16259,vw,Caravelle,2019,Semi-Auto,17600,Diesel,7.0,2.0,145.0,55990
+16260,ford,Edge,2019,Semi-Auto,1537,Diesel,6.32,2.0,150.0,33591
+16263,vw,Caravelle,2019,Automatic,5691,Diesel,7.0,2.0,145.0,51994
+16264,hyundi,Santa Fe,2019,Semi-Auto,5299,Diesel,5.91,2.2,145.0,29690
+16272,skoda,Yeti,2017,Semi-Auto,22200,Petrol,4.58,1.2,125.0,13999
+16279,toyota,IQ,2013,Manual,41142,Petrol,3.66,1.0,0.0,4849
+16280,merc,GLS Class,2019,Semi-Auto,10514,Diesel,6.32,3.0,145.0,47980
+16288,toyota,Prius,2016,Automatic,18096,Hybrid,2.5,1.8,0.0,19500
+16289,toyota,Prius,2019,Automatic,7620,Hybrid,3.66,1.8,135.0,22300
+16290,vauxhall,Vivaro,2017,Manual,33918,Diesel,4.67,1.6,160.0,14999
+16292,audi,RS6,2015,Automatic,28123,Petrol,8.17,4.0,555.0,43990
+16295,merc,CLS Class,2017,Semi-Auto,12190,Diesel,,2.1,150.0,21890
+16297,skoda,Yeti,2016,Manual,13757,Petrol,4.58,1.2,125.0,11355
+16298,ford,Galaxy,2016,Automatic,12181,Diesel,4.5,2.0,145.0,17995
+16301,bmw,X4,2016,Automatic,31084,Diesel,4.33,2.0,145.0,21400
+16302,vw,Scirocco,2016,Manual,38287,Petrol,4.5,1.4,125.0,13500
+16307,vw,Caravelle,2019,Automatic,1000,Diesel,7.0,2.0,145.0,50999
+16310,hyundi,Santa Fe,2018,Semi-Auto,13018,Diesel,5.5,2.2,145.0,22270
+16311,merc,V Class,2019,Automatic,18349,Diesel,4.83,2.1,145.0,24750
+16313,skoda,Kamiq,2019,Manual,1987,Petrol,4.99,1.0,145.0,18285
+16314,bmw,X4,2016,Automatic,44572,Diesel,4.91,3.0,200.0,23995
+16318,toyota,Camry,2019,Automatic,4600,Hybrid,4.5,2.5,135.0,29990
+16319,vw,CC,2014,Semi-Auto,57954,Diesel,4.41,2.0,145.0,9580
+16320,ford,Grand C-MAX,2017,Manual,37306,Petrol,4.33,1.0,30.0,11179
+16324,merc,CLS Class,2017,Semi-Auto,27772,Diesel,4.08,2.1,145.0,21500
+16325,vw,CC,2015,Manual,68345,Diesel,3.75,2.0,30.0,9000
+16326,bmw,X4,2019,Automatic,4002,Diesel,5.5,2.0,145.0,37540
+16327,skoda,Scala,2020,Semi-Auto,3000,Petrol,4.99,1.0,145.0,17450
+16329,vw,Scirocco,2016,Semi-Auto,31269,Diesel,3.75,2.0,30.0,15991
+16330,toyota,Land Cruiser,2020,Automatic,4,Diesel,7.81,2.8,145.0,47885
+16334,hyundi,I800,2018,Automatic,34889,Diesel,8.4,2.5,145.0,15498
+16339,vw,Amarok,2015,Automatic,49555,Diesel,6.66,2.0,260.0,16498
+16342,ford,Edge,2017,Semi-Auto,24558,Diesel,4.91,2.0,200.0,23299
+16343,toyota,Land Cruiser,2019,Semi-Auto,6254,Diesel,7.81,2.8,145.0,50995
+16344,vw,Beetle,2015,Manual,25917,Petrol,5.5,1.4,205.0,10995
+16345,merc,GLS Class,2017,Semi-Auto,7517,Diesel,6.32,3.0,145.0,43498
+16347,skoda,Kamiq,2019,Manual,1234,Petrol,4.91,1.0,145.0,19950
+16348,toyota,Prius,2017,Automatic,12232,Hybrid,2.75,1.8,0.0,19998
+16350,merc,V Class,2019,Semi-Auto,1096,Diesel,6.5,2.0,145.0,46980
+16351,audi,Q8,2018,Semi-Auto,12332,Diesel,7.0,3.0,150.0,49991
+16353,hyundi,I40,2017,Manual,27145,Diesel,3.58,1.7,145.0,12450
+16354,ford,Galaxy,2017,Manual,20540,Diesel,4.16,2.0,145.0,18990
+16356,skoda,Kamiq,2019,Semi-Auto,126,Diesel,4.5,1.6,145.0,22495
+16358,merc,X-CLASS,2019,Automatic,4000,Diesel,6.57,2.3,260.0,28990
+16361,vw,CC,2017,Manual,20405,Diesel,3.75,2.0,30.0,13499
+16362,merc,GLB Class,2020,Semi-Auto,3001,Diesel,5.25,2.0,145.0,36880
+16368,ford,Edge,2017,Manual,44163,Diesel,4.83,2.0,160.0,16995
+16370,audi,RS3,2016,Semi-Auto,49459,Petrol,6.74,2.5,305.0,28500
+16371,hyundi,I40,2014,Manual,38589,Diesel,3.75,1.7,30.0,8998
+16372,ford,Edge,2017,Manual,27096,Diesel,4.83,2.0,160.0,19650
+16373,skoda,Yeti,2016,Manual,12510,Petrol,4.58,1.2,125.0,11990
+16376,bmw,6 Series,2020,Semi-Auto,123,Diesel,5.57,2.0,145.0,44991
+16380,skoda,Scala,2020,Semi-Auto,2800,Petrol,5.16,1.5,145.0,17995
+16381,vauxhall,Combo Life,2019,Automatic,2812,Diesel,4.67,1.5,145.0,15640
+16385,ford,KA,2015,Manual,18432,Petrol,4.08,1.2,30.0,6200
+16386,vw,Amarok,2018,Manual,5655,Diesel,7.24,3.0,260.0,22788
+16388,vw,Arteon,2019,Automatic,8695,Diesel,6.24,2.0,145.0,31495
+16389,vw,CC,2016,Automatic,44807,Diesel,3.99,2.0,125.0,11389
+16392,skoda,Yeti,2016,Semi-Auto,17289,Petrol,4.58,1.2,125.0,12480
+16394,audi,RS4,2020,Semi-Auto,2500,Petrol,8.17,2.9,145.0,69691
+16395,merc,CLS Class,2016,Automatic,53555,Diesel,4.58,3.0,160.0,20450
+16396,bmw,6 Series,2015,Semi-Auto,40500,Diesel,4.74,3.0,165.0,19990
+16397,vw,Scirocco,2017,Semi-Auto,46323,Diesel,3.75,2.0,145.0,13570
+16399,vw,Shuttle,2018,Manual,23735,Diesel,4.99,2.0,145.0,19998
+16404,audi,A7,2017,Semi-Auto,49281,Diesel,4.33,3.0,150.0,22895
+16405,toyota,Hilux,2018,Automatic,16000,Diesel,6.5,2.4,265.0,18995
+16406,ford,Grand C-MAX,2016,Manual,19373,Diesel,3.66,1.5,30.0,10290
+16408,toyota,Hilux,2018,Manual,12335,Diesel,5.82,2.4,260.0,22998
+16409,merc,CLA Class,2017,Automatic,9970,Petrol,5.67,2.0,150.0,23490
+16413,bmw,X6,2019,Semi-Auto,4193,Petrol,8.91,3.0,150.0,64772
+16424,vw,Amarok,2019,Automatic,6500,Diesel,8.49,3.0,260.0,39995
+16427,merc,M Class,2015,Semi-Auto,46049,Diesel,6.0,3.0,300.0,23480
+16429,ford,Grand C-MAX,2016,Semi-Auto,22885,Diesel,3.99,1.5,30.0,9995
+16434,vw,Scirocco,2014,Manual,60680,Diesel,3.75,2.0,30.0,9391
+16435,hyundi,I800,2016,Manual,48859,Diesel,6.24,2.5,300.0,13695
+16437,ford,Edge,2018,Automatic,18339,Diesel,4.83,2.0,145.0,23995
+16443,ford,KA,2015,Manual,32897,Petrol,4.08,1.2,30.0,4749
+16446,hyundi,IX20,2016,Manual,28355,Petrol,4.67,1.4,125.0,8298
+16447,hyundi,Santa Fe,2018,Semi-Auto,10958,Diesel,6.0,2.2,145.0,30699
+16453,merc,S Class,2016,Automatic,42000,Diesel,4.67,3.0,165.0,31990
+16455,audi,A8,2018,Automatic,12387,Diesel,4.67,3.0,145.0,34495
+16459,ford,Mustang,2018,Manual,17876,Petrol,11.25,5.0,145.0,28615
+16460,ford,Grand Tourneo Connect,2019,Manual,6069,Diesel,3.83,1.5,145.0,16500
+16462,merc,M Class,2014,Semi-Auto,46556,Diesel,5.25,2.1,200.0,18490
+16463,hyundi,IX20,2016,Manual,19658,Petrol,4.67,1.4,125.0,8498
+16464,hyundi,Santa Fe,2019,Semi-Auto,6697,Diesel,6.0,2.2,145.0,33999
+16465,vw,Caravelle,2020,Semi-Auto,3000,Diesel,7.0,2.0,150.0,45995
+16467,hyundi,IX20,2017,Manual,17899,Petrol,4.67,1.4,150.0,9200
+16471,skoda,Yeti,2014,Manual,34263,Petrol,5.08,1.2,165.0,7990
+16472,ford,Grand C-MAX,2017,Manual,11663,Diesel,3.66,1.5,30.0,11998
+16475,skoda,Scala,2019,Semi-Auto,3425,Petrol,5.16,1.5,145.0,17495
+16479,toyota,Prius,2017,Automatic,31500,Hybrid,2.75,1.8,0.0,18995
+16482,bmw,Z4,2014,Manual,36000,Petrol,5.67,2.0,200.0,11990
+16489,toyota,Prius,2016,Automatic,62737,Hybrid,2.5,1.8,0.0,15998
+16490,vw,Scirocco,2016,Manual,39184,Diesel,4.25,2.0,20.0,14490
+16493,bmw,X4,2020,Semi-Auto,4000,Diesel,5.75,3.0,150.0,46999
+16498,skoda,Scala,2019,Manual,1713,Diesel,4.08,1.6,145.0,18263
+16500,ford,Tourneo Custom,2017,Manual,64432,Diesel,5.25,2.0,145.0,19194
+16502,merc,S Class,2012,Automatic,107000,Petrol,6.41,3.5,265.0,10948
+16504,hyundi,I800,2018,Automatic,32672,Diesel,8.4,2.5,145.0,16995
+16507,toyota,Avensis,2010,Manual,79031,Petrol,5.57,1.8,200.0,5495
+16508,vw,Tiguan Allspace,2019,Automatic,10009,Diesel,5.33,2.0,145.0,27750
+16513,bmw,X4,2019,Semi-Auto,15411,Diesel,5.75,3.0,150.0,34500
+16516,ford,Galaxy,2017,Manual,38609,Diesel,4.16,2.0,125.0,17750
+16525,ford,KA,2018,Manual,17000,Petrol,4.08,0.0,145.0,8444
+16530,skoda,Kamiq,2019,Manual,2000,Petrol,4.99,1.0,145.0,21999
+16531,audi,Q8,2019,Semi-Auto,1943,Diesel,7.0,3.0,145.0,55995
+16535,toyota,Prius,2016,Automatic,12056,Hybrid,2.75,1.8,0.0,19798
+16536,merc,CLK,2003,Automatic,105000,Diesel,6.0,2.7,230.0,3376
+16537,hyundi,IX20,2017,Automatic,18250,Petrol,5.41,1.6,160.0,9500
+16538,audi,A7,2019,Automatic,2800,Diesel,6.57,3.0,145.0,47750
+16539,vauxhall,Antara,2012,Manual,50478,Diesel,5.5,2.2,235.0,5800
+16540,merc,GL Class,2017,Automatic,69751,Diesel,4.16,2.1,125.0,17399
+16541,hyundi,IX35,2011,Manual,74250,Diesel,4.74,2.0,165.0,6200
+16543,merc,V Class,2019,Semi-Auto,1611,Diesel,6.41,2.0,145.0,49989
+16546,skoda,Scala,2019,Semi-Auto,8783,Petrol,4.99,1.0,150.0,14985
+16551,audi,RS3,2018,Semi-Auto,15400,Petrol,6.92,2.5,150.0,36996
+16552,bmw,X4,2019,Semi-Auto,9064,Diesel,5.5,2.0,150.0,33998
+16557,vauxhall,Combo Life,2019,Manual,1733,Petrol,5.57,1.2,145.0,16658
+16559,hyundi,I40,2019,Manual,30,Diesel,4.33,1.6,145.0,16000
+16563,merc,S Class,2011,Automatic,53521,Diesel,5.67,3.0,260.0,12990
+16568,vauxhall,GTC,2016,Manual,27004,Petrol,4.99,1.4,160.0,6713
+16570,vw,CC,2016,Semi-Auto,11452,Petrol,6.0,1.8,205.0,14795
+16572,vauxhall,Combo Life,2019,Manual,6100,Diesel,4.41,1.5,145.0,14990
+16575,merc,S Class,2019,Automatic,12007,Diesel,4.5,3.0,145.0,44980
+16579,toyota,Avensis,2018,Manual,40875,Diesel,3.5,1.6,145.0,11590
+16580,bmw,M4,2018,Semi-Auto,2577,Petrol,6.92,3.0,150.0,43500
+16585,merc,V Class,2019,Automatic,2738,Diesel,5.25,2.2,145.0,39950
+16586,toyota,Prius,2016,Automatic,67874,Hybrid,2.5,1.8,0.0,15499
+16588,bmw,X7,2019,,1793,Diesel,7.49,3.0,145.0,78386
+16589,merc,M Class,2014,Semi-Auto,42218,Diesel,5.08,2.1,200.0,19420
+16591,hyundi,IX35,2015,Automatic,44705,Diesel,5.67,2.0,265.0,10995
+16593,toyota,IQ,2013,Manual,72913,Petrol,4.33,1.3,30.0,4950
+16595,skoda,Scala,2020,Manual,2735,Diesel,4.08,1.6,145.0,18250
+16596,merc,CLS Class,2015,Automatic,40032,Diesel,4.58,3.0,160.0,19995
+16599,ford,Grand C-MAX,2017,Manual,12172,Petrol,4.33,1.0,30.0,11499
+16601,merc,CLS Class,2016,Automatic,48017,Diesel,4.58,3.0,160.0,19499
+16604,hyundi,I800,2018,Automatic,29746,Diesel,7.42,2.5,145.0,15280
+16605,bmw,7 Series,2019,,4279,Diesel,5.67,3.0,145.0,51990
+16610,bmw,X6,2019,Automatic,6222,Diesel,6.74,3.0,145.0,55990
+16611,bmw,M5,2019,Semi-Auto,3153,Petrol,9.76,4.4,145.0,70686
+16612,hyundi,I800,2017,Manual,44812,Diesel,6.24,2.5,300.0,12819
+16614,skoda,Rapid,2018,Manual,9982,Petrol,3.83,1.0,150.0,10000
+16615,skoda,Yeti,2016,,13368,Diesel,4.25,2.0,145.0,13298
+16625,skoda,Yeti,2016,Manual,34770,Petrol,4.58,1.2,125.0,10300
+16627,merc,CLA Class,2019,Automatic,6571,Diesel,4.25,2.0,145.0,32890
+16643,vw,Shuttle,2019,Semi-Auto,5000,Diesel,7.08,2.0,145.0,32395
+16644,audi,SQ5,2014,Automatic,40000,Diesel,5.67,3.0,260.0,22200
+16648,vw,Arteon,2019,Automatic,3080,Petrol,5.82,1.5,145.0,27950
+16649,merc,SLK,2016,,12178,Diesel,3.33,2.0,30.0,18991
+16652,hyundi,I800,2018,,20896,Diesel,6.24,2.5,145.0,15701
+16653,merc,SLK,2015,Semi-Auto,34465,Petrol,5.41,2.0,200.0,14365
+16654,ford,KA,2008,Manual,59750,Petrol,5.41,1.3,160.0,1294
+16658,ford,Galaxy,2019,Automatic,16109,Diesel,4.41,2.0,145.0,24799
+16659,vauxhall,Combo Life,2018,Manual,15127,Diesel,4.41,1.5,145.0,13499
+16660,merc,GL Class,2015,Semi-Auto,45000,Diesel,6.5,3.0,325.0,28881
+16662,hyundi,IX20,2017,Automatic,31128,Petrol,5.41,1.6,145.0,9795
+16667,vw,Caddy Maxi Life,2019,Automatic,11650,Diesel,5.33,2.0,145.0,18450
+16673,toyota,Hilux,2017,Manual,14396,Diesel,5.91,2.4,260.0,14995
+16674,ford,KA,2016,Manual,18000,Petrol,4.08,1.2,30.0,6490
+16675,hyundi,Santa Fe,2014,Automatic,37006,Diesel,5.67,2.2,265.0,15500
+16676,ford,KA,2014,Manual,35824,Petrol,4.08,1.2,30.0,4560
+16680,ford,Galaxy,2019,Manual,9193,Diesel,4.25,2.0,145.0,21000
+16681,vw,Arteon,2020,Automatic,1786,Petrol,4.99,2.0,145.0,31450
+16682,audi,A8,2013,Semi-Auto,37206,Petrol,7.92,4.0,325.0,19061
+16684,bmw,X4,2014,Automatic,67975,Diesel,4.91,3.0,200.0,17450
+16690,toyota,GT86,2017,Manual,10456,Petrol,6.5,2.0,145.0,18522
+16693,bmw,6 Series,2017,Automatic,28879,Petrol,7.59,4.4,145.0,29991
+16696,ford,Galaxy,2018,,15584,Petrol,5.41,1.5,145.0,20998
+16699,merc,GL Class,2015,,42254,Diesel,3.75,2.1,20.0,14799
+16700,merc,S Class,2019,Semi-Auto,10500,Petrol,6.82,3.0,145.0,59998
+16701,toyota,Prius,2017,Automatic,45917,Hybrid,2.5,1.8,0.0,16780
+16702,merc,V Class,2019,Semi-Auto,2888,Diesel,6.41,2.0,145.0,46980
+16703,hyundi,IX20,2016,Automatic,15942,Petrol,5.41,1.6,165.0,9499
+16706,ford,Edge,2017,Semi-Auto,18299,Diesel,4.91,2.0,200.0,21999
+16713,hyundi,Santa Fe,2017,Semi-Auto,38202,Diesel,5.5,2.2,150.0,19990
+16719,skoda,Kamiq,2020,Semi-Auto,1000,Petrol,5.41,1.5,145.0,20995
+16721,bmw,M4,2019,Automatic,837,Petrol,6.92,3.0,145.0,49010
+16724,toyota,Avensis,2003,Manual,167054,Diesel,4.83,2.0,205.0,850
+16725,merc,CLS Class,2018,Semi-Auto,16019,Diesel,4.83,2.9,145.0,32849
+16731,vw,Caddy Maxi Life,2018,Semi-Auto,3961,Diesel,4.16,2.0,145.0,20990
+16733,hyundi,Santa Fe,2019,Semi-Auto,4133,Diesel,6.0,2.2,145.0,34998
+16740,skoda,Yeti,2013,Manual,90700,Diesel,4.99,2.0,205.0,6500
+16743,merc,CLS Class,2018,Semi-Auto,30320,Diesel,4.08,2.1,145.0,21250
+16746,ford,Edge,2017,Semi-Auto,19552,Diesel,4.91,2.0,200.0,22500
+16747,bmw,7 Series,2019,Semi-Auto,561,Diesel,5.57,3.0,145.0,51500
+16750,bmw,X6,2018,Automatic,9135,Diesel,4.99,3.0,145.0,36480
+16751,ford,Grand C-MAX,2016,Manual,22824,Diesel,3.66,1.5,30.0,9800
+16754,merc,M Class,2015,Automatic,22976,Diesel,6.0,3.0,300.0,21998
+16756,vw,Arteon,2018,Semi-Auto,12688,Petrol,4.99,2.0,145.0,21498
+16762,ford,KA,2015,Manual,10573,Petrol,4.08,1.2,30.0,5572
+16768,ford,Galaxy,2017,Manual,25703,Diesel,4.16,2.0,125.0,19000
+16769,toyota,Avensis,2018,Manual,18514,Diesel,3.5,1.6,150.0,12568
+16772,merc,GL Class,2015,Automatic,85437,Diesel,6.5,3.0,325.0,24975
+16775,toyota,Prius,2017,Automatic,23170,Hybrid,2.75,1.8,140.0,21000
+16776,hyundi,I800,2018,Manual,38093,Diesel,6.24,2.5,145.0,14794
+16786,toyota,Avensis,2017,Manual,22758,Petrol,5.41,1.8,150.0,13298
+16789,audi,RS5,2018,Semi-Auto,5876,Petrol,7.24,2.9,145.0,53900
+16790,vw,Scirocco,2014,Manual,43198,Diesel,,2.0,30.0,11600
+16791,skoda,Kamiq,2019,Manual,2450,Petrol,4.99,1.0,145.0,19490
+16794,merc,M Class,2013,Automatic,56164,Diesel,5.25,2.1,200.0,15250
+16795,bmw,7 Series,2019,Semi-Auto,12038,Diesel,5.33,3.0,150.0,47980
+16797,merc,CLS Class,2013,Semi-Auto,43393,Diesel,4.41,2.1,160.0,11999
+16798,audi,A7,2013,Automatic,75016,Diesel,4.91,3.0,200.0,15440
+16804,vw,Beetle,2017,Manual,14757,Diesel,3.75,2.0,30.0,14995
+16806,bmw,X4,2019,Semi-Auto,5809,Diesel,5.5,2.0,145.0,37995
+16815,skoda,Kamiq,2019,Manual,6300,Petrol,4.99,1.0,145.0,18990
+16819,toyota,Prius,2016,Automatic,32868,Hybrid,2.5,1.8,0.0,17998
+16821,bmw,X7,2019,Automatic,2689,Diesel,7.0,3.0,145.0,69940
+16824,bmw,M3,2015,Semi-Auto,41500,Petrol,6.92,3.0,305.0,29991
+16827,ford,Tourneo Custom,2018,Manual,26483,Diesel,5.25,2.0,145.0,21980
+16828,ford,Grand C-MAX,2016,Manual,29843,Diesel,3.66,1.5,30.0,9999
+16831,merc,CLA Class,2015,Automatic,27778,Diesel,3.75,2.1,20.0,15000
+16834,merc,CLS Class,2016,Automatic,13887,Diesel,4.74,3.0,165.0,25077
+16838,toyota,Verso,2015,Automatic,19293,Petrol,5.67,1.8,200.0,13994
+16841,vw,Scirocco,2015,Semi-Auto,36500,Diesel,4.08,2.0,30.0,12995
+16847,ford,Edge,2018,Automatic,13726,Diesel,6.32,2.0,145.0,28495
+16848,vw,Arteon,2019,Automatic,2187,Petrol,4.83,1.5,145.0,22999
+16853,merc,SLK,2015,Semi-Auto,31023,Diesel,3.33,2.0,30.0,17480
+16855,vauxhall,GTC,2015,Manual,47043,Diesel,3.91,2.0,125.0,6450
+16858,toyota,Avensis,2016,Manual,62493,Diesel,3.75,2.0,30.0,8499
+16862,bmw,X6,2020,Semi-Auto,1365,Diesel,6.74,3.0,145.0,55985
+16864,vw,Arteon,2019,Manual,20,Diesel,4.5,2.0,145.0,27498
+16869,ford,Tourneo Custom,2016,Manual,49913,Diesel,5.57,2.2,235.0,15995
+16873,ford,Mustang,2019,Manual,813,Petrol,10.32,5.0,145.0,40000
+16880,vw,Shuttle,2018,Manual,21146,Diesel,4.99,2.0,150.0,19498
+16882,toyota,Prius,2016,Automatic,11748,Hybrid,3.41,1.8,0.0,24500
+16883,toyota,Hilux,2015,Automatic,72100,Diesel,7.17,3.0,260.0,14995
+16884,skoda,Scala,2019,Manual,5235,Diesel,4.08,1.6,150.0,17250
+16885,vw,Amarok,2015,Manual,38000,Diesel,,2.0,260.0,15995
+16886,vauxhall,Combo Life,2019,Manual,10500,Diesel,4.41,1.5,145.0,16000
+16887,bmw,X7,2020,Semi-Auto,8695,Diesel,7.49,3.0,150.0,71980
+16889,hyundi,IX20,2017,Manual,8303,Petrol,4.67,1.4,125.0,9798
+16891,bmw,M4,2016,Semi-Auto,26363,Petrol,6.92,3.0,305.0,29998
+16893,toyota,Avensis,2015,Manual,76352,Diesel,3.83,2.0,30.0,8369
+16895,ford,KA,2019,Manual,7096,Petrol,5.41,1.2,145.0,10998
+16899,merc,S Class,2018,Semi-Auto,8107,Diesel,4.5,3.0,145.0,41999
+16901,merc,S Class,2019,Automatic,5260,Diesel,4.83,3.0,145.0,61899
+16902,merc,CLS Class,2019,Semi-Auto,1173,Diesel,4.83,2.9,145.0,40099
+16906,vw,Scirocco,2016,Manual,49464,Diesel,4.25,2.0,20.0,12498
+16912,vauxhall,GTC,2016,Manual,15569,Petrol,4.99,1.4,160.0,9898
+16914,vw,CC,2014,Semi-Auto,36221,Diesel,4.41,2.0,145.0,9995
+16915,skoda,Rapid,2018,Manual,19050,Petrol,3.75,1.0,145.0,10990
+16916,skoda,Rapid,2015,Manual,26868,Petrol,4.08,1.2,20.0,8999
+16919,merc,CLS Class,2017,Semi-Auto,30987,Diesel,4.08,2.1,125.0,20999
+16923,skoda,Kamiq,2019,Automatic,9743,Petrol,5.41,1.5,145.0,20990
+16925,hyundi,Santa Fe,2018,Semi-Auto,33911,Diesel,5.5,2.2,145.0,19483
+16926,skoda,Kamiq,2019,Semi-Auto,2987,Petrol,5.16,1.0,145.0,19285
+16932,vauxhall,Combo Life,2018,Manual,10875,Diesel,4.41,1.5,145.0,13499
+16935,ford,Galaxy,2018,Automatic,31718,Diesel,4.5,2.0,145.0,18250
+16939,audi,A7,2014,Semi-Auto,40473,Diesel,5.25,3.0,235.0,19998
+16942,ford,Grand C-MAX,2017,Manual,51024,Petrol,4.33,1.0,30.0,10999
+16948,vw,Tiguan Allspace,2018,Semi-Auto,23694,Diesel,4.91,2.0,150.0,23000
+16950,vw,Scirocco,2017,Semi-Auto,19313,Diesel,4.08,2.0,30.0,16498
+16951,bmw,Z4,2017,Automatic,21779,Petrol,5.67,2.0,200.0,17979
+16953,merc,GL Class,2016,Automatic,57864,Diesel,4.16,2.1,125.0,20750
+16955,vauxhall,Combo Life,2019,Manual,7552,Diesel,4.67,1.5,145.0,17495
+16959,vw,Caddy Maxi Life,2019,Semi-Auto,8481,Diesel,4.33,2.0,150.0,19995
+16968,bmw,i3,2017,Automatic,10900,Hybrid,0.5,0.0,140.0,21500
+16973,merc,V Class,2018,Automatic,15993,Diesel,4.83,2.1,145.0,19750
+16978,ford,Edge,2016,Semi-Auto,44224,Diesel,4.83,2.0,160.0,18091
+16983,bmw,X4,2017,Automatic,53888,Diesel,4.91,3.0,145.0,23299
+16987,merc,CLS Class,2016,Semi-Auto,34544,Diesel,4.74,3.0,165.0,22998
+16992,ford,KA,2019,Manual,308,Petrol,4.91,1.2,145.0,10499
+16994,merc,CLS Class,2013,Automatic,58000,Diesel,4.99,3.0,200.0,14790
+16999,vw,Beetle,2014,Manual,43740,Petrol,5.5,1.4,200.0,7695
+17000,audi,RS4,2020,,6000,Petrol,8.08,2.9,145.0,71990
+17001,bmw,X6,2013,Semi-Auto,63592,Diesel,6.41,3.0,325.0,20510
+17002,ford,Grand C-MAX,2017,Manual,10594,Petrol,4.33,1.0,145.0,11990
+17004,hyundi,I800,2018,Automatic,36862,Diesel,8.4,2.5,145.0,16500
+17007,bmw,M4,2016,Semi-Auto,38422,Petrol,6.92,3.0,300.0,30490
+17012,ford,Edge,2017,Manual,24271,Diesel,4.83,2.0,145.0,19557
+17015,skoda,Rapid,2017,Semi-Auto,17647,Petrol,3.91,1.2,20.0,9750
+17016,hyundi,IX20,2017,Manual,6380,Petrol,4.67,1.4,145.0,9490
+17018,vw,Beetle,2001,Automatic,1,Petrol,7.92,2.0,325.0,899
+17026,ford,Galaxy,2016,Manual,30528,Diesel,4.16,2.0,125.0,18498
+17027,ford,Tourneo Custom,2019,Manual,6500,Diesel,7.42,2.0,145.0,29890
+17028,ford,Grand C-MAX,2011,Automatic,28000,Diesel,4.83,2.0,205.0,7995
+17029,ford,Puma,2020,Manual,680,Petrol,4.67,1.0,145.0,21795
+17035,vw,CC,2016,Manual,14652,Petrol,4.74,1.4,145.0,12999
+17036,ford,Grand C-MAX,2016,Manual,32151,Diesel,3.66,1.5,30.0,9834
+17039,hyundi,IX35,2015,Manual,23041,Diesel,4.58,0.0,165.0,11400
+17040,bmw,X4,2017,Automatic,40666,Diesel,4.33,2.0,145.0,22795
+17041,merc,CLS Class,2013,Automatic,43939,Diesel,5.08,3.0,190.0,14495
+17042,merc,CLA Class,2020,Automatic,6000,Petrol,5.25,1.3,145.0,32995
+17043,vw,Beetle,2017,,22781,Petrol,4.67,1.4,145.0,13990
+17049,ford,Galaxy,2016,Manual,33704,Diesel,4.16,2.0,125.0,17590
+17055,vw,Arteon,2020,Semi-Auto,5000,Diesel,4.67,2.0,145.0,32990
+17056,merc,SLK,2018,Automatic,25782,Diesel,3.33,2.1,30.0,19450
+17057,toyota,Prius,2017,Automatic,40205,Hybrid,2.5,1.8,0.0,17542
+17058,bmw,6 Series,2019,Semi-Auto,3035,Diesel,5.33,2.0,150.0,31999
+17060,ford,Tourneo Connect,2017,Automatic,6051,Diesel,4.16,1.5,145.0,15998
+17061,hyundi,IX20,2015,Manual,19705,Petrol,4.67,1.4,125.0,7000
+17064,toyota,GT86,2015,Manual,27469,Petrol,6.5,2.0,265.0,13998
+17065,vauxhall,Zafira Tourer,2015,Manual,84280,Diesel,3.41,1.6,20.0,6795
+17067,skoda,Kamiq,2019,Manual,1100,Petrol,4.91,1.0,145.0,19995
+17068,ford,Grand C-MAX,2017,Manual,43499,Diesel,3.66,1.5,150.0,9691
+17069,toyota,Prius,2019,Automatic,10105,Hybrid,3.66,1.8,135.0,23640
+17074,audi,A7,2018,Semi-Auto,17693,Diesel,4.5,3.0,145.0,29900
+17076,merc,S Class,2018,Automatic,10842,Petrol,5.75,3.0,145.0,51991
+17079,vw,Shuttle,2018,Manual,25724,Diesel,4.99,2.0,145.0,19998
+17087,merc,CLA Class,2016,Automatic,49847,Diesel,3.33,2.1,20.0,16649
+17090,merc,S Class,2019,Automatic,12139,Diesel,4.5,2.9,145.0,52500
+17091,hyundi,I40,2015,Automatic,23043,Diesel,4.99,1.7,200.0,10995
+17092,ford,Grand C-MAX,2016,Manual,14621,Petrol,4.33,1.0,30.0,9995
+17094,ford,Edge,2016,Manual,21000,Diesel,4.83,2.0,165.0,17999
+17097,ford,KA,2018,Manual,6000,Petrol,5.41,0.0,145.0,9899
+17099,bmw,M5,2015,Automatic,28500,Petrol,8.25,4.4,565.0,29795
+17100,skoda,Rapid,2018,Manual,18577,Petrol,3.83,1.0,145.0,9895
+17104,bmw,M4,2019,,999,Petrol,6.92,3.0,145.0,47995
+17105,ford,Edge,2017,Semi-Auto,42100,Diesel,4.91,2.0,150.0,19695
+17109,bmw,Z4,2020,Semi-Auto,102,Petrol,6.08,2.0,145.0,32995
+17111,skoda,Roomster,2014,,100470,Diesel,3.91,1.6,125.0,3650
+17116,ford,KA,2008,Manual,63000,Petrol,5.16,1.3,160.0,1795
+17118,hyundi,IX20,2017,Automatic,21156,Petrol,5.41,1.6,145.0,9650
+17123,vw,CC,2015,Manual,82710,Diesel,3.91,2.0,30.0,7957
+17125,ford,Puma,2019,Manual,1218,Petrol,4.67,1.0,145.0,23699
+17128,skoda,Scala,2020,Semi-Auto,2738,Petrol,4.99,1.0,150.0,16490
+17129,hyundi,I40,2012,Manual,74768,Petrol,5.5,1.6,205.0,5495
+17135,bmw,X6,2019,Semi-Auto,3086,Diesel,6.74,3.0,145.0,52990
+17138,vw,Arteon,2018,Semi-Auto,24401,Petrol,4.99,2.0,145.0,22025
+17139,ford,Galaxy,2017,Manual,32910,Diesel,4.16,2.0,125.0,17999
+17140,merc,M Class,1970,Automatic,14000,Diesel,6.0,0.0,305.0,24999
+17142,vw,Arteon,2019,Semi-Auto,9500,Petrol,7.17,2.0,145.0,27450
+17143,vw,Scirocco,2017,Automatic,26435,Diesel,4.08,2.0,145.0,16300
+17147,merc,S Class,2015,Automatic,20392,Diesel,4.83,3.0,200.0,30980
+17149,toyota,Verso,2017,Semi-Auto,8702,Petrol,5.41,1.8,160.0,16995
+17156,bmw,X7,2019,Automatic,15000,Diesel,7.49,3.0,145.0,67950
+17158,merc,S Class,2017,Automatic,8090,Petrol,7.33,4.7,145.0,49890
+17161,vauxhall,Zafira Tourer,2017,Manual,22688,Petrol,5.67,1.4,150.0,11250
+17165,audi,Q8,2020,Automatic,10,Diesel,7.17,3.0,150.0,72500
+17166,bmw,Z4,2014,Manual,31074,Petrol,5.67,2.0,205.0,3076
+17167,bmw,X6,2019,Semi-Auto,1402,Petrol,8.91,3.0,145.0,69993
+17174,audi,Q8,2019,Automatic,6470,Diesel,7.0,3.0,145.0,52850
+17175,merc,S Class,2014,Automatic,56000,Diesel,4.83,3.0,200.0,24990
+17181,bmw,Z4,2019,Automatic,8316,Petrol,6.08,2.0,145.0,28950
+17183,audi,RS4,2018,Semi-Auto,22767,Petrol,7.33,2.9,145.0,49990
+17184,bmw,M2,2019,Semi-Auto,3500,Petrol,8.08,3.0,145.0,40995
+17187,hyundi,Santa Fe,2018,Manual,34000,Diesel,4.99,2.2,145.0,18000
+17188,skoda,Rapid,2016,Manual,44994,Petrol,4.08,1.2,20.0,6790
+17189,toyota,GT86,2019,Automatic,3934,Petrol,7.17,2.0,145.0,23495
+17190,bmw,M4,2017,Semi-Auto,1336,Petrol,7.08,3.0,145.0,89990
+17195,bmw,X4,2019,Automatic,8526,Diesel,5.75,3.0,145.0,37990
+17199,bmw,Z4,2019,Semi-Auto,2389,Petrol,6.08,2.0,145.0,30990
+17204,audi,A7,2019,Automatic,1285,Diesel,6.0,3.0,145.0,32985
+17213,vw,Scirocco,2018,Manual,39000,Diesel,4.25,2.0,145.0,15000
+17214,bmw,M5,2018,Automatic,5856,Petrol,8.74,4.4,145.0,61792
+17215,audi,RS5,2019,Automatic,16,Petrol,7.81,2.9,145.0,49750
+17216,merc,CLS Class,2016,Semi-Auto,7675,Diesel,4.74,3.0,160.0,23998
+17218,toyota,GT86,2013,Automatic,28335,Petrol,5.91,2.0,200.0,11599
+17219,bmw,6 Series,2015,Semi-Auto,65185,Diesel,4.74,3.0,160.0,19980
+17220,bmw,6 Series,2016,Semi-Auto,19366,Petrol,6.41,3.0,260.0,22798
+17222,bmw,6 Series,2015,Automatic,38509,Petrol,8.25,4.4,555.0,31975
+17223,ford,Edge,2017,Manual,13826,Diesel,4.83,2.0,145.0,20000
+17228,bmw,7 Series,2019,Semi-Auto,17501,Diesel,5.67,3.0,145.0,48898
+17231,hyundi,I40,2015,Automatic,62143,Diesel,4.99,1.7,200.0,7952
+17234,ford,Edge,2019,Semi-Auto,100,Diesel,6.32,2.0,145.0,33995
+17240,hyundi,Santa Fe,2013,Semi-Auto,59701,Diesel,5.67,2.2,265.0,11498
+17245,hyundi,I40,2019,Semi-Auto,11013,Diesel,4.41,1.6,145.0,19995
+17246,vw,Arteon,2019,Automatic,1000,Petrol,4.99,2.0,145.0,27950
+17251,vw,Caddy Maxi Life,2018,Automatic,4571,Petrol,4.99,1.4,145.0,18000
+17252,merc,CLS Class,2019,Automatic,2682,Diesel,4.83,2.9,145.0,43640
+17253,vw,Shuttle,2018,Manual,23027,Diesel,4.99,2.0,145.0,19998
+17255,toyota,Prius,2010,Automatic,48000,Hybrid,3.25,1.8,0.0,7400
+17256,toyota,Prius,2017,Automatic,25200,Hybrid,2.5,1.8,0.0,18495
+17257,skoda,Scala,2019,Manual,2563,Petrol,4.74,1.0,150.0,15490
+17264,merc,M Class,2015,Automatic,43108,Diesel,6.0,2.1,200.0,20460
+17265,vw,Arteon,2019,Automatic,6500,Petrol,7.17,2.0,145.0,30000
+17266,ford,Tourneo Custom,2019,Automatic,9750,Diesel,7.42,2.0,145.0,25495
+17267,vw,Caravelle,2019,Automatic,3614,Diesel,7.0,2.0,145.0,44880
+17269,toyota,Land Cruiser,2015,Automatic,16871,Diesel,6.74,3.0,325.0,32498
+17271,merc,S Class,2018,Automatic,22700,Diesel,4.5,2.9,145.0,46990
+17272,vw,Scirocco,2017,Automatic,23469,Petrol,5.33,2.0,145.0,17649
+17273,merc,GLS Class,2019,Automatic,11231,Diesel,6.32,3.0,145.0,46770
+17274,toyota,GT86,2017,Manual,10089,Petrol,6.5,2.0,145.0,17249
+17276,ford,KA,2011,Manual,76000,Petrol,4.25,1.2,30.0,2995
+17279,ford,Galaxy,2014,Manual,33026,Diesel,4.5,1.6,150.0,10650
+17280,audi,RS6,2020,Semi-Auto,2000,Petrol,10.64,4.0,145.0,102544
+17284,merc,V Class,2019,Automatic,18552,Diesel,4.83,2.1,150.0,20391
+17288,ford,Tourneo Custom,2018,Manual,22500,Diesel,7.24,2.0,145.0,24495
+17290,merc,CLS Class,2019,Semi-Auto,4000,Diesel,4.91,2.9,145.0,44999
+17292,bmw,8 Series,2020,Semi-Auto,4500,Diesel,8.81,3.0,145.0,74995
+17293,audi,SQ7,2017,Automatic,42000,Diesel,6.0,4.0,300.0,47990
+17295,toyota,Verso,2016,Manual,31316,Petrol,5.67,1.6,205.0,9990
+17297,bmw,X4,2019,Automatic,2233,Petrol,9.48,3.0,145.0,55000
+17301,hyundi,I40,2019,Semi-Auto,8651,Diesel,4.41,1.6,145.0,17990
+17302,merc,GLS Class,2019,Semi-Auto,5076,Diesel,7.74,3.0,150.0,65990
+17303,hyundi,I40,2017,Manual,33763,Diesel,3.58,1.7,145.0,10498
+17310,merc,S Class,2017,Automatic,22657,Hybrid,3.83,2.1,20.0,36890
+17313,ford,Galaxy,2016,Manual,15701,Diesel,4.16,2.0,125.0,19000
+17315,vw,Caddy Maxi Life,2016,Semi-Auto,9186,Diesel,4.33,2.0,145.0,16450
+17318,hyundi,Santa Fe,2014,Semi-Auto,48900,Diesel,5.67,2.2,260.0,14995
+17319,ford,KA,2013,Manual,57830,Petrol,4.08,1.2,30.0,3900
+17320,hyundi,Santa Fe,2020,Semi-Auto,2196,Diesel,6.0,2.2,145.0,35980
+17322,vw,Arteon,2019,Automatic,10,Petrol,5.82,1.5,145.0,25990
+17327,merc,GLB Class,2020,Automatic,6000,Diesel,4.91,2.0,145.0,36995
+17329,merc,S Class,2015,Semi-Auto,27343,Diesel,4.83,3.0,200.0,26498
+17330,audi,RS5,2019,Automatic,4474,Petrol,7.92,2.9,145.0,54990
+17335,vauxhall,GTC,2016,Automatic,15466,Petrol,5.5,1.4,200.0,10498
+17336,ford,Tourneo Custom,2019,Manual,6375,Diesel,7.24,2.0,145.0,24995
+17339,skoda,Scala,2019,Manual,4477,Petrol,4.74,1.0,145.0,16491
+17342,vw,Scirocco,2017,Manual,19759,Petrol,6.32,1.4,145.0,11997
+17343,skoda,Yeti,2017,Semi-Auto,45932,Petrol,4.58,1.2,125.0,10499
+17344,ford,Edge,2017,Manual,26758,Diesel,4.83,2.0,160.0,19998
+17348,vw,Scirocco,2013,Semi-Auto,107000,Diesel,4.08,2.0,125.0,7295
+17349,bmw,M4,2020,Automatic,10,Petrol,6.92,3.0,150.0,52988
+17360,audi,Q8,2019,Automatic,6878,Diesel,7.17,3.0,145.0,63796
+17364,ford,Galaxy,2016,Manual,24276,Diesel,4.16,2.0,125.0,17990
+17367,ford,Grand C-MAX,2016,Manual,42619,Diesel,3.66,1.5,30.0,9268
+17369,hyundi,IX35,2010,Manual,16500,Diesel,4.83,2.0,190.0,9495
+17372,hyundi,IX20,2017,Automatic,14847,Petrol,5.41,1.6,145.0,10654
+17374,vw,Tiguan Allspace,2019,Automatic,4235,Diesel,6.08,2.0,145.0,32727
+17377,ford,Grand C-MAX,2016,Semi-Auto,16541,Diesel,3.99,1.5,30.0,10798
+17380,bmw,X4,2019,Automatic,2526,Petrol,8.74,3.0,145.0,40980
+17383,merc,S Class,2017,Semi-Auto,13763,Diesel,4.67,3.0,160.0,31055
+17386,skoda,Yeti,2016,Manual,8439,Diesel,3.75,2.0,30.0,13995
+17388,hyundi,IX35,2014,Manual,54093,Diesel,4.67,1.7,160.0,9985
+17392,skoda,Scala,2019,Automatic,3200,Petrol,4.99,1.0,145.0,17995
+17400,merc,V Class,2019,Automatic,492,Diesel,6.5,2.0,145.0,44999
+17401,skoda,Yeti,2017,Automatic,25000,Petrol,4.58,1.2,125.0,12695
+17406,toyota,Prius,2020,Automatic,1459,Hybrid,3.75,1.8,135.0,25990
+17410,toyota,GT86,2019,Semi-Auto,100,Petrol,7.17,2.0,145.0,27000
+17411,bmw,X4,2019,Semi-Auto,8515,Petrol,8.74,3.0,145.0,42550
+17412,merc,S Class,2017,Automatic,30272,Diesel,4.67,3.0,145.0,30291
+17417,bmw,X4,2015,Automatic,51532,Diesel,4.33,2.0,145.0,19500
+17418,bmw,X6,2019,Semi-Auto,2018,Petrol,8.91,3.0,145.0,58480
+17422,skoda,Kamiq,2019,Manual,1125,Petrol,4.91,1.0,145.0,19820
+17426,hyundi,IX20,2018,Manual,9328,Petrol,4.67,1.4,150.0,10500
+17427,merc,S Class,2018,Automatic,11917,Diesel,4.5,3.0,145.0,38980
+17432,audi,A7,2018,Automatic,21000,Diesel,4.5,3.0,145.0,26000
+17434,skoda,Yeti,2014,Manual,67020,Diesel,4.25,2.0,145.0,7700
+17435,ford,Edge,2017,Automatic,13260,Diesel,4.83,2.0,160.0,20995
+17442,merc,S Class,2017,Semi-Auto,17814,Diesel,4.67,3.0,160.0,29990
+17443,toyota,Hilux,2018,Automatic,15146,Diesel,6.5,2.4,260.0,20998
+17447,bmw,Z4,2020,Semi-Auto,1595,Petrol,6.08,2.0,145.0,31000
+17448,toyota,Hilux,2017,Automatic,13135,Diesel,6.5,2.4,260.0,21495
+17450,merc,CLS Class,2018,Semi-Auto,17000,Diesel,4.83,2.9,150.0,32990
+17460,merc,M Class,2014,Semi-Auto,60500,Diesel,5.08,2.1,200.0,17500
+17461,audi,RS3,2016,Semi-Auto,16594,Petrol,6.74,2.5,300.0,31072
+17463,audi,Q8,2019,Automatic,8702,Diesel,7.0,3.0,145.0,53491
+17465,hyundi,Santa Fe,2020,Semi-Auto,1500,Diesel,6.0,2.2,145.0,35500
+17467,toyota,Verso,2017,Semi-Auto,23741,Petrol,5.41,1.8,160.0,15495
+17468,bmw,M5,2018,Automatic,13500,Petrol,9.76,4.4,150.0,65948
+17469,hyundi,I800,2018,Automatic,33999,Diesel,7.0,2.5,145.0,15995
+17472,ford,Galaxy,2010,Automatic,114000,Petrol,6.74,2.0,300.0,4490
+17473,hyundi,I800,2018,Automatic,35845,Diesel,7.0,2.5,145.0,14500
+17476,vauxhall,Vivaro,2018,Manual,5000,Diesel,4.99,1.6,145.0,27995
+17478,ford,Tourneo Custom,2019,Manual,10500,Diesel,7.24,2.0,145.0,25495
+17482,vw,Tiguan Allspace,2019,Semi-Auto,19,Diesel,5.33,2.0,145.0,28995
+17485,skoda,Yeti,2015,Semi-Auto,21484,Petrol,4.58,1.2,125.0,11495
+17491,audi,A8,2019,Automatic,1898,Diesel,5.82,3.0,145.0,41995
+17496,hyundi,Santa Fe,2019,Semi-Auto,4956,Diesel,6.0,2.2,145.0,34998
+17500,hyundi,IX35,2013,Manual,78189,Diesel,4.83,1.7,145.0,5998
+17501,bmw,i3,2017,Automatic,26139,Hybrid,0.5,0.0,135.0,21490
+17504,toyota,Avensis,2017,Automatic,23622,Petrol,5.33,1.8,160.0,15500
+17509,audi,Q8,2019,Automatic,9804,Diesel,7.0,3.0,145.0,51990
+17511,vw,Arteon,2019,Semi-Auto,10,Petrol,7.17,2.0,145.0,33995
+17514,bmw,6 Series,2019,Automatic,3693,Diesel,4.91,3.0,145.0,35988
+17517,vw,Caddy Maxi Life,2019,Manual,2285,Diesel,4.08,2.0,145.0,21750
+17518,toyota,Prius,2020,Automatic,100,Hybrid,1.08,1.8,135.0,31995
+17527,bmw,X4,2017,Semi-Auto,46363,Diesel,4.33,2.0,145.0,22973
+17530,bmw,7 Series,2017,,25000,Diesel,4.41,3.0,150.0,34000
+17533,ford,Grand C-MAX,2016,Manual,39296,Diesel,3.66,1.5,30.0,10699
+17538,bmw,i3,2017,Automatic,20321,Electric,0.5,0.0,135.0,18999
+17540,ford,Grand C-MAX,2018,Manual,4850,Petrol,4.99,1.0,145.0,14750
+17541,audi,R8,2019,Automatic,3000,Petrol,10.99,5.2,145.0,119450
+17551,vw,Jetta,2015,Manual,48985,Diesel,3.33,2.0,20.0,8995
+17556,vauxhall,Combo Life,2019,Manual,4714,Petrol,5.57,1.2,145.0,13695
+17558,toyota,Prius,2015,Automatic,28001,Other,3.66,1.8,10.0,21795
+17562,merc,CLS Class,2015,Semi-Auto,41955,Diesel,4.58,3.0,165.0,20498
+17563,ford,Edge,2019,Semi-Auto,10300,Diesel,6.32,2.0,145.0,31499
+17564,vauxhall,Zafira Tourer,2018,Manual,8500,Petrol,5.47,1.4,145.0,13999
+17565,merc,SLK,2006,Manual,70952,Petrol,8.25,3.0,565.0,5990
+17571,merc,GLS Class,2019,Semi-Auto,8274,Diesel,6.32,3.0,145.0,47980
+17572,merc,CLS Class,2017,Semi-Auto,38736,Diesel,4.08,2.1,125.0,21290
+17574,audi,A8,2019,Automatic,6392,Diesel,4.67,3.0,145.0,39990
+17580,toyota,Hilux,2018,Manual,20511,Diesel,5.82,2.4,260.0,20995
+17585,hyundi,IX20,2012,,45566,Petrol,5.16,1.4,145.0,5790
+17586,bmw,Z4,2016,,10000,Petrol,5.67,2.0,205.0,18948
+17589,skoda,Kamiq,2019,Automatic,100,Other,5.16,1.0,145.0,18480
+17594,vw,Scirocco,2017,Manual,35831,Petrol,6.32,1.4,150.0,11900
+17595,hyundi,I800,2018,Manual,32997,Diesel,6.24,2.5,145.0,15495
+17601,bmw,i3,2015,Automatic,65800,Hybrid,0.5,0.0,0.0,14285
+17606,hyundi,I40,2018,Automatic,21798,Diesel,3.91,1.7,145.0,13985
+17607,ford,Galaxy,2017,Manual,39536,Diesel,4.16,2.0,125.0,18250
+17614,merc,S Class,2018,Semi-Auto,10577,Diesel,,3.0,150.0,40796
+17615,merc,V Class,2019,Automatic,1824,Diesel,6.41,2.0,145.0,47995
+17620,ford,Galaxy,2019,Manual,10744,Diesel,4.25,2.0,145.0,21950
+17622,ford,Edge,2017,Semi-Auto,27697,Diesel,4.83,2.0,145.0,19695
+17628,merc,V Class,2019,Automatic,3834,Diesel,6.41,2.0,145.0,48990
+17630,bmw,6 Series,2017,Automatic,27828,Diesel,4.74,3.0,200.0,20500
+17636,bmw,Z4,2009,Automatic,63179,Petrol,7.08,2.5,300.0,7999
+17637,skoda,Rapid,2014,Manual,35798,Diesel,3.66,1.6,30.0,7195
+17640,ford,Galaxy,2017,Manual,40848,Diesel,4.16,2.0,125.0,18399
+17642,ford,Fusion,2009,Manual,94028,Petrol,5.41,1.4,205.0,1450
+17646,skoda,Scala,2020,Manual,500,Petrol,4.67,1.0,150.0,16495
+17647,merc,V Class,2015,Semi-Auto,69172,Diesel,5.16,2.2,200.0,23000
+17648,ford,Edge,2017,Manual,17381,Diesel,4.91,2.0,150.0,20698
+17652,bmw,Z4,2019,Semi-Auto,8031,Petrol,6.32,2.0,145.0,32950
+17653,ford,Grand Tourneo Connect,2017,Manual,35654,Diesel,3.83,1.5,125.0,11000
+17654,merc,CLS Class,2016,Automatic,13062,Diesel,4.58,3.0,150.0,23995
+17655,ford,Edge,2016,Manual,11644,Diesel,4.83,2.0,160.0,20000
+17658,hyundi,I800,2018,Manual,37620,Diesel,6.24,2.5,150.0,14000
+17661,vw,Beetle,2016,Manual,22857,Diesel,3.83,2.0,30.0,13700
+17663,merc,SLK,2015,Semi-Auto,37265,Diesel,3.33,2.0,30.0,14995
+17666,toyota,Prius,2018,Automatic,9843,Hybrid,2.5,1.8,135.0,21995
+17667,vw,CC,2015,Manual,90204,Diesel,3.75,2.0,30.0,8688
+17668,skoda,Kamiq,2019,Semi-Auto,3160,Petrol,5.33,1.5,145.0,17995
+17674,merc,GLS Class,2018,Automatic,19719,Diesel,6.92,3.0,145.0,49500
+17677,vauxhall,GTC,2017,Manual,26514,Petrol,4.99,1.4,150.0,11495
+17679,hyundi,IX35,2015,Manual,59629,Diesel,4.41,1.7,150.0,8495
+17680,vauxhall,Vivaro,2018,Manual,6392,Diesel,5.75,1.6,145.0,20790
+17683,vw,Tiguan Allspace,2019,Automatic,2036,Diesel,6.0,2.0,145.0,26995
+17684,vw,Amarok,2019,Automatic,8500,Diesel,8.49,3.0,260.0,38990
+17687,bmw,7 Series,2017,Automatic,22363,Diesel,3.91,3.0,150.0,23800
+17691,vw,Beetle,2016,Manual,23991,Petrol,5.41,2.0,160.0,13990
+17694,audi,Q8,2019,Semi-Auto,5000,Diesel,7.17,3.0,145.0,59990
+17695,merc,G Class,2016,Automatic,4000,Petrol,7.81,4.0,325.0,73948
+17700,merc,X-CLASS,2019,Automatic,1000,Diesel,6.57,2.3,260.0,31990
+17704,ford,Edge,2017,Manual,27210,Diesel,4.91,2.0,145.0,21060
+17711,skoda,Kamiq,2019,Automatic,2970,Petrol,5.16,1.0,145.0,17479
+17716,audi,A7,2016,Semi-Auto,40484,Diesel,4.41,3.0,145.0,21895
+17718,merc,CLS Class,2017,Semi-Auto,30000,Diesel,4.58,3.0,165.0,23000
+17724,hyundi,IX35,2015,,46000,Diesel,4.41,1.7,145.0,9495
+17726,merc,SLK,1998,Automatic,99300,Petrol,7.33,2.3,265.0,1990
+17730,bmw,M3,2018,Semi-Auto,12879,Petrol,6.92,3.0,150.0,43990
+17731,merc,X-CLASS,2019,Automatic,10485,Diesel,6.57,2.3,265.0,25491
+17733,hyundi,IX20,2014,Manual,42386,Diesel,3.66,1.6,30.0,5998
+17736,vw,Caravelle,2019,Automatic,11441,Diesel,7.0,2.0,145.0,39888
+17737,vw,Amarok,2018,,20000,Diesel,6.5,3.0,265.0,27895
+17738,merc,S Class,2019,Semi-Auto,9252,Diesel,4.5,3.0,145.0,46250
+17739,hyundi,IX35,2011,Manual,42000,Diesel,4.91,2.0,205.0,6975
+17740,hyundi,IX20,2016,Manual,36242,Petrol,4.67,1.4,125.0,7798
+17742,vauxhall,Zafira Tourer,2017,Manual,17527,Petrol,5.67,1.4,200.0,11000
+17743,bmw,6 Series,2008,Semi-Auto,67000,Diesel,5.75,3.0,265.0,9495
+17746,toyota,Hilux,2017,Manual,39094,Diesel,5.82,2.4,260.0,17998
+17747,vw,Scirocco,2015,Manual,122150,Diesel,4.25,2.0,20.0,8000
+17748,bmw,X7,2020,Semi-Auto,5087,Diesel,7.0,3.0,145.0,69990
+17751,audi,RS5,2019,Automatic,1000,Petrol,7.74,2.9,145.0,53490
+17754,vw,Beetle,2015,Manual,31000,Diesel,3.58,1.6,30.0,8950
+17756,vw,Tiguan Allspace,2019,Semi-Auto,18000,Diesel,6.08,2.0,145.0,33990
+17757,audi,RS4,2019,Semi-Auto,5151,Petrol,8.08,2.9,145.0,57990
+17758,merc,X-CLASS,2018,Automatic,13500,Diesel,6.57,2.3,260.0,28950
+17759,ford,Puma,2019,Manual,10,Petrol,4.67,1.0,150.0,21200
+17762,ford,Galaxy,2013,Automatic,73701,Diesel,4.99,2.0,200.0,7599
+17764,vw,Amarok,2015,Automatic,38138,Diesel,6.66,2.0,260.0,17995
+17766,ford,Edge,2018,Manual,25134,Diesel,4.91,2.0,145.0,21950
+17767,vw,Scirocco,2011,Manual,83770,Petrol,6.32,2.0,235.0,7199
+17769,toyota,Verso,2017,Semi-Auto,13017,Petrol,5.5,1.8,205.0,13998
+17771,vw,Amarok,2019,Automatic,1854,Diesel,7.0,3.0,260.0,35899
+17774,vw,Arteon,2019,Automatic,6777,Petrol,5.82,1.5,145.0,21999
+17780,toyota,Avensis,2012,Automatic,40796,Petrol,5.57,1.8,205.0,8750
+17781,ford,KA,2013,Manual,35018,Petrol,4.08,1.2,30.0,4250
+17787,skoda,Kamiq,2020,Semi-Auto,4730,Petrol,5.41,1.5,145.0,23500
+17788,vw,Scirocco,2017,Automatic,16558,Petrol,5.33,2.0,160.0,17695
+17791,merc,SLK,2013,Automatic,51458,Diesel,4.16,2.0,145.0,9600
+17795,toyota,Prius,2016,Automatic,29234,Hybrid,2.75,1.8,0.0,18570
+17798,ford,Edge,2017,Semi-Auto,23620,Diesel,4.83,2.0,160.0,19995
+17799,toyota,GT86,2019,Manual,2680,Petrol,7.08,2.0,150.0,26995
+17801,toyota,Prius,2014,Automatic,49999,Hybrid,3.33,1.8,0.0,11995
+17803,ford,Galaxy,2016,Manual,34980,Diesel,4.16,2.0,125.0,17750
+17804,hyundi,IX20,2017,Manual,19363,Petrol,4.67,1.4,145.0,8690
+17808,skoda,Scala,2019,Automatic,42,Petrol,5.16,1.5,145.0,17995
+17809,merc,S Class,2018,Semi-Auto,9740,Petrol,6.92,4.0,145.0,72995
+17813,audi,Q8,2020,Semi-Auto,1500,Diesel,7.17,3.0,150.0,73495
+17814,hyundi,IX20,2011,Manual,22000,Petrol,4.67,1.4,125.0,5490
+17816,vw,Arteon,2019,Automatic,1963,Petrol,5.82,1.5,145.0,22536
+17824,skoda,Kamiq,2019,Manual,3055,Petrol,4.99,1.0,145.0,18790
+17825,vw,Caravelle,2019,Automatic,60,Diesel,7.17,2.0,145.0,40999
+17828,vw,Caddy Maxi Life,2019,Manual,1201,Diesel,4.74,2.0,145.0,18990
+17830,merc,S Class,2016,Automatic,15000,Petrol,7.0,4.7,300.0,31000
+17833,vw,Arteon,2019,Manual,5922,Diesel,4.5,2.0,145.0,23996
+17834,bmw,M3,2015,Semi-Auto,16517,Petrol,6.92,3.0,305.0,31000
+17836,ford,Galaxy,2016,Semi-Auto,10937,Diesel,4.5,2.0,145.0,21500
+17839,vw,CC,2015,Manual,68539,Diesel,3.75,2.0,30.0,9225
+17843,vauxhall,Combo Life,2018,Manual,5800,Diesel,4.41,1.5,145.0,13190
+17844,merc,V Class,2013,Manual,58518,Diesel,6.08,2.1,305.0,20000
+17845,hyundi,IX20,2016,Automatic,9574,Petrol,5.39,1.6,205.0,9495
+17847,skoda,Kamiq,2019,Semi-Auto,4000,Petrol,5.33,1.5,145.0,20990
+17852,ford,Edge,2017,Automatic,17515,Diesel,4.91,2.0,145.0,22000
+17856,toyota,Land Cruiser,2017,Semi-Auto,18256,Diesel,6.16,2.8,300.0,38495
+17863,vw,Arteon,2019,Automatic,5683,Diesel,4.25,2.0,145.0,23899
+17864,vw,Arteon,2019,Semi-Auto,2239,Petrol,5.82,1.5,145.0,23990
+17865,vw,Arteon,2019,Automatic,2000,Petrol,7.17,2.0,145.0,29999
+17870,audi,A7,2016,Semi-Auto,27386,Diesel,3.83,3.0,125.0,20450
+17872,bmw,Z3,1998,Manual,56500,Petrol,6.66,1.9,270.0,3950
+17873,bmw,Z4,2020,Semi-Auto,202,Petrol,6.32,2.0,145.0,39991
+17877,hyundi,I40,2015,Manual,41000,Diesel,3.58,1.7,30.0,8999
+17882,ford,Grand Tourneo Connect,2020,Manual,601,Diesel,3.83,1.5,145.0,20850
+17883,toyota,Prius,2017,Automatic,33124,Hybrid,2.75,1.8,0.0,19295
+17888,vauxhall,GTC,2015,Manual,49897,Petrol,4.99,1.4,165.0,6998
+17893,merc,X-CLASS,2018,Automatic,10000,Diesel,6.57,2.3,240.0,28990
+17901,ford,Mustang,2018,Manual,5000,Petrol,11.25,5.0,145.0,30500
+17903,bmw,7 Series,2019,Semi-Auto,6516,Diesel,5.25,3.0,150.0,48912
+17907,ford,Galaxy,2016,Manual,11850,Diesel,4.16,2.0,125.0,18995
+17909,ford,Galaxy,2018,Manual,4753,Diesel,4.16,2.0,145.0,23499
+17910,skoda,Kamiq,2019,Semi-Auto,1830,Petrol,5.41,1.5,150.0,21995
+17913,merc,S Class,2019,,5000,Petrol,7.42,4.0,145.0,79980
+17915,merc,X-CLASS,2019,Automatic,4000,Diesel,6.57,2.3,260.0,29000
+17916,bmw,8 Series,2019,,3948,Petrol,7.08,3.0,145.0,58990
+17919,skoda,Scala,2019,Manual,9875,Diesel,4.08,1.6,145.0,16999
+17921,vw,Scirocco,2016,Manual,42000,Diesel,4.25,2.0,20.0,14350
+17923,merc,GLS Class,2017,Automatic,19761,Diesel,6.32,3.0,300.0,39900
+17925,bmw,X4,2015,Manual,53755,Diesel,4.5,2.0,160.0,19485
+17929,hyundi,Santa Fe,2016,Manual,20578,Diesel,4.99,2.2,200.0,17000
+17931,merc,V Class,2018,Automatic,7000,Diesel,5.16,2.2,145.0,35995
+17934,skoda,Kamiq,2020,Manual,1908,Petrol,4.91,1.0,150.0,18990
+17937,merc,CLS Class,2019,Semi-Auto,6785,Diesel,4.83,2.9,145.0,38899
+17938,vauxhall,Combo Life,2019,Manual,849,Petrol,5.57,1.2,150.0,15000
+17943,vauxhall,GTC,2016,,22351,Petrol,4.99,1.4,165.0,9965
+17950,ford,Edge,2017,Manual,28027,Diesel,4.83,2.0,160.0,18134
+17953,bmw,6 Series,2016,Automatic,45140,Diesel,4.74,3.0,200.0,20999
+17955,hyundi,Santa Fe,2017,Manual,39608,Diesel,4.99,2.2,200.0,18500
+17960,hyundi,I800,2018,Manual,38560,Diesel,6.24,2.5,145.0,14000
+17966,vw,Arteon,2019,Automatic,8503,Petrol,5.82,1.5,145.0,20500
+17967,bmw,X6,2019,Semi-Auto,2710,Petrol,8.91,3.0,145.0,66281
+17968,hyundi,IX35,2015,Manual,42250,Petrol,5.33,1.6,160.0,7950
+17969,skoda,Kamiq,2019,Manual,3000,Petrol,4.91,1.0,145.0,18495
+17970,hyundi,I800,2018,Manual,38090,Diesel,6.24,2.5,145.0,14000
+17972,merc,S Class,2019,Automatic,1314,Petrol,6.92,4.0,145.0,86699
+17977,merc,S Class,2019,Semi-Auto,3236,Diesel,4.5,3.0,145.0,49980
+17978,hyundi,IX20,2015,Automatic,17950,Petrol,5.39,1.6,205.0,7480
+17980,merc,S Class,2019,Semi-Auto,2498,Diesel,4.5,3.0,145.0,54399
+17984,merc,CLS Class,2016,Semi-Auto,14466,Diesel,4.58,3.0,160.0,22498
+17986,ford,Edge,2018,Semi-Auto,5000,Diesel,4.91,2.0,145.0,27500
+17992,vauxhall,Combo Life,2019,Manual,2915,Diesel,4.41,1.5,145.0,19200
+17993,audi,S3,2015,Automatic,37150,Petrol,,2.0,200.0,19990
+17995,bmw,7 Series,2014,Semi-Auto,60697,Diesel,4.67,3.0,160.0,14798
+17998,skoda,Rapid,2016,Manual,39000,Diesel,3.66,1.6,30.0,8495
+18000,bmw,7 Series,2018,Semi-Auto,17192,Petrol,6.66,4.4,145.0,36450
+18004,vw,California,2020,Semi-Auto,1000,Diesel,7.33,2.0,260.0,61995
+18009,vw,Scirocco,2017,Manual,12377,Diesel,4.41,2.0,145.0,17000
+18010,vw,Arteon,2019,,3806,Petrol,4.99,2.0,145.0,26840
+18014,merc,CLA Class,2019,Automatic,2500,Diesel,4.25,2.0,145.0,31500
+18016,hyundi,I40,2019,Manual,10,Diesel,4.33,1.6,145.0,16000
+18019,hyundi,I800,2016,Automatic,27802,Diesel,7.0,2.5,325.0,13710
+18029,ford,Tourneo Connect,2016,Manual,21026,Diesel,3.66,1.5,30.0,11995
+18031,ford,Galaxy,2016,Automatic,22040,Diesel,4.5,2.0,150.0,18000
+18034,merc,CLS Class,2013,Automatic,52572,Diesel,5.08,3.0,200.0,12500
+18037,toyota,Supra,2019,Automatic,9909,Other,6.82,3.0,150.0,59995
+18040,audi,Q8,2020,,2000,Diesel,7.17,3.0,145.0,64995
+18045,vw,Scirocco,2016,Manual,14500,Petrol,4.99,2.0,150.0,15990
+18046,merc,V Class,2019,Automatic,18266,Diesel,4.83,2.1,150.0,20391
+18049,ford,Galaxy,2016,Automatic,66015,Diesel,4.5,2.0,150.0,14900
+18050,bmw,X6,2015,Semi-Auto,40915,Diesel,5.25,3.0,200.0,27995
+18056,audi,A8,2019,Automatic,5000,Diesel,4.83,3.0,145.0,42750
+18058,vw,CC,2012,Manual,58000,Diesel,3.91,2.0,30.0,7995
+18060,ford,KA,2016,Manual,15084,Petrol,4.08,1.2,30.0,5991
+18064,merc,GL Class,2018,Automatic,13096,Petrol,4.67,1.6,145.0,19999
+18065,vw,Scirocco,2015,Manual,29779,Diesel,4.25,2.0,20.0,12498
+18066,audi,RS6,2017,Semi-Auto,8546,Petrol,8.0,4.0,145.0,54998
+18067,bmw,i3,2017,Automatic,19178,Other,0.5,0.6,0.0,20000
+18070,ford,Edge,2019,Automatic,14,Diesel,6.32,2.0,145.0,33994
+18072,ford,Grand C-MAX,2013,Manual,36270,Diesel,3.91,1.6,125.0,7690
+18074,bmw,6 Series,2016,Semi-Auto,28684,Diesel,4.58,3.0,160.0,21975
+18076,bmw,i3,2015,Automatic,33931,Hybrid,0.5,0.0,0.0,15498
+18079,vw,Tiguan Allspace,2019,Semi-Auto,5900,Diesel,6.08,2.0,145.0,30895
+18083,vw,Arteon,2019,,8000,Diesel,4.67,2.0,145.0,25000
+18086,audi,RS4,2019,Semi-Auto,8503,Diesel,7.0,2.9,150.0,52995
+18090,audi,A7,2019,Automatic,150,Diesel,6.16,3.0,145.0,45499
+18106,ford,Mustang,2017,Manual,17030,Petrol,11.25,5.0,150.0,27990
+18109,merc,GL Class,2014,Semi-Auto,44921,Diesel,6.66,3.0,325.0,29489
+18114,skoda,Kamiq,2020,Manual,1853,Petrol,4.74,1.0,145.0,17495
+18118,bmw,i8,2018,Automatic,4477,Hybrid,1.67,1.5,135.0,64980
+18120,skoda,Yeti,2014,Semi-Auto,12773,Petrol,5.25,1.2,165.0,10995
+18122,hyundi,Santa Fe,2018,Automatic,31123,Diesel,5.5,2.2,145.0,20985
+18126,vw,Amarok,2018,Automatic,5940,Diesel,7.0,3.0,260.0,30999
+18129,hyundi,I40,2019,Semi-Auto,2450,Diesel,4.41,1.6,145.0,19490
+18133,hyundi,I40,2016,Manual,36084,Diesel,3.58,1.7,30.0,10491
+18135,ford,Galaxy,2013,Automatic,63000,Diesel,4.99,2.0,200.0,7651
+18142,merc,X-CLASS,2019,Automatic,8000,Diesel,7.49,3.0,260.0,38990
+18152,merc,GL Class,2018,Automatic,13436,Petrol,4.67,1.6,145.0,19999
+18159,bmw,i8,2019,Automatic,2799,Hybrid,1.67,1.5,135.0,64750
+18164,skoda,Scala,2019,Manual,1274,Petrol,4.67,1.0,145.0,14798
+18165,ford,Galaxy,2019,Semi-Auto,4311,Diesel,4.33,2.0,145.0,28300
+18167,hyundi,Santa Fe,2019,Semi-Auto,11000,Diesel,6.0,2.2,145.0,32495
+18170,toyota,Hilux,2019,Manual,9153,Diesel,5.82,2.4,260.0,23990
+18171,audi,A7,2016,Semi-Auto,22405,Diesel,4.41,3.0,145.0,23745
+18174,merc,GLS Class,2019,Semi-Auto,9977,Diesel,6.32,3.0,145.0,47980
+18176,merc,V Class,2019,Automatic,999,Diesel,6.41,2.0,145.0,46499
+18179,merc,GLS Class,2016,Automatic,21169,Diesel,6.32,3.0,305.0,37385
+18181,skoda,Kamiq,2019,Semi-Auto,2197,Petrol,5.33,1.5,145.0,19250
+18190,ford,Mustang,2018,Semi-Auto,6234,Petrol,8.17,2.3,145.0,28750
+18193,audi,A7,2018,Automatic,3537,Diesel,6.16,3.0,145.0,39991
+18195,toyota,Supra,2019,Semi-Auto,4153,Petrol,6.82,3.0,145.0,51995
+18200,ford,Edge,2016,Manual,48756,Diesel,4.83,2.0,160.0,17650
+18201,bmw,M4,2019,Semi-Auto,6397,Petrol,6.92,3.0,145.0,45323
+18205,hyundi,IX35,2015,Manual,42865,Diesel,4.41,1.7,150.0,9498
+18208,audi,Q8,2019,Automatic,7961,Diesel,7.17,3.0,145.0,67495
+18210,hyundi,Santa Fe,2017,Manual,39606,Diesel,4.99,2.2,200.0,14900
+18211,hyundi,Santa Fe,2020,Semi-Auto,1088,Diesel,6.0,2.2,145.0,35995
+18213,vw,Arteon,2019,Semi-Auto,4926,Diesel,3.75,2.0,145.0,25182
+18214,audi,RS5,2019,Semi-Auto,5089,Petrol,7.81,2.9,145.0,59995
+18217,merc,S Class,2019,Semi-Auto,119,Petrol,5.75,3.0,145.0,64999
+18219,merc,V Class,2018,Manual,17876,Diesel,5.08,2.1,145.0,19998
+18220,hyundi,IX20,2015,Automatic,24610,Petrol,5.39,1.6,205.0,8500
+18232,merc,SLK,2013,Semi-Auto,18105,Diesel,4.16,2.0,150.0,10495
+18234,merc,X-CLASS,2019,Automatic,8107,Diesel,6.57,2.3,260.0,30991
+18239,toyota,Land Cruiser,2014,Manual,53252,Diesel,6.74,3.0,325.0,23995
+18240,bmw,X7,2020,Semi-Auto,1501,Diesel,7.0,3.0,145.0,69995
+18242,vw,CC,2014,Manual,34566,Diesel,3.99,2.0,125.0,10495
+18248,bmw,X6,2020,Semi-Auto,3158,Petrol,8.91,3.0,145.0,65352
+18254,toyota,Prius,2017,Automatic,27899,Hybrid,2.5,1.8,0.0,17498
+18256,hyundi,IX35,2013,Manual,31643,Diesel,4.83,1.7,145.0,7495
+18257,toyota,Verso,2017,Semi-Auto,16412,Petrol,5.5,1.8,200.0,16500
+18265,merc,V Class,2019,Manual,23580,Diesel,5.08,2.1,145.0,20000
+18267,bmw,X7,2019,Semi-Auto,3192,Diesel,7.0,3.0,145.0,65050
+18273,hyundi,I40,2018,Manual,33195,Diesel,3.58,1.7,145.0,14682
+18276,ford,Edge,2018,Manual,8970,Diesel,4.91,2.0,150.0,24800
+18282,ford,KA,2018,Manual,6000,Petrol,4.08,0.0,145.0,8135
+18285,bmw,Z3,1999,Manual,51949,Petrol,6.66,1.9,255.0,3995
+18286,skoda,Yeti,2016,Manual,45522,Petrol,4.58,1.2,125.0,9500
+18290,vauxhall,GTC,2016,Manual,31050,Diesel,3.58,1.6,30.0,9897
+18297,ford,Grand C-MAX,2017,Manual,24501,Diesel,3.66,1.5,145.0,11495
+18300,vauxhall,Combo Life,2019,Manual,5699,Petrol,5.57,1.2,145.0,14199
+18305,vw,Arteon,2019,Automatic,10682,Petrol,4.99,2.0,145.0,28391
+18306,ford,Tourneo Connect,2019,Manual,2762,Diesel,4.83,1.5,145.0,18750
+18307,audi,RS3,2016,Semi-Auto,28083,Petrol,6.74,2.5,300.0,28991
+18308,skoda,Rapid,2017,Manual,5476,Petrol,4.08,1.2,30.0,9998
+18310,vauxhall,GTC,2016,Manual,56269,Petrol,4.99,1.4,160.0,5995
+18314,ford,Fusion,2005,Manual,64000,Diesel,3.66,1.4,30.0,2395
+18315,ford,Edge,2016,Manual,22347,Diesel,4.83,2.0,160.0,17998
+18317,merc,CLS Class,2013,Automatic,71004,Diesel,4.28,2.1,145.0,10200
+18321,merc,S Class,2019,Semi-Auto,1000,Petrol,6.92,4.0,145.0,90759
+18323,ford,Grand C-MAX,2017,Manual,45435,Petrol,4.33,1.0,150.0,11000
+18325,bmw,X6,2018,Semi-Auto,15119,Diesel,5.75,3.0,145.0,39994
+18327,ford,KA,2015,Manual,48085,Petrol,4.08,1.2,30.0,3999
+18330,merc,SLK,2012,Automatic,43890,Petrol,5.41,1.8,205.0,12995
+18336,bmw,X4,2018,Semi-Auto,935,Diesel,5.5,2.0,145.0,34000
+18337,ford,Edge,2017,Semi-Auto,20397,Diesel,4.83,2.0,165.0,19650
+18341,hyundi,Santa Fe,2016,Semi-Auto,34999,Diesel,5.5,2.2,235.0,17750
+18342,bmw,X4,2020,Semi-Auto,999,Diesel,6.32,3.0,145.0,46995
+18345,merc,CLS Class,2015,Semi-Auto,44143,Diesel,4.58,3.0,160.0,19698
+18347,vw,Amarok,2018,Automatic,12447,Diesel,6.5,3.0,260.0,25498
+18350,vw,Arteon,2019,Semi-Auto,8000,Diesel,5.33,2.0,145.0,33950
+18354,skoda,Scala,2019,Manual,2653,Petrol,4.74,1.0,145.0,16990
+18355,merc,CLS Class,2011,Automatic,75000,Diesel,5.08,3.0,200.0,11975
+18359,merc,SLK,2012,Automatic,28500,Petrol,5.5,1.8,200.0,13999
+18361,skoda,Roomster,2014,Manual,41498,Diesel,3.91,1.6,125.0,5950
+18362,merc,SLK,2015,Automatic,48489,Petrol,4.91,2.0,150.0,14900
+18370,toyota,Verso,2016,Manual,28212,Petrol,5.67,1.6,200.0,11690
+18372,toyota,Prius,2017,Automatic,18460,Hybrid,2.5,1.8,0.0,18490
+18376,ford,Galaxy,2016,Manual,33584,Diesel,4.16,2.0,125.0,19900
+18378,ford,Galaxy,2019,Automatic,4406,Diesel,4.33,2.0,145.0,24500
+18379,vw,Tiguan Allspace,2020,Semi-Auto,3889,Diesel,6.08,2.0,145.0,37490
+18381,vw,Caravelle,2019,Automatic,2500,Diesel,7.0,2.0,145.0,44450
+18383,toyota,Prius,2017,Automatic,19133,Hybrid,2.75,1.8,135.0,20990
+18389,merc,S Class,2016,Automatic,40000,Diesel,4.67,3.0,165.0,25400
+18392,hyundi,Santa Fe,2018,Semi-Auto,21000,Diesel,5.5,2.2,145.0,20550
+18393,ford,Galaxy,2016,Manual,34787,Diesel,4.16,2.0,125.0,15475
+18396,merc,S Class,2018,Automatic,39840,Petrol,5.75,3.0,150.0,45000
+18400,bmw,X7,2019,Semi-Auto,3670,Diesel,7.0,3.0,145.0,65000
+18401,bmw,X4,2020,Semi-Auto,500,Petrol,8.74,3.0,145.0,48993
+18404,vauxhall,Combo Life,2018,Manual,10996,Diesel,4.41,1.5,145.0,14495
+18409,toyota,Land Cruiser,2019,Semi-Auto,10083,Diesel,7.81,2.8,145.0,42444
+18410,ford,Galaxy,2012,Manual,114000,Diesel,4.74,2.0,165.0,6490
+18412,bmw,6 Series,2014,Automatic,51920,Diesel,4.74,3.0,160.0,17500
+18420,merc,CLS Class,2019,Semi-Auto,3426,Diesel,4.91,2.9,145.0,45199
+18421,ford,Mustang,2020,Automatic,2450,Petrol,10.64,5.0,145.0,37990
+18425,merc,SLK,2012,Automatic,55000,Petrol,5.41,1.8,200.0,10990
+18427,toyota,Avensis,2015,Manual,19363,Diesel,3.5,1.6,20.0,9998
+18429,skoda,Scala,2019,Manual,1550,Petrol,4.74,1.0,145.0,15900
+18431,vauxhall,GTC,2016,Manual,30000,Petrol,6.5,2.0,260.0,13995
+18432,ford,KA,2014,Manual,30658,Petrol,4.08,1.2,30.0,4298
+18435,ford,Galaxy,2016,,10637,Diesel,4.5,2.0,145.0,22000
+18436,ford,Edge,2018,Automatic,15471,Diesel,4.83,2.0,145.0,22999
+18437,vw,Amarok,2019,Automatic,6900,Diesel,7.0,3.0,260.0,30000
+18438,vw,Tiguan Allspace,2018,Semi-Auto,33784,Diesel,4.91,2.0,145.0,22999
+18442,bmw,8 Series,2019,Semi-Auto,7903,Diesel,6.16,3.0,145.0,67898
+18445,vw,Arteon,2019,Semi-Auto,3797,Diesel,5.33,2.0,145.0,27550
+18446,ford,Edge,2016,Manual,73079,Diesel,4.83,2.0,160.0,15995
+18447,toyota,Hilux,2015,Automatic,72100,Diesel,7.17,3.0,260.0,14995
+18450,hyundi,Santa Fe,2019,Semi-Auto,2880,Diesel,5.91,2.2,145.0,32495
+18451,ford,KA,2014,Manual,29695,Petrol,4.08,1.2,30.0,5295
+18454,bmw,X6,2017,Semi-Auto,40429,Diesel,4.99,3.0,200.0,29498
+18455,hyundi,IX20,2016,Manual,16039,Diesel,3.66,1.6,30.0,9338
+18456,vw,California,2019,Automatic,8783,Diesel,7.33,2.0,260.0,55999
+18461,merc,CLS Class,2016,Semi-Auto,31532,Diesel,4.08,2.1,125.0,19495
+18462,audi,Q8,2020,Semi-Auto,768,Diesel,7.17,3.0,145.0,62900
+18463,merc,CLS Class,2015,Automatic,29766,Diesel,4.58,3.0,160.0,20490
+18464,bmw,X6,2019,Semi-Auto,2055,Diesel,6.74,3.0,145.0,56995
+18471,merc,S Class,2015,Automatic,7864,Petrol,7.42,4.7,325.0,32249
+18472,bmw,X4,2019,Semi-Auto,10802,Diesel,6.32,3.0,145.0,38500
+18476,hyundi,I40,2019,Semi-Auto,1650,Diesel,4.33,1.6,145.0,21990
+18483,merc,GLB Class,2020,Semi-Auto,1912,Diesel,5.25,2.0,145.0,39995
+18485,bmw,X6,2017,Automatic,31931,Petrol,8.08,4.4,145.0,36000
+18493,vw,Scirocco,2015,Manual,42579,Diesel,4.25,2.0,20.0,12000
+18495,merc,X-CLASS,2019,Automatic,8100,Diesel,6.57,2.3,260.0,26000
+18498,vw,Tiguan Allspace,2018,Manual,35000,Diesel,4.74,2.0,145.0,21995
+18503,merc,M Class,2010,Automatic,128000,Diesel,7.24,3.0,555.0,8990
+18511,vw,Arteon,2019,Semi-Auto,7310,Diesel,4.67,2.0,145.0,23798
+18514,toyota,Prius,2014,Automatic,65829,Hybrid,3.41,1.8,0.0,15995
+18523,ford,KA,2017,Manual,18000,Petrol,4.08,0.0,145.0,7999
+18524,ford,Edge,2018,Automatic,19458,Diesel,,2.0,145.0,25999
+18525,hyundi,IX20,2010,Manual,62000,Petrol,4.67,1.4,120.0,4495
+18529,hyundi,I40,2018,Automatic,32289,Diesel,3.91,1.7,145.0,12499
+18531,vw,Caravelle,2019,Automatic,2692,Diesel,7.0,2.0,145.0,49999
+18532,toyota,Prius,2013,Automatic,78400,Hybrid,3.66,1.8,10.0,17995
+18533,vauxhall,Combo Life,2019,Manual,9500,Petrol,5.57,1.2,145.0,14990
+18539,skoda,Rapid,2016,Manual,74129,Diesel,3.0,1.4,0.0,5790
+18542,vauxhall,Vivaro,2017,Manual,25885,Diesel,4.67,1.6,145.0,14900
+18545,ford,KA,2015,Manual,23593,Petrol,4.08,1.2,30.0,5560
+18546,ford,Galaxy,2016,Manual,21744,Diesel,4.16,2.0,125.0,18498
+18549,hyundi,I40,2017,Manual,27000,Diesel,3.58,1.7,30.0,11999
+18551,toyota,Avensis,2016,Manual,17895,Diesel,3.5,1.6,20.0,9750
+18553,merc,M Class,2015,Semi-Auto,37963,Diesel,6.0,2.1,205.0,21998
+18564,merc,M Class,2008,Semi-Auto,96000,Diesel,8.17,3.0,565.0,6495
+18565,audi,A7,2016,Semi-Auto,29000,Diesel,3.75,3.0,30.0,20250
+18568,vauxhall,Agila,2014,Manual,32300,Petrol,4.25,1.2,30.0,4995
+18570,vw,Arteon,2019,,7747,Diesel,4.67,2.0,145.0,24000
+18572,ford,Mustang,2016,Automatic,18000,Petrol,8.17,2.3,325.0,24990
+18575,ford,Galaxy,2016,Manual,85259,Diesel,4.16,2.0,125.0,12940
+18578,ford,Edge,2019,Semi-Auto,6852,Diesel,6.32,2.0,145.0,32499
+18579,vw,CC,2014,Manual,64650,Diesel,3.91,2.0,30.0,8798
+18580,hyundi,Santa Fe,2016,Manual,52265,Diesel,4.99,2.2,200.0,15299
+18582,merc,CLS Class,2016,Automatic,42018,Diesel,4.08,2.1,125.0,19590
+18585,vw,Shuttle,2018,Manual,22628,Diesel,4.99,2.0,145.0,19998
+18587,toyota,Prius,2017,Automatic,33751,Hybrid,2.5,1.8,135.0,18500
+18588,ford,Edge,2019,Automatic,8772,Diesel,6.32,2.0,145.0,31995
+18597,skoda,Yeti,2016,Semi-Auto,16784,Petrol,4.58,1.2,125.0,13000
+18601,vw,Caravelle,2011,Automatic,96000,Diesel,6.84,2.0,325.0,20995
+18603,audi,A8,2020,Automatic,250,Diesel,6.0,3.0,145.0,78990
+18608,toyota,GT86,2013,Manual,72000,Petrol,6.5,2.0,265.0,10495
+18609,merc,CLA Class,2019,Automatic,3439,Petrol,5.75,2.0,145.0,26991
+18611,merc,V Class,2018,Automatic,22,Diesel,5.25,2.2,145.0,35299
+18613,skoda,Scala,2019,,5860,Diesel,4.33,1.6,145.0,17925
+18620,vw,Jetta,2016,Manual,57605,Diesel,3.5,2.0,20.0,9995
+18624,toyota,Verso,2016,Semi-Auto,16429,Petrol,5.5,1.8,200.0,13981
+18625,vw,Arteon,2019,Automatic,1201,Petrol,4.99,2.0,145.0,26999
+18628,ford,Grand C-MAX,2016,Automatic,19704,Diesel,3.99,1.5,30.0,10077
+18629,toyota,Verso,2017,Manual,10136,Diesel,3.75,1.6,145.0,15995
+18630,vw,Scirocco,2012,Manual,77000,Petrol,5.33,1.4,160.0,6490
+18631,merc,GLB Class,2020,Semi-Auto,1000,Diesel,4.91,2.0,145.0,30209
+18632,vw,Tiguan Allspace,2019,Semi-Auto,8181,Diesel,6.0,2.0,145.0,26199
+18634,skoda,Rapid,2015,Manual,53549,Diesel,3.66,1.6,30.0,5950
+18648,vw,CC,2016,Automatic,41044,Diesel,3.99,2.0,125.0,12290
+18650,vw,Arteon,2019,Automatic,50,Petrol,4.99,2.0,145.0,30000
+18657,merc,G Class,2020,Semi-Auto,1350,Petrol,10.99,4.0,145.0,159999
+18658,bmw,X7,2020,Semi-Auto,1000,Petrol,9.48,3.0,145.0,79566
+18664,toyota,Hilux,2018,Automatic,24692,Diesel,6.5,2.4,260.0,23988
+18667,ford,Grand Tourneo Connect,2017,Automatic,12757,Diesel,4.16,1.5,145.0,14998
+18671,skoda,Yeti,2016,Automatic,10947,Petrol,4.58,1.2,125.0,12399
+18674,vw,Arteon,2019,Semi-Auto,6777,Petrol,4.99,2.0,145.0,25897
+18678,vw,CC,2016,Semi-Auto,52276,Diesel,3.99,2.0,125.0,12990
+18680,vw,CC,2015,Manual,60687,Diesel,3.91,2.0,30.0,9995
+18681,hyundi,Santa Fe,2015,Manual,25770,Diesel,5.08,2.2,200.0,14498
+18684,toyota,GT86,2012,Manual,53000,Petrol,6.5,2.0,250.0,11995
+18685,bmw,M4,2019,Semi-Auto,8787,Petrol,6.92,3.0,145.0,39275
+18690,toyota,GT86,2017,Manual,12340,Petrol,6.5,2.0,145.0,18995
+18693,merc,V Class,2018,Manual,49000,Diesel,5.08,2.1,145.0,19000
+18695,toyota,Prius,2016,Automatic,49104,Hybrid,2.75,1.8,0.0,17291
+18700,vw,Amarok,2019,Automatic,7504,Diesel,8.31,3.0,260.0,35000
+18703,merc,CLS Class,2018,Semi-Auto,13914,Diesel,4.83,2.9,145.0,32800
+18705,vw,Arteon,2018,Semi-Auto,32713,Petrol,4.99,2.0,145.0,19990
+18709,toyota,Land Cruiser,2019,Semi-Auto,11619,Diesel,7.81,2.8,145.0,40999
+18710,vw,Eos,2008,Manual,65000,Diesel,4.9,2.0,195.0,4995
+18711,toyota,Verso,2016,Manual,14996,Petrol,5.67,1.6,200.0,11990
+18713,audi,RS4,2013,Semi-Auto,28359,Petrol,8.91,4.2,565.0,26995
+18716,ford,Galaxy,2017,Manual,35545,Diesel,4.16,2.0,125.0,19790
+18720,merc,V Class,2018,Manual,13013,Diesel,5.08,2.1,145.0,20698
+18721,bmw,X4,2017,Automatic,23604,Diesel,4.33,2.0,150.0,23900
+18725,toyota,Verso,2017,Semi-Auto,26242,Petrol,5.41,1.8,150.0,14995
+18727,ford,Puma,2020,Manual,2986,Petrol,4.67,1.0,145.0,20890
+18733,merc,GL Class,2016,Automatic,39542,Diesel,3.66,2.1,30.0,16999
+18738,merc,CLS Class,2017,Semi-Auto,14698,Diesel,4.58,3.0,160.0,26512
+18740,vw,CC,2014,Automatic,45755,Diesel,4.41,2.0,150.0,11000
+18741,toyota,Verso,2016,Manual,12698,Petrol,5.67,1.6,200.0,11195
+18744,hyundi,Santa Fe,2019,Semi-Auto,3960,Diesel,5.91,2.2,145.0,32490
+18748,ford,Mustang,2019,Automatic,2500,Petrol,10.64,5.0,145.0,45250
+18749,toyota,Hilux,2017,Automatic,35855,Diesel,6.5,2.4,260.0,19490
+18756,vauxhall,GTC,2016,Manual,38330,Petrol,4.99,1.4,160.0,7998
+18759,merc,CLA Class,2014,Automatic,34222,Diesel,3.75,2.1,30.0,16991
+18760,merc,V Class,2018,Manual,34483,Diesel,5.08,2.1,150.0,19346
+18762,bmw,Z4,2020,Semi-Auto,1000,Petrol,6.08,2.0,145.0,31980
+18769,hyundi,IX35,2015,Manual,45163,Diesel,4.41,1.7,145.0,8795
+18772,toyota,Prius,2019,Automatic,6552,Hybrid,1.0,1.8,135.0,24987
+18773,audi,R8,2014,Automatic,31930,Petrol,10.74,5.2,580.0,59990
+18775,vauxhall,Zafira Tourer,2017,Manual,29221,Petrol,5.67,1.4,145.0,11499
+18777,bmw,X4,2015,Automatic,26928,Diesel,4.91,3.0,200.0,20600
+18779,toyota,Avensis,2014,Manual,142000,Diesel,3.75,2.0,30.0,3930
+18782,merc,SLK,2015,Automatic,25996,Diesel,3.33,2.1,145.0,12999
+18783,merc,V Class,2019,Automatic,19735,Diesel,4.83,2.1,145.0,23750
+18788,toyota,Avensis,2016,Manual,47352,Diesel,3.5,1.6,20.0,10249
+18793,bmw,M4,2016,Semi-Auto,21107,Petrol,6.92,3.0,300.0,31498
+18796,bmw,Z4,2019,Automatic,11,Petrol,6.08,2.0,145.0,32995
+18797,hyundi,Santa Fe,2019,Semi-Auto,9993,Diesel,5.5,2.2,145.0,29990
+18798,merc,SLK,2015,Other,39000,Diesel,4.16,2.1,150.0,12995
+18799,merc,GLS Class,2019,Semi-Auto,13110,Diesel,6.32,3.0,145.0,47980
+18800,bmw,7 Series,2019,,3000,Diesel,5.67,3.0,145.0,53000
+18802,merc,CLA Class,2017,Automatic,17932,Petrol,4.41,1.6,150.0,17000
+18803,skoda,Kamiq,2019,Semi-Auto,563,Diesel,4.5,1.6,145.0,21990
+18809,hyundi,IX20,2018,Manual,10612,Petrol,4.67,1.4,150.0,10350
+18815,audi,A8,2019,Semi-Auto,3442,Diesel,5.82,3.0,145.0,39940
+18820,ford,Edge,2019,Automatic,10,Diesel,6.32,2.0,145.0,33000
+18821,vw,Scirocco,2017,Semi-Auto,11436,Diesel,4.41,2.0,145.0,17595
+18823,toyota,Supra,2019,Automatic,162,Petrol,6.82,3.0,145.0,49490
+18825,merc,V Class,2018,Manual,32095,Diesel,5.08,2.1,145.0,21996
+18827,bmw,X6,2013,Automatic,80000,Diesel,6.24,3.0,300.0,16990
+18829,ford,Edge,2017,Manual,17200,Diesel,4.91,2.0,205.0,21180
+18831,merc,V Class,2018,Automatic,19016,Diesel,4.83,2.1,145.0,19750
+18832,toyota,Hilux,2017,Manual,58630,Diesel,5.82,2.4,260.0,18995
+18833,hyundi,IX20,2016,Manual,28933,Petrol,4.67,1.4,125.0,7998
+18835,bmw,X6,2019,Semi-Auto,3371,Diesel,6.74,3.0,145.0,58990
+18843,vw,Beetle,2006,Manual,103875,Petrol,6.41,1.6,260.0,1799
+18844,ford,Grand C-MAX,2017,Manual,13809,Diesel,3.66,1.5,30.0,10800
+18845,vw,Beetle,2013,Manual,52750,Diesel,4.08,2.0,125.0,7691
+18849,merc,S Class,2019,Automatic,2000,Diesel,4.83,3.0,145.0,59995
+18854,ford,Fusion,2008,Manual,105000,Petrol,5.5,1.6,200.0,1895
+18862,vw,Arteon,2018,Automatic,11639,Diesel,3.91,2.0,145.0,21999
+18863,bmw,M4,2020,,2024,Petrol,6.92,3.0,145.0,49623
+18864,hyundi,IX20,2019,Manual,7887,Petrol,6.32,1.6,150.0,11994
+18865,vw,Shuttle,2018,Manual,33441,Diesel,4.99,2.0,145.0,20998
+18870,bmw,Z4,2008,Manual,63000,Petrol,7.42,3.0,325.0,14000
+18873,merc,SLK,2015,Semi-Auto,27877,Diesel,3.33,2.0,30.0,16480
+18876,ford,Grand C-MAX,2016,Manual,36511,Diesel,3.66,1.5,30.0,9999
+18878,merc,S Class,2017,Semi-Auto,6200,Diesel,4.5,3.0,150.0,40990
+18882,bmw,M3,2004,Manual,46000,Petrol,10.1,3.2,325.0,19500
+18884,ford,KA,2012,Manual,65000,Petrol,4.08,1.2,30.0,3499
+18897,merc,M Class,2015,Semi-Auto,37484,Diesel,6.0,3.0,300.0,22498
+18899,skoda,Rapid,2018,Manual,16450,Petrol,3.83,1.0,145.0,9895
+18900,hyundi,I800,2018,Automatic,36501,Diesel,8.4,2.5,145.0,17990
+18904,toyota,Hilux,2018,Automatic,12255,Diesel,6.5,2.4,260.0,24995
+18906,skoda,Kamiq,2020,Manual,3942,Petrol,4.74,1.0,145.0,16490
+18907,merc,CLS Class,2013,Automatic,91554,Diesel,5.08,3.0,200.0,12475
+18912,merc,S Class,2019,Semi-Auto,11735,Diesel,4.5,3.0,145.0,44980
+18915,bmw,Z4,2020,Semi-Auto,3100,Petrol,6.08,2.0,145.0,34993
+18916,skoda,Kamiq,2019,Semi-Auto,2856,Petrol,5.33,1.5,145.0,19990
+18917,bmw,X4,2019,Automatic,5505,Diesel,5.5,2.0,145.0,39995
+18918,toyota,Avensis,2015,Semi-Auto,56093,Diesel,5.33,2.2,240.0,7490
+18920,hyundi,Santa Fe,2014,Semi-Auto,49216,Diesel,5.67,2.2,260.0,12891
+18923,audi,RS3,2018,Automatic,24090,Petrol,6.92,2.5,145.0,34491
+18925,audi,RS3,2019,Automatic,10250,Petrol,7.81,2.5,145.0,39000
+18926,audi,S3,2018,Automatic,24500,Petrol,5.41,2.0,150.0,27995
+18927,bmw,M4,2019,Automatic,5000,Petrol,6.92,3.0,145.0,44988
+18928,merc,X-CLASS,2018,Automatic,42000,Diesel,7.49,3.0,260.0,29990
+18930,merc,GL Class,2015,Automatic,27713,Diesel,3.5,2.1,20.0,15799
+18931,ford,Tourneo Connect,2019,Manual,12815,Diesel,4.83,1.5,145.0,17000
+18934,bmw,M3,2019,Semi-Auto,5957,Petrol,7.08,3.0,145.0,62995
+18936,ford,Tourneo Connect,2017,Manual,66305,Diesel,3.66,1.5,145.0,8975
+18938,toyota,GT86,2017,Manual,16444,Petrol,6.5,2.0,265.0,17995
+18941,ford,Galaxy,2017,Manual,15037,Diesel,4.16,2.0,125.0,19998
+18942,merc,V Class,2018,,21431,Diesel,5.08,2.1,145.0,20498
+18950,ford,Galaxy,2009,Manual,75000,Diesel,5.16,2.0,200.0,5275
+18951,merc,S Class,2015,Automatic,12687,Diesel,4.83,3.0,205.0,29029
+18952,bmw,6 Series,2016,Automatic,50475,Diesel,4.74,3.0,200.0,19899
+18953,vw,Arteon,2019,Semi-Auto,4340,Petrol,5.82,1.5,145.0,23990
+18955,skoda,Rapid,2014,Manual,33136,Diesel,3.66,1.6,30.0,5521
+18965,vw,Scirocco,2016,Manual,37433,Petrol,5.08,2.0,145.0,13499
+18968,bmw,X4,2019,Semi-Auto,7974,Diesel,5.5,2.0,150.0,31995
+18969,bmw,7 Series,2019,Semi-Auto,11126,Diesel,3.99,3.0,150.0,38980
+18970,vauxhall,Agila,2015,Manual,60000,Petrol,4.25,1.2,30.0,4695
+18972,merc,V Class,2015,,56617,Diesel,5.25,2.2,235.0,25990
+18975,vauxhall,Antara,2013,Manual,62000,Diesel,5.33,2.2,240.0,6599
+18985,hyundi,IX35,2014,Manual,41778,Diesel,4.41,1.7,150.0,8500
+18989,vw,Tiguan Allspace,2019,Automatic,8512,Diesel,6.08,2.0,145.0,27599
+18993,bmw,M5,2019,Semi-Auto,3545,Petrol,9.76,4.4,145.0,72000
+18996,toyota,Prius,2016,Automatic,21291,Hybrid,2.5,1.8,0.0,18675
+18998,ford,Galaxy,2016,Manual,53164,Diesel,4.16,2.0,125.0,15780
+19003,vw,Scirocco,2015,Manual,47010,Diesel,4.25,2.0,20.0,10999
+19007,ford,Puma,2020,Manual,1211,Petrol,4.74,1.0,145.0,21991
+19009,ford,Grand C-MAX,2016,Manual,28982,Diesel,3.66,1.5,30.0,13990
+19010,merc,GLS Class,2017,Semi-Auto,16650,Diesel,6.32,3.0,300.0,39649
+19011,toyota,GT86,2019,Manual,995,Petrol,7.08,2.0,145.0,23995
+19018,vauxhall,GTC,2017,Automatic,9616,Petrol,5.5,1.4,200.0,10991
+19019,merc,X-CLASS,2019,Automatic,500,Diesel,6.57,2.3,260.0,22995
+19030,audi,A7,2019,Semi-Auto,3130,Diesel,4.83,2.0,145.0,31210
+19036,ford,Mustang,2019,Automatic,2000,Petrol,10.64,5.0,145.0,40495
+19038,merc,GL Class,2017,Automatic,10881,Diesel,4.16,2.1,145.0,26999
+19043,vw,CC,2015,Automatic,70920,Diesel,4.33,2.0,145.0,10000
+19054,ford,Grand C-MAX,2018,Manual,3937,Petrol,4.99,1.0,145.0,14499
+19060,ford,Grand C-MAX,2016,Manual,13967,Diesel,3.66,1.5,30.0,10799
+19062,merc,SLK,2015,Automatic,14125,Petrol,4.91,2.0,145.0,16995
+19065,ford,Tourneo Connect,2016,Automatic,11297,Diesel,4.16,1.5,125.0,13000
+19066,skoda,Rapid,2015,Manual,44157,Petrol,4.08,1.2,30.0,7500
+19072,ford,Galaxy,2013,Manual,99900,Diesel,4.5,1.6,150.0,6470
+19073,vauxhall,Combo Life,2019,Manual,2674,Petrol,5.57,1.2,145.0,14900
+19075,toyota,PROACE VERSO,2019,Automatic,10,Diesel,6.08,2.0,145.0,27998
+19077,audi,Q8,2019,Semi-Auto,9991,Diesel,7.17,3.0,150.0,62950
+19079,hyundi,IX20,2018,Automatic,12914,Petrol,5.41,1.6,145.0,10475
+19087,bmw,M5,2019,Semi-Auto,16529,Petrol,8.74,4.4,145.0,58991
+19091,ford,KA,2014,Manual,49439,Petrol,4.08,1.2,30.0,4999
+19092,hyundi,Santa Fe,2019,Automatic,7921,Diesel,5.5,2.2,145.0,28990
+19094,ford,Grand C-MAX,2016,Manual,31860,Diesel,3.66,1.5,30.0,9999
+19096,bmw,X6,2019,Semi-Auto,101,Diesel,6.74,3.0,145.0,59995
+19100,ford,KA,2013,Manual,40000,Petrol,4.08,1.2,30.0,4800
+19111,merc,CLS Class,2019,,164,Petrol,7.49,2.0,145.0,45799
+19112,hyundi,Santa Fe,2018,Semi-Auto,9176,Diesel,6.0,2.2,145.0,31995
+19116,vw,Amarok,2019,Automatic,12560,Diesel,8.31,3.0,260.0,27499
+19117,hyundi,Santa Fe,2016,Semi-Auto,34670,Diesel,5.5,2.2,235.0,17995
+19131,vauxhall,GTC,2016,Manual,53722,Petrol,4.99,1.4,160.0,5991
+19132,hyundi,IX20,2015,Automatic,20500,Petrol,5.39,1.6,205.0,7895
+19136,hyundi,Santa Fe,2018,Automatic,9648,Diesel,6.0,2.2,145.0,29500
+19150,ford,Puma,2020,Manual,270,Petrol,4.67,1.0,145.0,20775
+19151,hyundi,Santa Fe,2018,Automatic,15157,Diesel,6.0,2.2,145.0,30500
+19152,merc,CLS Class,2019,Automatic,3000,Diesel,5.16,2.0,150.0,37352
+19153,hyundi,IX20,2017,Manual,26987,Petrol,4.67,1.4,125.0,8900
+19157,bmw,X4,2015,Automatic,59975,Diesel,4.91,3.0,200.0,19700
+19163,audi,A8,2018,Semi-Auto,17951,Diesel,4.67,3.0,145.0,35000
+19167,bmw,6 Series,2013,Automatic,57000,Diesel,4.74,3.0,165.0,16600
+19168,skoda,Scala,2019,Manual,2657,Petrol,4.74,1.0,145.0,14995
+19170,merc,CLS Class,2016,Semi-Auto,22878,Diesel,4.74,3.0,160.0,24980
+19171,merc,CLA Class,2016,Manual,21722,Diesel,3.5,2.1,20.0,16450
+19175,toyota,Prius,2015,Automatic,16100,Hybrid,3.66,1.8,10.0,23300
+19177,merc,CLS Class,2014,Semi-Auto,53931,Diesel,5.08,3.0,200.0,16500
+19179,ford,Grand C-MAX,2016,Manual,19548,Diesel,3.66,1.5,30.0,11250
+19180,vw,Caravelle,2019,Automatic,10,Diesel,7.0,2.0,145.0,54995
+19181,merc,GL Class,2016,Semi-Auto,32726,Diesel,6.5,3.0,325.0,34998
+19184,audi,Q8,2019,Automatic,9002,Diesel,7.0,3.0,145.0,53000
+19187,bmw,7 Series,2020,Semi-Auto,3301,Diesel,5.67,3.0,145.0,57980
+19190,ford,KA,2015,Manual,40443,Petrol,4.08,1.2,30.0,4989
+19195,toyota,PROACE VERSO,2019,Manual,6570,Diesel,5.82,2.0,145.0,23950
+19197,toyota,Prius,2009,Automatic,83000,Hybrid,3.25,1.8,0.0,6990
+19199,merc,S Class,2016,Semi-Auto,30135,Diesel,4.91,3.0,200.0,28498
+19204,vw,Arteon,2019,Semi-Auto,4989,Diesel,4.67,2.0,145.0,24995
+19211,audi,SQ5,2016,Automatic,46709,Diesel,5.57,3.0,235.0,28888
+19214,toyota,Hilux,2015,Manual,80069,Diesel,6.08,2.5,260.0,9995
+19215,bmw,X7,2019,Semi-Auto,9121,Diesel,7.49,3.0,145.0,73950
+19217,skoda,Roomster,2009,Manual,97000,Petrol,5.75,1.4,190.0,2495
+19218,vauxhall,Combo Life,2019,Manual,5134,Petrol,5.57,1.2,145.0,14490
+19228,bmw,X7,2019,Semi-Auto,5000,Diesel,7.0,3.0,145.0,68720
+19229,merc,GL Class,2014,Automatic,66010,Diesel,4.25,2.1,145.0,13421
+19232,bmw,7 Series,2016,Automatic,26093,Diesel,4.41,3.0,145.0,26149
+19235,vw,Tiguan Allspace,2019,Automatic,5000,Diesel,6.0,2.0,145.0,29950
+19237,vw,Caddy Maxi Life,2019,Manual,1798,Petrol,5.91,1.0,150.0,18990
+19239,vauxhall,GTC,2015,Manual,34000,Petrol,4.99,1.4,160.0,9434
+19243,toyota,Prius,2016,Automatic,32457,Hybrid,2.5,1.8,0.0,20995
+19244,vw,Arteon,2018,Semi-Auto,4350,Diesel,4.5,2.0,145.0,22785
+19245,ford,Galaxy,2016,Automatic,18517,Diesel,4.5,2.0,145.0,19999
+19249,skoda,Scala,2019,Semi-Auto,3374,Petrol,5.16,1.5,150.0,16250
+19251,bmw,X4,2020,Semi-Auto,2000,Petrol,8.74,3.0,145.0,43995
+19257,audi,RS3,2015,Automatic,48798,Petrol,6.74,2.5,305.0,27995
+19263,merc,V Class,2018,Manual,24164,Diesel,5.08,2.1,145.0,19498
+19264,audi,A7,2015,Semi-Auto,44230,Diesel,4.5,3.0,160.0,20981
+19265,merc,X-CLASS,2018,Automatic,53000,Diesel,6.57,2.3,260.0,21990
+19267,audi,Q8,2019,Automatic,1000,Diesel,7.0,3.0,145.0,54000
+19272,toyota,Hilux,2019,Automatic,23160,Diesel,6.5,2.4,260.0,25998
+19277,toyota,Avensis,2017,Automatic,28000,Petrol,4.99,1.8,145.0,15000
+19285,skoda,Rapid,2018,Manual,11724,Petrol,3.99,1.0,145.0,8690
+19287,hyundi,Santa Fe,2019,Semi-Auto,5473,Diesel,6.0,2.2,145.0,33799
+19288,toyota,Verso,2009,Manual,131797,Diesel,4.58,2.0,160.0,2300
+19290,bmw,X6,2016,Semi-Auto,39026,Diesel,4.99,3.0,205.0,31995
+19291,vw,Scirocco,2016,Manual,21641,Diesel,4.25,2.0,20.0,13480
+19292,vauxhall,Combo Life,2019,Manual,3250,Diesel,4.41,1.5,145.0,19991
+19293,ford,KA,2017,Manual,16744,Petrol,4.08,1.2,30.0,8100
+19297,vw,CC,2015,Manual,24571,Diesel,3.91,2.0,30.0,10950
+19300,hyundi,Santa Fe,2017,Manual,28845,Diesel,4.99,2.2,200.0,19995
+19301,bmw,6 Series,2013,Automatic,43186,Diesel,4.74,3.0,160.0,17512
+19306,vw,California,2019,Automatic,7750,Diesel,7.33,2.0,260.0,52991
+19308,toyota,Prius,2017,Automatic,17689,Hybrid,2.5,1.8,135.0,20610
+19309,vw,Arteon,2017,Automatic,16283,Petrol,4.99,2.0,145.0,19990
+19314,skoda,Scala,2020,Semi-Auto,4112,Petrol,5.16,1.5,145.0,17650
+19315,skoda,Yeti,2013,Manual,58077,Diesel,5.08,2.0,200.0,6995
+19317,ford,Grand C-MAX,2016,Manual,22120,Petrol,4.33,1.0,30.0,9995
+19318,ford,Tourneo Connect,2019,Automatic,5659,Diesel,5.33,1.5,145.0,18500
+19319,merc,S Class,2019,Semi-Auto,1400,Petrol,6.92,4.0,145.0,89999
+19322,bmw,X4,2016,Semi-Auto,28480,Diesel,4.99,3.0,200.0,25041
+19327,ford,Edge,2017,Manual,19775,Diesel,4.83,2.0,165.0,18490
+19328,skoda,Kamiq,2019,Manual,4177,Petrol,4.99,1.0,145.0,19295
+19330,ford,Grand C-MAX,2016,Semi-Auto,24335,Diesel,3.99,1.5,30.0,10495
+19332,audi,S3,2017,Manual,12500,Petrol,5.91,2.0,145.0,23990
+19333,vw,Scirocco,2018,Semi-Auto,11100,Diesel,3.75,2.0,150.0,20971
+19335,bmw,M4,2020,Semi-Auto,40,Petrol,6.92,3.0,145.0,43000
+19336,merc,CLS Class,2019,Semi-Auto,4001,Diesel,4.91,2.9,145.0,40998
+19338,vw,CC,2016,Semi-Auto,55000,Diesel,4.16,2.0,125.0,11965
+19341,toyota,Verso,2017,Manual,20891,Petrol,,1.6,200.0,11400
+19343,vw,Caravelle,2019,Automatic,6596,Diesel,7.17,2.0,145.0,39994
+19348,skoda,Kamiq,2019,Manual,5500,Petrol,4.91,1.0,145.0,19820
+19351,ford,Grand C-MAX,2017,Manual,12538,Diesel,3.66,1.5,30.0,11000
+19354,toyota,Prius,2017,Automatic,33875,Hybrid,2.5,1.8,0.0,18995
+19355,vw,Shuttle,2019,Semi-Auto,5000,Diesel,7.17,2.0,150.0,32950
+19357,vw,Arteon,2018,Semi-Auto,5952,Petrol,4.83,1.5,145.0,21998
+19358,hyundi,I800,2019,Manual,16464,Diesel,7.42,2.5,150.0,18440
+19360,hyundi,I40,2016,Semi-Auto,26876,Diesel,4.16,1.7,125.0,10695
+19362,merc,CLS Class,2018,Automatic,6710,Diesel,4.83,2.9,145.0,33740
+19365,bmw,X6,2015,Semi-Auto,22032,Petrol,9.26,4.4,570.0,36950
+19366,ford,Grand C-MAX,2017,Manual,11286,Petrol,4.33,1.0,30.0,13500
+19367,ford,Mustang,2020,Semi-Auto,672,Petrol,7.66,2.3,145.0,36500
+19368,skoda,Yeti,2016,Semi-Auto,30367,Petrol,4.58,1.2,125.0,12370
+19370,bmw,6 Series,2013,Automatic,36049,Diesel,4.74,3.0,160.0,16200
+19373,toyota,Avensis,2017,Manual,32819,Diesel,3.5,1.6,20.0,10499
+19376,toyota,Prius,2014,Automatic,47666,Hybrid,3.33,1.8,0.0,11750
+19377,skoda,Scala,2019,Semi-Auto,52,Petrol,5.16,1.5,145.0,20912
+19386,ford,Mustang,2019,Automatic,5000,Petrol,10.41,5.0,145.0,39998
+19387,toyota,Avensis,2016,Manual,86021,Diesel,3.5,1.6,20.0,7395
+19389,merc,CLS Class,2019,Semi-Auto,9400,Diesel,4.83,2.9,145.0,34900
+19397,toyota,Prius,2017,Automatic,11500,Hybrid,2.75,1.8,135.0,20995
+19398,ford,Edge,2018,Automatic,23703,Diesel,4.91,2.0,145.0,23795
+19401,merc,GL Class,2018,Manual,24600,Petrol,4.83,1.6,145.0,17999
+19402,merc,V Class,2017,Automatic,16000,Diesel,5.25,2.1,145.0,31980
+19405,audi,A7,2011,Automatic,63119,Diesel,4.41,3.0,145.0,11440
+19408,hyundi,IX20,2015,Manual,34123,Petrol,4.67,1.4,125.0,7498
+19410,bmw,7 Series,2012,Automatic,41000,Diesel,5.67,3.0,260.0,12495
+19411,merc,M Class,2015,Automatic,32245,Diesel,5.08,2.1,205.0,19900
+19412,ford,Grand Tourneo Connect,2019,Manual,15244,Diesel,3.83,1.5,145.0,16000
+19414,merc,GLS Class,2016,Automatic,25306,Diesel,6.32,3.0,305.0,35390
+19416,bmw,Z4,2020,Semi-Auto,1142,Petrol,7.08,3.0,145.0,50800
+19420,merc,GL Class,2017,Automatic,20117,Diesel,3.66,2.1,145.0,19299
+19422,ford,KA,2015,Manual,32711,Petrol,4.08,1.2,30.0,4960
+19423,audi,R8,2019,Semi-Auto,500,Petrol,10.99,5.2,145.0,125000
+19427,audi,Q8,2019,Automatic,3011,Diesel,7.17,3.0,145.0,77888
+19429,vw,Scirocco,2014,Manual,38248,Diesel,3.75,2.0,30.0,11242
+19430,merc,S Class,2017,Automatic,40952,Diesel,4.67,3.0,160.0,29890
+19431,skoda,Kamiq,2019,Automatic,2074,Petrol,5.41,1.5,145.0,21999
+19435,skoda,Kamiq,2020,Manual,1000,Petrol,5.08,1.5,145.0,20991
+19440,bmw,i8,2019,Automatic,2277,Hybrid,1.67,1.5,140.0,64750
+19441,merc,CLS Class,2013,Automatic,69300,Diesel,4.33,2.1,150.0,11900
+19444,merc,X-CLASS,2019,Automatic,8974,Diesel,6.57,2.3,260.0,24991
+19446,merc,S Class,2016,Automatic,49397,Diesel,4.91,3.0,205.0,26059
+19450,audi,RS6,2020,Semi-Auto,3220,Petrol,10.64,4.0,150.0,97500
+19453,vw,Caddy Life,2013,Semi-Auto,27000,Diesel,4.74,1.6,165.0,11495
+19455,vw,Shuttle,2019,Automatic,12123,Diesel,7.17,2.0,145.0,26888
+19456,vw,CC,2013,Automatic,70757,Diesel,4.41,2.0,145.0,8847
+19460,bmw,7 Series,2019,Semi-Auto,7970,Diesel,5.25,3.0,145.0,49000
+19466,merc,SLK,2013,Semi-Auto,66282,Diesel,4.16,2.0,145.0,10698
+19471,vw,Arteon,2019,Semi-Auto,3311,Petrol,7.17,2.0,145.0,31214
+19472,vw,CC,2016,Manual,25500,Diesel,3.75,2.0,30.0,13995
+19475,merc,V Class,2016,Semi-Auto,32494,Diesel,5.16,2.2,200.0,26490
+19486,vw,Amarok,2019,Automatic,6000,Diesel,8.31,3.0,260.0,36995
+19487,toyota,Verso,2016,Manual,9000,Petrol,5.67,1.6,200.0,11495
+19490,merc,S Class,2005,Automatic,39000,Diesel,6.41,3.2,315.0,7995
+19491,merc,SLK,2004,Automatic,46000,Petrol,8.4,3.5,330.0,4890
+19493,merc,GL Class,2018,Automatic,17231,Petrol,4.67,1.6,145.0,19699
+19497,bmw,X4,2016,Automatic,20737,Diesel,4.33,2.0,145.0,21900
+19499,vw,Arteon,2019,Semi-Auto,3797,Diesel,5.33,2.0,145.0,27550
+19500,vauxhall,GTC,2016,Manual,20810,Diesel,3.58,1.6,30.0,10230
+19501,audi,A8,2017,Semi-Auto,32066,Petrol,7.81,4.0,145.0,35850
+19503,merc,S Class,2016,Automatic,19000,Petrol,7.08,4.7,305.0,42490
+19505,audi,A7,2019,Automatic,5000,Diesel,6.16,3.0,145.0,39990
+19506,hyundi,Santa Fe,2019,Semi-Auto,7130,Diesel,6.0,2.2,145.0,33992
+19509,hyundi,I800,2018,Automatic,31917,Diesel,7.0,2.5,145.0,15795
+19510,bmw,X6,2018,Semi-Auto,17500,Diesel,5.75,3.0,145.0,36555
+19512,skoda,Rapid,2016,Manual,10714,Petrol,4.08,1.2,30.0,8650
+19515,bmw,7 Series,2019,Automatic,8652,Diesel,5.67,3.0,145.0,53950
+19519,bmw,6 Series,2019,Automatic,9205,Diesel,5.33,2.0,145.0,32750
+19521,bmw,Z4,2015,Manual,18089,Petrol,5.67,2.0,205.0,17990
+19522,merc,S Class,2015,Semi-Auto,17168,Diesel,4.83,3.0,200.0,27998
+19533,toyota,GT86,2017,Semi-Auto,13930,Petrol,5.91,2.0,150.0,18495
+19536,audi,Q8,2018,Semi-Auto,1964,Diesel,7.0,3.0,145.0,51250
+19537,toyota,Prius,2017,Automatic,58458,Hybrid,2.5,1.8,135.0,14800
+19539,audi,SQ5,2013,Automatic,95012,Diesel,5.67,3.0,260.0,17940
+19549,merc,S Class,2014,Automatic,18273,Diesel,4.83,3.0,200.0,24491
+19551,vauxhall,Combo Life,2019,Manual,7604,Diesel,4.41,1.5,150.0,11698
+19553,ford,Edge,2017,Semi-Auto,15600,Diesel,4.83,2.0,160.0,21999
+19555,bmw,X6,2020,Semi-Auto,5000,Diesel,6.74,3.0,145.0,55995
+19557,bmw,Z4,2019,Semi-Auto,5340,Petrol,6.16,2.0,145.0,28450
+19558,toyota,Land Cruiser,2015,Semi-Auto,75000,Diesel,6.74,3.0,330.0,24995
+19559,bmw,M4,2017,Semi-Auto,32329,Petrol,6.92,3.0,145.0,34890
+19560,ford,Tourneo Connect,2017,Manual,21491,Diesel,3.66,1.5,145.0,14000
+19562,ford,Galaxy,2018,Semi-Auto,31458,Diesel,4.5,2.0,145.0,18160
+19563,hyundi,IX35,2015,Manual,47300,Diesel,4.41,1.7,145.0,7950
+19568,skoda,Yeti,2015,Manual,51029,Diesel,4.25,2.0,145.0,9950
+19572,vw,Arteon,2019,Automatic,2400,Diesel,4.67,2.0,145.0,26900
+19579,merc,GL Class,2007,Automatic,74000,Diesel,8.17,3.0,570.0,8490
+19582,skoda,Roomster,2007,Automatic,99700,Petrol,5.91,1.6,230.0,2995
+19584,skoda,Kamiq,2019,Semi-Auto,2090,Petrol,5.33,1.5,150.0,19995
+19586,ford,Puma,2020,Manual,910,Petrol,4.67,1.0,145.0,20991
+19589,vw,CC,2016,Semi-Auto,22080,Diesel,3.99,2.0,125.0,15450
+19595,vw,CC,2014,Manual,56241,Diesel,3.91,2.0,30.0,9450
+19597,skoda,Scala,2020,Semi-Auto,5000,Petrol,4.99,1.0,145.0,19900
+19598,merc,GLS Class,2016,Automatic,27844,Diesel,6.32,3.0,305.0,35168
+19603,vauxhall,Zafira Tourer,2014,Manual,44930,Diesel,4.41,2.0,145.0,7995
+19606,toyota,Hilux,2019,Automatic,4,Diesel,84.01,2.4,265.0,26995
+19607,audi,Q8,2018,Semi-Auto,8450,Diesel,7.17,3.0,145.0,63985
+19611,audi,A7,2018,Semi-Auto,10500,Diesel,6.16,3.0,150.0,34950
+19613,merc,GL Class,2015,Automatic,42332,Petrol,6.24,2.0,235.0,22806
+19615,merc,S Class,2016,Automatic,33650,Diesel,4.91,3.0,200.0,34995
+19616,ford,Galaxy,2017,Manual,40206,Diesel,4.16,2.0,125.0,19200
+19618,audi,A7,2015,Semi-Auto,21100,Petrol,7.92,4.0,325.0,28990
+19620,merc,CLS Class,2015,Automatic,60972,Diesel,4.5,3.0,160.0,17450
+19626,ford,Puma,2020,Manual,4111,Petrol,4.67,1.0,145.0,21995
+19630,merc,CLA Class,2016,Automatic,25726,Petrol,5.67,2.0,200.0,18700
+19631,vauxhall,Antara,2007,Automatic,99500,Diesel,7.17,2.0,565.0,2999
